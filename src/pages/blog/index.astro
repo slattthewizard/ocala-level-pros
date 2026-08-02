@@ -1,0 +1,119 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+
+const collectionPosts = await getCollection('blog');
+const posts = collectionPosts
+  .map(post => ({
+    slug: post.slug,
+    title: post.data.title,
+    desc: post.data.metaDescription,
+    date: post.data.publishedDate,
+    tag: post.data.tag,
+  }))
+  .sort((a, b) => b.date.localeCompare(a.date));
+---
+
+<Layout
+  title="Mobile Home Care Blog | Ocala Level Pros"
+  description="Practical advice on mobile home leveling, tie-downs, vapor barriers, and skirting for homeowners in Ocala & Marion County."
+  canonical="https://ocalalevelpros.com/blog/"
+>
+<style>
+  .blog-hero {
+    background: linear-gradient(135deg, #175445 0%, #1F6D5A 60%, #2A8570 100%);
+    padding: 72px 24px 56px;
+    text-align: center;
+    color: #F5F0E4;
+  }
+  .blog-hero h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: clamp(2rem, 5vw, 3rem);
+    font-weight: 700;
+    margin: 0 0 12px;
+    letter-spacing: -0.02em;
+    color: #F5F0E4;
+  }
+  .blog-hero p {
+    font-size: 1.05rem;
+    opacity: 0.85;
+    margin: 0 auto;
+    max-width: 520px;
+    line-height: 1.6;
+  }
+  .blog-grid {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 56px 24px 80px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 28px;
+  }
+  .blog-card {
+    display: flex;
+    flex-direction: column;
+    background: #fff;
+    border-radius: 12px;
+    border: 1px solid #E4DCC8;
+    padding: 28px 24px;
+    text-decoration: none;
+    color: inherit;
+    box-shadow: 0 2px 8px rgba(22,51,44,0.06), 0 1px 2px rgba(0,0,0,0.04);
+    transition: box-shadow 0.2s, transform 0.2s;
+  }
+  .blog-card:hover {
+    box-shadow: 0 8px 28px rgba(22,51,44,0.14), 0 2px 6px rgba(0,0,0,0.06);
+    transform: translateY(-3px);
+  }
+  .blog-card:focus-visible { outline: 2px solid #1F6D5A; outline-offset: 3px; }
+  .blog-card .tag {
+    font-size: 11px; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase;
+    color: #E07B1F; margin-bottom: 10px;
+  }
+  .blog-card h2 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: #1F6D5A;
+    margin: 0 0 10px;
+    line-height: 1.35;
+  }
+  .blog-card p {
+    font-size: 0.9rem;
+    color: #555;
+    line-height: 1.65;
+    margin: 0 0 20px;
+    flex: 1;
+  }
+  .blog-card .read-more {
+    font-size: 13px; font-weight: 600; color: #1F6D5A;
+    letter-spacing: 0.04em; text-transform: uppercase;
+  }
+</style>
+
+<Fragment slot="head">
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Mobile Home Leveling & Anchoring Help for Ocala & Marion County",
+    "description": "Practical advice on leveling, tie-downs, vapor barriers, and skirting for Ocala & Marion County homeowners.",
+    "url": "https://ocalalevelpros.com/blog/"
+  })} />
+</Fragment>
+
+<section class="blog-hero">
+  <h1>Mobile Home Leveling &amp; Anchoring Help for Ocala & Marion County</h1>
+  <p>Practical advice on leveling, tie-downs, vapor barriers, and skirting from the Ocala Level Pros crew.</p>
+</section>
+
+<div class="blog-grid">
+  {posts.map(post => (
+    <a href={`/blog/${post.slug}/`} class="blog-card">
+      {post.tag && <span class="tag">{post.tag}</span>}
+      <h2>{post.title}</h2>
+      <p>{post.desc}</p>
+      <span class="read-more">Read Article →</span>
+    </a>
+  ))}
+</div>
+</Layout>

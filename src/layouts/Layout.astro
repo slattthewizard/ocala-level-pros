@@ -1,0 +1,549 @@
+---
+export interface Props {
+  title: string;
+  description: string;
+  canonical: string;
+  ogTitle?: string;
+  ogDescription?: string;
+  ogImage?: string;
+}
+
+const {
+  title,
+  description,
+  canonical,
+  ogTitle,
+  ogDescription,
+  ogImage = 'https://ocalalevelpros.com/images/og-image.webp',
+} = Astro.props;
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <title>{title}</title>
+  <meta name="description" content={description} />
+  <link rel="canonical" href={canonical} />
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content={ogTitle ?? title} />
+  <meta property="og:description" content={ogDescription ?? description} />
+  <meta property="og:url" content={canonical} />
+  <meta property="og:site_name" content="Ocala Level Pros" />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:image" content={ogImage} />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content={ogTitle ?? title} />
+  <meta name="twitter:description" content={ogDescription ?? description} />
+  <meta name="twitter:image" content={ogImage} />
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preload" href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700;800&family=Inter:wght@400;500;600&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700;800&family=Inter:wght@400;500;600&display=swap"></noscript>
+
+  <!-- Shared base styles -->
+  <style is:global>
+    :root {
+      --deep: #16332C;       /* footer / dark blue */
+      --primary: #1F6D5A;    /* brand blue */
+      --primary-dark: #175445;
+      --green: #E07B1F;      /* CTA green */
+      --green-dark: #C4690F;
+      --sky: #F5F0E4;        /* tinted section background */
+      --ink: #2D3A35;        /* body text */
+      --muted: #5F6E67;
+    }
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body { font-family: 'Inter', 'Segoe UI', Arial, sans-serif; color: #2D3A35; background: #fff; margin: 0; }
+    h1, h2, h3, h4 { font-family: 'Poppins', 'Segoe UI', Arial, sans-serif; }
+
+    /* Nav */
+    .nav-link {
+      font-weight: 600; font-size: 14px; color: #2D3A35; text-decoration: none;
+      padding: 8px 2px; transition: color 0.2s; border-bottom: 2px solid transparent;
+    }
+    .nav-link:hover { color: #1F6D5A; border-bottom-color: #1F6D5A; }
+    .nav-link:focus-visible { outline: 2px solid #1F6D5A; outline-offset: 4px; border-radius: 2px; }
+
+    /* Dropdowns */
+    .dropdown-open .svc-dropdown { opacity:1 !important; visibility:visible !important; transform:translateY(0) !important; }
+    .dropdown-open svg { transform: rotate(180deg); }
+    .areas-open .areas-dropdown { opacity:1 !important; visibility:visible !important; transform:translateY(0) !important; }
+    .areas-open svg { transform: rotate(180deg); }
+    .dropdown-link { display: flex; align-items: center; padding: 11px 18px; min-height: 44px; font-size: 14px; font-weight: 500; color: #2D3A35; text-decoration: none; transition: background-color 0.2s, color 0.2s; outline: none; }
+    .dropdown-link:hover { background-color: #F5F0E4; color: #1F6D5A; }
+    .dropdown-link:focus-visible { background-color: #F5F0E4; color: #1F6D5A; box-shadow: inset 2px 0 0 0 #1F6D5A; }
+    .dropdown-link:active { opacity: 0.7; }
+
+    /* Pill buttons */
+    .btn-green {
+      display: inline-flex; align-items: center; justify-content: center; gap: 8px;
+      background: #E07B1F; color: #fff; font-family: 'Poppins', sans-serif;
+      font-weight: 800; font-size: 14px; letter-spacing: 0.02em;
+      padding: 14px 32px; border: none; border-radius: 999px; cursor: pointer; text-decoration: none;
+      transition: background 0.2s, transform 0.15s, box-shadow 0.2s;
+      box-shadow: 0 6px 18px rgba(224,123,31,0.35);
+    }
+    .btn-green:hover { background: #C4690F; transform: translateY(-1px); box-shadow: 0 8px 24px rgba(224,123,31,0.45); }
+    .btn-green:active { transform: translateY(0); }
+    .btn-green:focus-visible { outline: 3px solid #F5D3AC; outline-offset: 2px; }
+
+    .btn-blue {
+      display: inline-flex; align-items: center; justify-content: center; gap: 8px;
+      background: #1F6D5A; color: #fff; font-family: 'Poppins', sans-serif;
+      font-weight: 800; font-size: 14px; letter-spacing: 0.02em;
+      padding: 14px 32px; border: none; border-radius: 999px; cursor: pointer; text-decoration: none;
+      transition: background 0.2s, transform 0.15s, box-shadow 0.2s;
+      box-shadow: 0 6px 18px rgba(31,109,90,0.3);
+    }
+    .btn-blue:hover { background: #175445; transform: translateY(-1px); }
+    .btn-blue:active { transform: translateY(0); }
+    .btn-blue:focus-visible { outline: 3px solid #D9E8E2; outline-offset: 2px; }
+
+    .btn-white-outline {
+      display: inline-flex; align-items: center; justify-content: center; gap: 8px;
+      background: rgba(255,255,255,0.12); color: #fff; font-family: 'Poppins', sans-serif;
+      font-weight: 700; font-size: 14px; padding: 13px 30px;
+      border: 2px solid rgba(255,255,255,0.8); border-radius: 999px; cursor: pointer; text-decoration: none;
+      transition: background 0.2s, transform 0.15s; backdrop-filter: blur(2px);
+    }
+    .btn-white-outline:hover { background: rgba(255,255,255,0.22); transform: translateY(-1px); }
+    .btn-white-outline:active { transform: translateY(0); }
+    .btn-white-outline:focus-visible { outline: 3px solid #D9E8E2; outline-offset: 2px; }
+    /* alias: inner pages use the reversed class name */
+    .btn-outline-white {
+      display: inline-flex; align-items: center; justify-content: center; gap: 8px;
+      background: rgba(255,255,255,0.12); color: #fff; font-family: 'Poppins', sans-serif;
+      font-weight: 700; font-size: 14px; padding: 13px 30px;
+      border: 2px solid rgba(255,255,255,0.8); border-radius: 999px; cursor: pointer; text-decoration: none;
+      transition: background 0.2s, transform 0.15s; backdrop-filter: blur(2px);
+    }
+    .btn-outline-white:hover { background: rgba(255,255,255,0.22); transform: translateY(-1px); }
+    .btn-outline-white:focus-visible { outline: 3px solid #D9E8E2; outline-offset: 2px; }
+
+    /* Curved divider under heroes */
+    .swoosh { display: block; width: 100%; height: 70px; margin-top: -1px; }
+
+    /* Legacy class mapping (inner pages) onto the pill design system */
+    .btn-primary {
+      display: inline-flex; align-items: center; justify-content: center; gap: 8px;
+      background: #1F6D5A; color: #fff; font-family: 'Poppins', sans-serif;
+      font-weight: 800; font-size: 14px; padding: 14px 32px; border: none;
+      border-radius: 999px; cursor: pointer; text-decoration: none;
+      transition: background 0.2s, transform 0.15s; box-shadow: 0 6px 18px rgba(31,109,90,0.3);
+    }
+    .btn-primary:hover { background: #175445; transform: translateY(-1px); }
+    .btn-copper, .btn-bark {
+      display: inline-flex; align-items: center; justify-content: center; gap: 8px;
+      background: #E07B1F; color: #fff; font-family: 'Poppins', sans-serif;
+      font-weight: 800; font-size: 14px; padding: 14px 32px; border: none;
+      border-radius: 999px; cursor: pointer; text-decoration: none;
+      transition: background 0.2s, transform 0.15s; box-shadow: 0 6px 18px rgba(224,123,31,0.35);
+    }
+    .btn-copper:hover, .btn-bark:hover { background: #C4690F; transform: translateY(-1px); }
+    .btn-cream {
+      display: inline-flex; align-items: center; justify-content: center; gap: 8px;
+      background: #fff; color: #16332C; font-family: 'Poppins', sans-serif;
+      font-weight: 800; font-size: 14px; padding: 14px 32px; border: none;
+      border-radius: 999px; cursor: pointer; text-decoration: none;
+      transition: transform 0.15s, box-shadow 0.2s; box-shadow: 0 6px 18px rgba(0,0,0,0.18);
+    }
+    .btn-cream:hover { transform: translateY(-1px); box-shadow: 0 10px 26px rgba(0,0,0,0.24); }
+    .section-tag {
+      display: inline-block; font-family: 'Poppins', sans-serif; font-size: 12px; font-weight: 800;
+      letter-spacing: 0.16em; text-transform: uppercase; color: #E07B1F; margin-bottom: 10px;
+    }
+
+    /* Section helpers */
+    .kicker {
+      display: inline-block; font-family: 'Poppins', sans-serif; font-size: 12px; font-weight: 800;
+      letter-spacing: 0.16em; text-transform: uppercase; color: #E07B1F; margin-bottom: 10px;
+    }
+    .section-heading {
+      font-family: 'Poppins', sans-serif; font-weight: 700; color: #16332C;
+      line-height: 1.2; letter-spacing: 0.06em; text-transform: uppercase;
+    }
+
+    /* Footer */
+    .footer-link {
+      font-size: 14px; color: rgba(255,255,255,0.72); text-decoration: none;
+      transition: color 0.2s; outline: none; display: inline-block;
+    }
+    .footer-link:hover { color: #fff; }
+    .footer-link:focus-visible { outline: 2px solid #F0A860; outline-offset: 2px; border-radius: 2px; color: #fff; }
+
+    /* Mobile nav */
+    #mobile-menu { display: none; }
+    #mobile-menu.open { display: block; }
+    .desktop-nav { display: none; }
+    .menu-btn { display: inline-flex; }
+    @media (min-width: 960px) {
+      .desktop-nav { display: flex; }
+      .menu-btn { display: none; }
+      .desktop-cta { display: inline-flex !important; }
+    }
+
+    ::-webkit-scrollbar { width: 6px; }
+    ::-webkit-scrollbar-track { background: #F5F0E4; }
+    ::-webkit-scrollbar-thumb { background: #1F6D5A; border-radius: 3px; }
+  </style>
+
+  <!-- Page-specific head content (schema, extra styles) -->
+  <slot name="head" />
+
+  <script>document.addEventListener('click',function(e){document.querySelectorAll('.dropdown-open').forEach(function(d){if(!d.contains(e.target))d.classList.remove('dropdown-open')});document.querySelectorAll('.areas-open').forEach(function(d){if(!d.contains(e.target))d.classList.remove('areas-open')})});</script>
+</head>
+<body>
+
+<!-- ANNOUNCEMENT STRIP -->
+<div style="background:#E07B1F;padding:7px 24px;">
+  <div style="max-width:1220px;margin:0 auto;display:flex;align-items:center;justify-content:center;gap:28px;flex-wrap:wrap;">
+    <span style="color:#fff;font-size:12.5px;font-weight:700;display:flex;align-items:center;gap:6px;">
+      <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+      Insurance Tie-Down Certifications — Fast Turnaround
+    </span>
+    <span style="color:rgba(255,255,255,0.92);font-size:12.5px;font-weight:600;" class="strip-extra">Serving Ocala &amp; Marion County</span>
+    <a href="tel:+13522473105" style="color:#fff;font-size:12.5px;font-weight:800;text-decoration:none;display:flex;align-items:center;gap:6px;">
+      <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07A19.5 19.5 0 0 1 4.5 12 19.79 19.79 0 0 1 1.1 3.18a2 2 0 0 1 2-2.18h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L7.91 8.27a16 16 0 0 0 7.82 7.82l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+      (352) 247-3105
+    </a>
+  </div>
+</div>
+<style>
+  @media (max-width: 640px) { .strip-extra { display: none; } }
+</style>
+
+<!-- STICKY NAV -->
+<header style="position:sticky;top:0;z-index:100;background:#fff;box-shadow:0 2px 14px rgba(22,51,44,0.1);">
+  <div style="max-width:1220px;margin:0 auto;padding:0 24px;display:flex;align-items:center;justify-content:space-between;height:76px;">
+    <!-- Logo -->
+    <a href="/" style="display:flex;align-items:center;gap:10px;text-decoration:none;" aria-label="Ocala Level Pros home">
+      <svg width="40" height="40" viewBox="0 0 36 36" fill="none" aria-hidden="true">
+        <circle cx="18" cy="18" r="17" fill="#1F6D5A"/>
+        <text x="18" y="24" text-anchor="middle" font-family="Poppins, sans-serif" font-size="17" font-weight="800" fill="#fff">O</text>
+      </svg>
+      <span style="display:flex;flex-direction:column;line-height:1.05;">
+        <span style="font-family:'Poppins',sans-serif;font-weight:800;font-size:20px;color:#16332C;letter-spacing:-0.01em;">Ocala Level Pros</span>
+        <span style="font-size:10px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#E07B1F;">Mobile Home Leveling &amp; Anchoring</span>
+      </span>
+    </a>
+
+    <!-- Desktop Nav -->
+    <nav class="desktop-nav" style="align-items:center;gap:26px;">
+      <div style="position:relative;">
+        <button onclick="this.parentElement.classList.toggle('dropdown-open')" class="nav-link" style="background:none;border:none;cursor:pointer;font-family:'Inter',sans-serif;display:flex;align-items:center;gap:5px;min-height:44px;">
+          Services
+          <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="transition:transform 0.2s;"><polyline points="6 9 12 15 18 9"/></svg>
+        </button>
+        <div class="svc-dropdown" style="position:absolute;top:calc(100% + 6px);left:0;min-width:260px;background:#fff;border-radius:14px;box-shadow:0 8px 30px rgba(22,51,44,0.16);padding:8px 0;opacity:0;visibility:hidden;transform:translateY(-8px);transition:opacity 0.2s,transform 0.2s,visibility 0.2s;z-index:100;overflow:hidden;">
+          <a href="/mobile-home-leveling-ocala/" class="dropdown-link">Mobile Home Leveling</a>
+          <a href="/mobile-home-tie-downs-ocala/" class="dropdown-link">Tie-Downs, Anchors & Certifications</a>
+          <a href="/vapor-barrier-ocala/" class="dropdown-link">Vapor Barrier & Underbelly Repair</a>
+          <a href="/mobile-home-skirting-ocala/" class="dropdown-link">Skirting Installation & Repair</a>
+        </div>
+      </div>
+      <div style="position:relative;">
+        <button onclick="this.parentElement.classList.toggle('areas-open')" class="nav-link" style="background:none;border:none;cursor:pointer;font-family:'Inter',sans-serif;display:flex;align-items:center;gap:5px;min-height:44px;">
+          Service Areas
+          <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="transition:transform 0.2s;"><polyline points="6 9 12 15 18 9"/></svg>
+        </button>
+        <div class="areas-dropdown" style="position:absolute;top:calc(100% + 6px);left:0;min-width:230px;background:#fff;border-radius:14px;box-shadow:0 8px 30px rgba(22,51,44,0.16);padding:8px 0;opacity:0;visibility:hidden;transform:translateY(-8px);transition:opacity 0.2s,transform 0.2s,visibility 0.2s;z-index:100;overflow:hidden;">
+          <a href="/mobile-home-leveling-silver-springs/" class="dropdown-link">Silver Springs</a>
+          <a href="/mobile-home-leveling-belleview/" class="dropdown-link">Belleview</a>
+          <a href="/mobile-home-leveling-summerfield/" class="dropdown-link">Summerfield</a>
+          <a href="/mobile-home-leveling-dunnellon/" class="dropdown-link">Dunnellon</a>
+          <a href="/mobile-home-leveling-lady-lake/" class="dropdown-link">Lady Lake</a>
+          <a href="/mobile-home-leveling-citra/" class="dropdown-link">Citra</a>
+        </div>
+      </div>
+      <a href="/mobile-home-leveling-cost/" class="nav-link">Cost Guide</a>
+      <a href="/about/" class="nav-link">About</a>
+      <a href="/blog/" class="nav-link">Blog</a>
+    </nav>
+
+    <!-- CTA -->
+    <div class="desktop-cta" style="display:none;align-items:center;gap:12px;">
+      <a href="/#contact" class="btn-green" style="padding:12px 26px;font-size:13.5px;">Get a Free Quote</a>
+    </div>
+
+    <!-- Mobile hamburger -->
+    <button class="menu-btn" onclick="document.getElementById('mobile-menu').classList.toggle('open')" aria-label="Toggle menu" style="background:none;border:none;cursor:pointer;padding:12px;min-width:44px;min-height:44px;color:#16332C;">
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+    </button>
+  </div>
+
+  <!-- Mobile Nav -->
+  <div id="mobile-menu" style="border-top:1px solid #E7E0D2;background:#fff;">
+    <nav style="display:flex;flex-direction:column;padding:16px 24px;gap:14px;">
+      <a href="/mobile-home-leveling-ocala/" class="nav-link" onclick="document.getElementById('mobile-menu').classList.remove('open')">Mobile Home Leveling</a>
+      <a href="/mobile-home-tie-downs-ocala/" class="nav-link" onclick="document.getElementById('mobile-menu').classList.remove('open')">Tie-Downs, Anchors & Certifications</a>
+      <a href="/vapor-barrier-ocala/" class="nav-link" onclick="document.getElementById('mobile-menu').classList.remove('open')">Vapor Barrier & Underbelly Repair</a>
+      <a href="/mobile-home-skirting-ocala/" class="nav-link" onclick="document.getElementById('mobile-menu').classList.remove('open')">Skirting Installation & Repair</a>
+      <a href="/mobile-home-leveling-cost/" class="nav-link" onclick="document.getElementById('mobile-menu').classList.remove('open')">Cost Guide</a>
+      <a href="/about/" class="nav-link" onclick="document.getElementById('mobile-menu').classList.remove('open')">About</a>
+      <a href="/blog/" class="nav-link" onclick="document.getElementById('mobile-menu').classList.remove('open')">Blog</a>
+      <a href="/#contact" class="btn-green" style="width:fit-content;font-size:13px;padding:11px 24px;" onclick="document.getElementById('mobile-menu').classList.remove('open')">Request Service</a>
+    </nav>
+  </div>
+</header>
+
+<!-- PAGE CONTENT -->
+<slot />
+
+<!-- FOOTER -->
+<footer style="background:#16332C;color:rgba(255,255,255,0.78);padding:0;">
+  <!-- Footer CTA band -->
+  <div style="background:#1F6D5A;padding:36px 24px;">
+    <div style="max-width:1220px;margin:0 auto;display:flex;align-items:center;justify-content:space-between;gap:20px;flex-wrap:wrap;">
+      <div>
+        <p style="font-family:'Poppins',sans-serif;font-size:22px;font-weight:800;color:#fff;margin:0 0 4px;">Home out of level? We pick up the phone.</p>
+        <p style="font-size:14px;color:rgba(255,255,255,0.85);margin:0;">Free written estimates across Ocala &amp; Marion County.</p>
+      </div>
+      <div style="display:flex;gap:14px;flex-wrap:wrap;">
+        <a href="tel:+13522473105" class="btn-white-outline">Call (352) 247-3105</a>
+        <a href="/#contact" class="btn-green">Request Service</a>
+      </div>
+    </div>
+  </div>
+
+  <div style="max-width:1220px;margin:0 auto;padding:56px 24px 0;">
+    <div class="footer-grid" style="display:grid;grid-template-columns:2fr 1fr 1fr 1.5fr;gap:48px;padding-bottom:44px;border-bottom:1px solid rgba(255,255,255,0.12);">
+      <!-- Brand -->
+      <div>
+        <p style="font-family:'Poppins',sans-serif;font-size:20px;font-weight:800;color:#fff;margin:0 0 12px;">Ocala Level Pros</p>
+        <p style="font-size:14px;line-height:1.8;max-width:300px;margin-bottom:20px;">Mobile home leveling, tie-down anchoring, vapor barrier, and skirting service across Ocala & Marion County. Licensed, insured, and fast with insurance certification letters.</p>
+      </div>
+      <!-- Services -->
+      <div>
+        <p style="font-family:'Poppins',sans-serif;font-size:15px;font-weight:800;color:#fff;margin-bottom:16px;letter-spacing:0.04em;text-transform:uppercase;">Services</p>
+        <ul style="list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:10px;">
+          <li><a href="/mobile-home-leveling-ocala/" class="footer-link">Mobile Home Leveling</a></li>
+          <li><a href="/mobile-home-tie-downs-ocala/" class="footer-link">Tie-Downs, Anchors & Certifications</a></li>
+          <li><a href="/vapor-barrier-ocala/" class="footer-link">Vapor Barrier & Underbelly Repair</a></li>
+          <li><a href="/mobile-home-skirting-ocala/" class="footer-link">Skirting Installation & Repair</a></li>
+          <li><a href="/mobile-home-leveling-cost/" class="footer-link">Mobile Home Leveling Cost Guide</a></li>
+        </ul>
+      </div>
+      <!-- Service Areas -->
+      <div>
+        <p style="font-family:'Poppins',sans-serif;font-size:15px;font-weight:800;color:#fff;margin-bottom:16px;letter-spacing:0.04em;text-transform:uppercase;">Service Areas</p>
+        <ul style="list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:10px;">
+          <li><a href="/mobile-home-leveling-silver-springs/" class="footer-link">Silver Springs</a></li>
+          <li><a href="/mobile-home-leveling-belleview/" class="footer-link">Belleview</a></li>
+          <li><a href="/mobile-home-leveling-summerfield/" class="footer-link">Summerfield</a></li>
+          <li><a href="/mobile-home-leveling-dunnellon/" class="footer-link">Dunnellon</a></li>
+          <li><a href="/mobile-home-leveling-lady-lake/" class="footer-link">Lady Lake</a></li>
+          <li><a href="/mobile-home-leveling-citra/" class="footer-link">Citra</a></li>
+        </ul>
+      </div>
+      <!-- Contact -->
+      <div>
+        <p style="font-family:'Poppins',sans-serif;font-size:15px;font-weight:800;color:#fff;margin-bottom:16px;letter-spacing:0.04em;text-transform:uppercase;">Contact</p>
+        <ul style="list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:12px;">
+          <li style="display:flex;align-items:flex-start;gap:10px;">
+            <svg width="15" height="15" style="flex-shrink:0;margin-top:2px;color:#F0A860;" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07A19.5 19.5 0 0 1 4.5 12 19.79 19.79 0 0 1 1.1 3.18a2 2 0 0 1 2-2.18h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L7.91 8.27a16 16 0 0 0 7.82 7.82l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+            <a href="tel:+13522473105" class="footer-link">(352) 247-3105</a>
+          </li>
+          <li style="display:flex;align-items:flex-start;gap:10px;">
+            <svg width="15" height="15" style="flex-shrink:0;margin-top:2px;color:#F0A860;" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><polyline points="2,4 12,13 22,4"/></svg>
+            <a href="mailto:info@ocalalevelpros.com" class="footer-link">info@ocalalevelpros.com</a>
+          </li>
+          <li style="display:flex;align-items:flex-start;gap:10px;">
+            <svg width="15" height="15" style="flex-shrink:0;margin-top:2px;color:#F0A860;" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
+            <span style="font-size:14px;">Ocala, FL &amp; all of Marion County</span>
+          </li>
+          <li style="display:flex;align-items:flex-start;gap:10px;">
+            <svg width="15" height="15" style="flex-shrink:0;margin-top:2px;color:#F0A860;" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+            <span style="font-size:14px;">Mon–Sat 7am–6pm<br>24/7 Emergency Line</span>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <!-- Bottom bar -->
+    <div style="display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:16px;padding:20px 0;font-size:13px;color:rgba(255,255,255,0.65);">
+      <span>© 2026 Ocala Level Pros. All rights reserved. Licensed &amp; Insured in Florida.</span>
+      <div style="display:flex;gap:20px;">
+        <a href="/privacy/" class="footer-link">Privacy Policy</a>
+        <a href="/terms/" class="footer-link">Terms of Service</a>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<!-- Footer responsive styles -->
+<style>
+  @media (max-width: 900px) {
+    .footer-grid { grid-template-columns: 1fr 1fr !important; gap: 32px !important; }
+  }
+  @media (max-width: 600px) {
+    .footer-grid { grid-template-columns: 1fr !important; }
+  }
+</style>
+
+<!-- Mobile sticky call bar + desktop blog slide-in -->
+<style>
+  .wwp-bar-mobile {
+    position: fixed; bottom: 0; left: 0; right: 0; z-index: 9000;
+    background: #16332C; color: #fff;
+    padding: 12px 16px calc(14px + env(safe-area-inset-bottom, 0px));
+    font-family: 'Poppins', system-ui, sans-serif; font-size: 14px; line-height: 1.3;
+    box-shadow: 0 -3px 16px rgba(0,0,0,0.22);
+    transform: translateY(100%); transition: transform 0.35s cubic-bezier(0.25,0.46,0.45,0.94);
+    will-change: transform; display: none;
+  }
+  @media (max-width: 767px) { .wwp-bar-mobile { display: flex; align-items: center; gap: 10px; } }
+  .wwp-bar-mobile.wwp-bar-visible { transform: translateY(0); }
+  .wwp-bar-mobile.wwp-bar-near-contact { transform: translateY(100%); }
+  .wwp-bar-label { flex: 1 1 auto; font-weight: 700; font-size: 13px; }
+  .wwp-bar-label span { display: block; font-weight: 400; font-size: 11px; opacity: 0.82; margin-top: 1px; }
+  .wwp-bar-cta {
+    display: inline-flex; align-items: center; gap: 6px; flex-shrink: 0;
+    background: #E07B1F; color: #fff; text-decoration: none; font-family: inherit;
+    font-size: 13px; font-weight: 800; border-radius: 999px; padding: 9px 16px;
+    white-space: nowrap; -webkit-tap-highlight-color: transparent;
+    transition: background 0.18s, transform 0.1s;
+  }
+  .wwp-bar-cta:active { background: #C4690F; transform: scale(0.97); }
+  .wwp-bar-dismiss {
+    flex-shrink: 0; display: flex; align-items: center; justify-content: center;
+    width: 28px; height: 28px; border-radius: 50%;
+    border: 1.5px solid rgba(255,255,255,0.35); background: transparent;
+    color: rgba(255,255,255,0.75); font-size: 16px; line-height: 1; cursor: pointer; font-family: inherit;
+  }
+  .wwp-bar-dismiss:focus-visible { outline: 2px solid rgba(255,255,255,0.6); outline-offset: 2px; }
+  .wwp-bar-desktop-slide {
+    position: fixed; bottom: 28px; right: 24px; z-index: 8900; width: 290px;
+    background: #fff; border-left: 4px solid #E07B1F; border-radius: 10px;
+    box-shadow: 0 8px 32px rgba(0,0,0,0.14); padding: 18px 18px 16px;
+    font-family: 'Poppins', system-ui, sans-serif; color: #16332C;
+    transform: translateX(calc(100% + 32px)); transition: transform 0.4s cubic-bezier(0.25,0.46,0.45,0.94);
+    will-change: transform; display: none;
+  }
+  @media (min-width: 768px) { .wwp-bar-desktop-slide { display: block; } }
+  .wwp-bar-desktop-slide.wwp-bar-visible { transform: translateX(0); }
+</style>
+
+<div class="wwp-bar-mobile" id="wwpMobileBar" role="complementary" aria-label="Emergency call bar" aria-hidden="true">
+  <div class="wwp-bar-label">Floors sloping? Call now<span>24/7 Emergency · Fast Response</span></div>
+  <a href="tel:+13522473105" class="wwp-bar-cta" aria-label="Call Ocala Level Pros at (352) 247-3105">
+    <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M6.6 10.8c1.4 2.8 3.8 5.1 6.6 6.6l2.2-2.2c.3-.3.7-.4 1-.2 1.1.4 2.3.6 3.6.6.6 0 1 .4 1 1V20c0 .6-.4 1-1 1C10.6 21 3 13.4 3 4c0-.6.4-1 1-1h3.5c.6 0 1 .4 1 1 0 1.3.2 2.5.6 3.6.1.3 0 .7-.2 1L6.6 10.8z"/></svg>
+    (352) 247-3105
+  </a>
+  <button class="wwp-bar-dismiss" id="wwpMobileBarDismiss" aria-label="Dismiss call bar" type="button">×</button>
+</div>
+
+<div class="wwp-bar-desktop-slide" id="wwpDesktopSlide" role="complementary" aria-label="Cost guide offer" aria-hidden="true">
+  <div style="display:flex;align-items:flex-start;justify-content:space-between;gap:8px;margin-bottom:10px;">
+    <p style="font-size:14px;font-weight:800;line-height:1.3;margin:0;">Wondering what repairs cost?</p>
+    <button id="wwpDesktopSlideDismiss" aria-label="Dismiss cost guide offer" type="button" style="flex-shrink:0;display:flex;align-items:center;justify-content:center;width:24px;height:24px;border-radius:50%;border:1.5px solid #DDD5C2;background:transparent;color:#8B968E;font-size:14px;line-height:1;cursor:pointer;font-family:inherit;">×</button>
+  </div>
+  <p style="font-size:12px;color:#5F6E67;margin:0 0 14px;line-height:1.45;">See real price ranges for mobile home leveling &amp; tie-down work in Ocala — no form required.</p>
+  <a href="/mobile-home-leveling-cost/" class="wwp-tracked" style="display:inline-flex;align-items:center;gap:5px;background:#16332C;color:#fff;text-decoration:none;font-family:inherit;font-size:12px;font-weight:700;border-radius:999px;padding:8px 14px;white-space:nowrap;">View Cost Guide →</a>
+</div>
+
+<script>
+(function () {
+  'use strict';
+  function scrollPct() {
+    var el = document.documentElement;
+    var s = (window.scrollY || el.scrollTop), m = el.scrollHeight - el.clientHeight;
+    return m > 0 ? s / m : 0;
+  }
+  function nearContact() {
+    var sec = document.querySelector('#contact');
+    if (!sec) return false;
+    var r = sec.getBoundingClientRect();
+    return r.top < window.innerHeight + 120 && r.bottom > -120;
+  }
+  // Mobile bar
+  var bar = document.getElementById('wwpMobileBar');
+  var barX = document.getElementById('wwpMobileBarDismiss');
+  if (bar && barX && !sessionStorage.getItem('wwp_bar_dismissed')) {
+    var shown = false, dismissed = false, t1 = false;
+    function update() {
+      if (dismissed) return;
+      if (!shown && scrollPct() >= 0.25) { shown = true; bar.classList.add('wwp-bar-visible'); bar.setAttribute('aria-hidden', 'false'); }
+      if (shown) bar.classList.toggle('wwp-bar-near-contact', nearContact());
+    }
+    window.addEventListener('scroll', function () {
+      if (!t1) { requestAnimationFrame(function () { update(); t1 = false; }); t1 = true; }
+    }, { passive: true });
+    barX.addEventListener('click', function () {
+      dismissed = true; sessionStorage.setItem('wwp_bar_dismissed', '1');
+      bar.classList.remove('wwp-bar-visible'); bar.setAttribute('aria-hidden', 'true');
+    });
+  }
+  // Desktop blog slide-in
+  var slide = document.getElementById('wwpDesktopSlide');
+  var slideX = document.getElementById('wwpDesktopSlideDismiss');
+  var onBlog = location.pathname.indexOf('/blog/') === 0 && location.pathname !== '/blog/';
+  if (slide && slideX && onBlog && !sessionStorage.getItem('wwp_slide_dismissed')) {
+    var sShown = false, t2 = false;
+    window.addEventListener('scroll', function () {
+      if (!t2) { requestAnimationFrame(function () {
+        if (!sShown && scrollPct() >= 0.6) { sShown = true; slide.classList.add('wwp-bar-visible'); slide.setAttribute('aria-hidden', 'false'); }
+        t2 = false;
+      }); t2 = true; }
+    }, { passive: true });
+    slideX.addEventListener('click', function () {
+      sessionStorage.setItem('wwp_slide_dismissed', '1');
+      slide.classList.remove('wwp-bar-visible'); slide.setAttribute('aria-hidden', 'true');
+    });
+  }
+})();
+</script>
+
+<!-- GA4 (set GA_ID to enable) + lightweight event tracking -->
+<script>
+(function () {
+  var GA_ID = '';
+  if (GA_ID) {
+    function loadGA() {
+      var s = document.createElement('script');
+      s.src = 'https://www.googletagmanager.com/gtag/js?id=' + GA_ID;
+      s.async = true;
+      document.head.appendChild(s);
+      window.dataLayer = window.dataLayer || [];
+      window.gtag = function(){ dataLayer.push(arguments); };
+      gtag('js', new Date());
+      gtag('config', GA_ID, { anonymize_ip: true });
+    }
+    if ('requestIdleCallback' in window) requestIdleCallback(loadGA, { timeout: 4000 });
+    else setTimeout(loadGA, 3500);
+  }
+  function track(name, params) {
+    if (typeof window.gtag === 'function') window.gtag('event', name, params);
+  }
+  document.addEventListener('click', function (e) {
+    var tel = e.target.closest('a[href^="tel:"]');
+    if (tel) {
+      track('phone_click', { link_text: tel.textContent.trim().slice(0, 100), page_path: location.pathname });
+      return;
+    }
+    var btn = e.target.closest('a.btn-green, a.btn-blue, a.btn-primary, a.btn-copper, a.btn-bark, a.btn-cream, a.btn-white-outline, a.btn-outline-white, a.wwp-tracked');
+    if (btn) track('cta_click', { button_text: btn.textContent.trim().slice(0, 100), link_url: btn.getAttribute('href') || '', page_path: location.pathname });
+  });
+  var started = false;
+  document.addEventListener('focusin', function (e) {
+    if (started) return;
+    if (e.target.closest('#contact-form')) { started = true; track('form_start', { form_name: 'estimate_request', page_path: location.pathname }); }
+  });
+  document.addEventListener('submit', function (e) {
+    if (e.target.closest('#contact-form')) track('form_submit_attempt', { form_name: 'estimate_request', page_path: location.pathname });
+  });
+})();
+</script>
+
+</body>
+</html>
