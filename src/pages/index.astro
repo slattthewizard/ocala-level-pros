@@ -349,7 +349,7 @@ import Layout from '../layouts/Layout.astro';
     e.preventDefault();
     errBox.style.display = 'none';
     submitBtn.disabled = true; submitBtn.textContent = 'Sending…';
-    fetch('https://formspree.io/f/REPLACE_ME', {
+    fetch('https://formspree.io/f/xvkpknzb', {
       method: 'POST', body: new FormData(form), headers: { 'Accept': 'application/json' }
     })
     .then(function(r){ return r.json().then(function(d){ return {ok: r.ok, data: d}; }); })
