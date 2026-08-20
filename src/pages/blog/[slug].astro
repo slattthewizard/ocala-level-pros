@@ -15,6 +15,9 @@ const { post } = Astro.props;
 const { Content } = await post.render();
 
 const canonical = post.data.canonical ?? `https://ocalalevelpros.com/blog/${post.slug}/`;
+const heroImg800 = fs.existsSync(`public/images/blog/${post.slug}-800.webp`)
+  ? `/images/blog/${post.slug}-800.webp`
+  : null;
 const heroImg = fs.existsSync(`public/images/blog/${post.slug}.webp`)
   ? `/images/blog/${post.slug}.webp`
   : null;
@@ -135,7 +138,7 @@ const faqSchema = faq.length > 0 ? JSON.stringify({
 <!-- HERO -->
 <section style="background:linear-gradient(135deg, #175445 0%, #1F6D5A 60%, #175445 100%);padding:64px 0;position:relative;overflow:hidden;">
   {heroImg && (
-    <img src={heroImg} alt="" width="1600" height="700" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover;" loading="eager" fetchpriority="high" aria-hidden="true" />
+    <img src={heroImg} srcset={heroImg800 ? `${heroImg800} 800w, ${heroImg} 1600w` : undefined} sizes="100vw" alt="" width="1600" height="700" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover;" loading="eager" fetchpriority="high" aria-hidden="true" />
   )}
   {heroImg && (
     <div style="position:absolute;inset:0;background:linear-gradient(100deg, rgba(8,52,75,0.92) 0%, rgba(8,52,75,0.72) 45%, rgba(8,52,75,0.45) 100%);"></div>
