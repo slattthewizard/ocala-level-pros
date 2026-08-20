@@ -1,5 +1,6 @@
 ---
 import Layout from '../layouts/Layout.astro';
+import EstimateForm from '../components/EstimateForm.astro';
 ---
 
 <Layout
@@ -8,7 +9,7 @@ import Layout from '../layouts/Layout.astro';
   canonical="https://ocalalevelpros.com/"
 >
 <Fragment slot="head">
-<script type="application/ld+json">{"@type": ["Plumber", "LocalBusiness"], "@id": "https://ocalalevelpros.com/#organization", "name": "Ocala Level Pros", "url": "https://ocalalevelpros.com", "logo": {"@type": "ImageObject", "url": "https://ocalalevelpros.com/logo-badge.png"}, "priceRange": "$$", "telephone": "(352) 247-3105", "email": "info@ocalalevelpros.com", "address": {"@type": "PostalAddress", "addressLocality": "Ocala", "addressRegion": "FL", "addressCountry": "US"}, "geo": {"@type": "GeoCoordinates", "latitude": 29.1872, "longitude": -82.1401}, "areaServed": [{"@type": "City", "name": "Ocala", "addressRegion": "FL"}, {"@type": "City", "name": "Silver Springs", "addressRegion": "FL"}, {"@type": "City", "name": "Belleview", "addressRegion": "FL"}, {"@type": "City", "name": "Summerfield", "addressRegion": "FL"}, {"@type": "City", "name": "Dunnellon", "addressRegion": "FL"}, {"@type": "City", "name": "Lady Lake", "addressRegion": "FL"}, {"@type": "City", "name": "Citra", "addressRegion": "FL"}], "@context": "https://schema.org", "description": "Mobile home leveling in Ocala, FL and across Marion, Sumter, and Citrus counties. Free written estimates, licensed and insured. Call (352) 247-3105 today.", "image": "https://ocalalevelpros.com/images/og-image.webp", "hasOfferCatalog": {"@type": "OfferCatalog", "name": "Mobile Home Leveling Services", "itemListElement": [{"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Mobile Home Leveling"}}, {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Tie-Downs & Anchors"}}, {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Vapor Barrier"}}, {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Mobile Home Skirting"}}]}}</script>
+<script type="application/ld+json">{"@type": ["HomeAndConstructionBusiness", "LocalBusiness"], "@id": "https://ocalalevelpros.com/#organization", "name": "Ocala Level Pros", "url": "https://ocalalevelpros.com", "logo": {"@type": "ImageObject", "url": "https://ocalalevelpros.com/logo-badge.png"}, "priceRange": "$$", "openingHoursSpecification": [{"@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"], "opens": "07:00", "closes": "18:00"}], "contactPoint": {"@type": "ContactPoint", "telephone": "+1-352-247-3105", "contactType": "customer service", "areaServed": "US-FL", "availableLanguage": "English", "hoursAvailable": {"@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"], "opens": "00:00", "closes": "23:59", "description": "24/7 emergency line"}}, "telephone": "(352) 247-3105", "email": "info@ocalalevelpros.com", "address": {"@type": "PostalAddress", "addressLocality": "Ocala", "addressRegion": "FL", "addressCountry": "US"}, "geo": {"@type": "GeoCoordinates", "latitude": 29.1872, "longitude": -82.1401}, "areaServed": [{"@type": "City", "name": "Ocala", "addressRegion": "FL"}, {"@type": "City", "name": "Silver Springs", "addressRegion": "FL"}, {"@type": "City", "name": "Belleview", "addressRegion": "FL"}, {"@type": "City", "name": "Summerfield", "addressRegion": "FL"}, {"@type": "City", "name": "Dunnellon", "addressRegion": "FL"}, {"@type": "City", "name": "Lady Lake", "addressRegion": "FL"}, {"@type": "City", "name": "Citra", "addressRegion": "FL"}], "@context": "https://schema.org", "description": "Mobile home leveling in Ocala, FL and across Marion, Sumter, and Citrus counties. Free written estimates, licensed and insured. Call (352) 247-3105 today.", "image": "https://ocalalevelpros.com/images/og-image.webp", "hasOfferCatalog": {"@type": "OfferCatalog", "name": "Mobile Home Leveling Services", "itemListElement": [{"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Mobile Home Leveling"}}, {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Tie-Downs & Anchors"}}, {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Vapor Barrier"}}, {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Mobile Home Skirting"}}]}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebSite", "@id": "https://ocalalevelpros.com/#website", "url": "https://ocalalevelpros.com", "name": "Ocala Level Pros", "publisher": {"@id": "https://ocalalevelpros.com/#organization"}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "How do I know my mobile home needs leveling?", "acceptedAnswer": {"@type": "Answer", "text": "The usual signs are doors and windows that stick or swing on their own, cracks showing up around door frames, floors that feel bouncy or slanted, and skirting that starts to bow. Any one of these can have another cause, but two or more together usually means the home has settled. We check it for free, so there's no cost to find out."}}, {"@type": "Question", "name": "How much does mobile home leveling cost in Ocala?", "acceptedAnswer": {"@type": "Answer", "text": "Most single-wides run $450 to $900 and most double-wides run $700 to $1,500. The big cost factors are how many piers need adjustment, whether any piers or pads need replacing, and how much clearance we have to work under the home. Every estimate is free and in writing before we start."}}, {"@type": "Question", "name": "Do you charge extra for after-hours or emergency visits?", "acceptedAnswer": {"@type": "Answer", "text": "Yes, and we're upfront about it. After-hours and weekend calls carry a $150 to $250 trip fee on top of the normal job price, depending on distance and timing. Most people use the 24/7 line for pre-closing inspections or insurance deadlines where waiting until Monday would cost a lot more than the fee."}}, {"@type": "Question", "name": "How long does leveling take?", "acceptedAnswer": {"@type": "Answer", "text": "Most relevels are done in half a day, and even a rough double-wide rarely takes more than a full day. We take water level readings before and after so you can see exactly what changed. You can stay in the home while we work."}}, {"@type": "Question", "name": "Will leveling help me pass a 4-point inspection?", "acceptedAnswer": {"@type": "Answer", "text": "It's often part of the fix, but inspectors around here flag tie-downs and anchors just as much as leveling. We handle both, and we provide written documentation of the work that you can pass along to your insurance company or the buyer's inspector."}}, {"@type": "Question", "name": "How often does a mobile home in Florida need releveling?", "acceptedAnswer": {"@type": "Answer", "text": "In our sandy soil, plan on a check every 3 to 5 years, sooner if the home is newly set or you've had an unusually wet year. Homes on well-compacted ground can go longer. A quick inspection is free, so it costs nothing to stay ahead of it."}}]}</script>
 <style is:global>
@@ -23,12 +24,12 @@ import Layout from '../layouts/Layout.astro';
 
 <!-- HERO + QUOTE FORM -->
 <section id="contact" style="position:relative;overflow:hidden;background:#16332C;">
-  <img src="/images/hero-panorama.webp" alt="Ocala & Marion County manufactured home community" width="2000" height="950" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover;" loading="eager" fetchpriority="high">
+  <img src="/images/hero-panorama.webp" alt="Ocala & Marion County manufactured home community" width="2000" height="950" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover;" loading="eager" fetchpriority="high" srcset="/images/hero-panorama-800.webp 800w, /images/hero-panorama.webp 2000w" sizes="100vw">
   <div style="position:absolute;inset:0;background:linear-gradient(100deg, rgba(22,51,44,0.86) 0%, rgba(22,51,44,0.62) 55%, rgba(22,51,44,0.38) 100%);"></div>
   <div class="home-hero-grid" style="position:relative;max-width:1220px;margin:0 auto;padding:64px 24px 72px;display:grid;grid-template-columns:1.05fr 0.95fr;gap:56px;align-items:center;">
     <div>
       <span style="display:inline-block;margin-bottom:18px;padding:7px 18px;border-radius:999px;font-family:'Poppins',sans-serif;font-size:12px;font-weight:600;letter-spacing:0.16em;text-transform:uppercase;background:rgba(255,255,255,0.14);color:#fff;border:1px solid rgba(255,255,255,0.35);backdrop-filter:blur(3px);">Licensed &amp; Insured · Ocala & Marion County</span>
-      <h1 style="font-family:'Poppins',sans-serif;font-weight:600;text-transform:uppercase;letter-spacing:0.05em;color:#fff;line-height:1.3;font-size:clamp(25px,3.4vw,40px);margin:0 0 16px;text-shadow:0 2px 24px rgba(22,51,44,0.45);">Mobile Home Leveling in Ocala, FL Done Right the First Time</h1>
+      <h1 style="font-family:'Poppins',sans-serif;font-weight:600;text-transform:uppercase;letter-spacing:0.05em;color:#fff;line-height:1.3;font-size:clamp(25px,3.4vw,40px);margin:0 0 16px;text-shadow:0 2px 24px rgba(22,51,44,0.45);">Mobile Home Leveling, Tie-Downs, and Under-Home Repair in Ocala, FL</h1>
       <p style="font-size:17px;line-height:1.7;color:rgba(255,255,255,0.92);max-width:560px;margin:0 0 26px;text-shadow:0 1px 12px rgba(22,51,44,0.5);">Ocala Level Pros levels, anchors, and services mobile homes across Marion, Sumter, and Citrus counties. Most estimates happen within 48 hours, they're free and in writing, and our 24/7 line is there when a closing or insurance deadline can't wait.</p>
       <div style="display:flex;gap:16px;flex-wrap:wrap;margin-bottom:28px;">
         <a href="tel:+13522473105" class="btn-green" style="font-size:15px;padding:16px 34px;">Call Now — (352) 247-3105</a>
@@ -41,36 +42,7 @@ import Layout from '../layouts/Layout.astro';
       </ul>
     </div>
     <div>
-      <form id="contact-form" novalidate style="background:#fff;border-radius:14px;overflow:hidden;display:flex;flex-direction:column;box-shadow:0 28px 60px rgba(0,0,0,0.35);">
-        <p style="background:#1F6D5A;color:#fff;font-family:'Poppins',sans-serif;font-size:15px;font-weight:600;letter-spacing:0.12em;text-transform:uppercase;text-align:center;padding:16px 20px;margin:0;">Request a Free Quote Now</p>
-        <div style="padding:26px 28px 28px;display:flex;flex-direction:column;gap:13px;">
-          <input type="hidden" name="_subject" value="New estimate request — ocalalevelpros.com">
-          <div style="display:flex;flex-direction:column;gap:4px;">
-            <label for="cf-name" style="font-family:'Poppins',sans-serif;font-size:13px;font-weight:600;color:#16332C;">Your name <span aria-hidden="true" style="color:#C0392B;">*</span></label>
-            <input id="cf-name" type="text" name="name" autocomplete="name" required style="padding:12px 15px;border:1.5px solid #DDD5C2;border-radius:8px;font-family:inherit;font-size:15px;min-height:46px;">
-          </div>
-          <div style="display:flex;flex-direction:column;gap:4px;">
-            <label for="cf-phone" style="font-family:'Poppins',sans-serif;font-size:13px;font-weight:600;color:#16332C;">Phone number <span aria-hidden="true" style="color:#C0392B;">*</span></label>
-            <input id="cf-phone" type="tel" name="phone" autocomplete="tel" inputmode="tel" required style="padding:12px 15px;border:1.5px solid #DDD5C2;border-radius:8px;font-family:inherit;font-size:15px;min-height:46px;">
-          </div>
-          <div style="display:flex;flex-direction:column;gap:4px;">
-            <label for="cf-city" style="font-family:'Poppins',sans-serif;font-size:13px;font-weight:600;color:#16332C;">City or area</label>
-            <input id="cf-city" type="text" name="city" autocomplete="address-level2" style="padding:12px 15px;border:1.5px solid #DDD5C2;border-radius:8px;font-family:inherit;font-size:15px;min-height:46px;">
-          </div>
-          <div style="display:flex;flex-direction:column;gap:4px;">
-            <label for="cf-message" style="font-family:'Poppins',sans-serif;font-size:13px;font-weight:600;color:#16332C;">What's going on with your home?</label>
-            <textarea id="cf-message" name="message" rows="3" style="padding:12px 15px;border:1.5px solid #DDD5C2;border-radius:8px;font-family:inherit;font-size:15px;resize:vertical;"></textarea>
-          </div>
-          <button type="submit" id="cf-submit" class="btn-green" style="width:100%;font-size:15px;border-radius:8px;">Get My Free Estimate</button>
-          <p style="font-size:12px;color:#8B968E;text-align:center;margin:0;line-height:1.6;">We'll call you back, usually within the hour during business hours.<br><strong style="color:#16332C;">Need someone now? Call <a href="tel:+13522473105" style="color:#1F6D5A;">(352) 247-3105</a></strong></p>
-          <p id="cf-error" role="alert" style="display:none;background:#FFF0F0;border:1px solid #FBBCBC;border-radius:8px;padding:10px 14px;font-size:14px;color:#C0392B;margin:0;"></p>
-        </div>
-      </form>
-      <div id="cf-success" style="display:none;background:#fff;border-radius:14px;padding:40px 32px;box-shadow:0 28px 60px rgba(0,0,0,0.35);text-align:center;">
-        <p style="font-family:'Poppins',sans-serif;font-size:21px;font-weight:700;color:#16332C;margin:0 0 10px;">We got your request!</p>
-        <p style="font-size:15px;line-height:1.75;color:#5F6E67;margin:0 0 20px;">Expect a call back within the hour during business hours. Need help immediately?</p>
-        <a href="tel:+13522473105" class="btn-green">Call (352) 247-3105</a>
-      </div>
+      <EstimateForm />
     </div>
   </div>
 </section>
@@ -98,7 +70,7 @@ import Layout from '../layouts/Layout.astro';
   <div class="intro-grid" style="max-width:1120px;margin:0 auto;display:grid;grid-template-columns:0.9fr 1.1fr;gap:64px;align-items:center;">
     <div style="position:relative;">
       <div style="border-radius:18px;overflow:hidden;box-shadow:0 24px 56px rgba(22,51,44,0.22);aspect-ratio:1/1;">
-        <img src="/images/about.webp" alt="Ocala Level Pros service crew" width="1024" height="1024" style="width:100%;height:100%;object-fit:cover;display:block;" loading="lazy">
+        <img src="/images/about.webp" alt="Ocala Level Pros service crew" width="1600" height="1000" style="width:100%;height:100%;object-fit:cover;display:block;" loading="lazy" srcset="/images/about-800.webp 800w, /images/about.webp 1600w" sizes="(max-width: 900px) 100vw, 50vw">
       </div>
       <div style="position:absolute;bottom:-18px;right:-14px;background:#E07B1F;color:#fff;border-radius:14px;padding:14px 22px;box-shadow:0 10px 26px rgba(224,123,31,0.4);">
         <p style="font-family:'Poppins',sans-serif;font-size:20px;font-weight:800;margin:0;line-height:1;">24/7</p>
@@ -124,35 +96,35 @@ import Layout from '../layouts/Layout.astro';
     <h2 class="section-heading" style="font-size:clamp(26px,3.4vw,40px);margin:0 0 40px;">What's Going On Under Your Home?</h2>
     <div class="tile-grid" style="display:grid;grid-template-columns:repeat(4,1fr);gap:22px;">
       <a href="/blog/mobile-home-doors-wont-close/" style="display:flex;flex-direction:column;background:#fff;border-radius:16px;overflow:hidden;text-decoration:none;box-shadow:0 4px 16px rgba(22,51,44,0.1);">
-        <img src="/images/tile-1.webp" alt="Mobile home door sticking in its frame from an unlevel floor" width="700" height="560" style="width:100%;aspect-ratio:1.25/1;object-fit:cover;display:block;" loading="lazy">
+        <img src="/images/tile-1.webp" alt="Mobile home door sticking in its frame from an unlevel floor" width="1600" height="1000" style="width:100%;aspect-ratio:1.25/1;object-fit:cover;display:block;" loading="lazy" srcset="/images/tile-1-800.webp 800w, /images/tile-1.webp 1600w" sizes="(max-width: 600px) 100vw, (max-width: 1000px) 50vw, 25vw">
         <span style="font-family:'Poppins',sans-serif;font-size:14.5px;font-weight:800;color:#16332C;padding:14px 12px;">Doors won't close right</span>
       </a>
       <a href="/blog/soft-spots-mobile-home-floor/" style="display:flex;flex-direction:column;background:#fff;border-radius:16px;overflow:hidden;text-decoration:none;box-shadow:0 4px 16px rgba(22,51,44,0.1);">
-        <img src="/images/tile-2.webp" alt="Soft spot in a mobile home floor near the hallway" width="700" height="560" style="width:100%;aspect-ratio:1.25/1;object-fit:cover;display:block;" loading="lazy">
+        <img src="/images/tile-2.webp" alt="Soft spot in a mobile home floor near the hallway" width="1600" height="1000" style="width:100%;aspect-ratio:1.25/1;object-fit:cover;display:block;" loading="lazy" srcset="/images/tile-2-800.webp 800w, /images/tile-2.webp 1600w" sizes="(max-width: 600px) 100vw, (max-width: 1000px) 50vw, 25vw">
         <span style="font-family:'Poppins',sans-serif;font-size:14.5px;font-weight:800;color:#16332C;padding:14px 12px;">Soft spots in the floor</span>
       </a>
       <a href="/blog/cracks-mobile-home-walls/" style="display:flex;flex-direction:column;background:#fff;border-radius:16px;overflow:hidden;text-decoration:none;box-shadow:0 4px 16px rgba(22,51,44,0.1);">
-        <img src="/images/tile-3.webp" alt="Drywall crack above a mobile home doorway" width="700" height="560" style="width:100%;aspect-ratio:1.25/1;object-fit:cover;display:block;" loading="lazy">
+        <img src="/images/tile-3.webp" alt="Drywall crack above a mobile home doorway" width="1600" height="1000" style="width:100%;aspect-ratio:1.25/1;object-fit:cover;display:block;" loading="lazy" srcset="/images/tile-3-800.webp 800w, /images/tile-3.webp 1600w" sizes="(max-width: 600px) 100vw, (max-width: 1000px) 50vw, 25vw">
         <span style="font-family:'Poppins',sans-serif;font-size:14.5px;font-weight:800;color:#16332C;padding:14px 12px;">Cracks in walls or ceilings</span>
       </a>
       <a href="/blog/mobile-home-skirting-buckling/" style="display:flex;flex-direction:column;background:#fff;border-radius:16px;overflow:hidden;text-decoration:none;box-shadow:0 4px 16px rgba(22,51,44,0.1);">
-        <img src="/images/tile-4.webp" alt="Buckled vinyl skirting panel on a mobile home" width="700" height="560" style="width:100%;aspect-ratio:1.25/1;object-fit:cover;display:block;" loading="lazy">
+        <img src="/images/tile-4.webp" alt="Buckled vinyl skirting panel on a mobile home" width="1600" height="1000" style="width:100%;aspect-ratio:1.25/1;object-fit:cover;display:block;" loading="lazy" srcset="/images/tile-4-800.webp 800w, /images/tile-4.webp 1600w" sizes="(max-width: 600px) 100vw, (max-width: 1000px) 50vw, 25vw">
         <span style="font-family:'Poppins',sans-serif;font-size:14.5px;font-weight:800;color:#16332C;padding:14px 12px;">Skirting bowing or buckling</span>
       </a>
       <a href="/mobile-home-leveling-ocala/" style="display:flex;flex-direction:column;background:#fff;border-radius:16px;overflow:hidden;text-decoration:none;box-shadow:0 4px 16px rgba(22,51,44,0.1);">
-        <img src="/images/service-1.webp" alt="Technician setting a hydraulic jack under a mobile home frame" width="700" height="560" style="width:100%;aspect-ratio:1.25/1;object-fit:cover;display:block;" loading="lazy">
+        <img src="/images/service-1.webp" alt="Technician setting a hydraulic jack under a mobile home frame" width="1600" height="1000" style="width:100%;aspect-ratio:1.25/1;object-fit:cover;display:block;" loading="lazy" srcset="/images/service-1-800.webp 800w, /images/service-1.webp 1600w" sizes="(max-width: 600px) 100vw, (max-width: 1000px) 50vw, 25vw">
         <span style="font-family:'Poppins',sans-serif;font-size:14.5px;font-weight:800;color:#16332C;padding:14px 12px;">Mobile home leveling</span>
       </a>
       <a href="/mobile-home-tie-downs-ocala/" style="display:flex;flex-direction:column;background:#fff;border-radius:16px;overflow:hidden;text-decoration:none;box-shadow:0 4px 16px rgba(22,51,44,0.1);">
-        <img src="/images/service-2.webp" alt="New ground anchor and strap installed under a mobile home" width="700" height="560" style="width:100%;aspect-ratio:1.25/1;object-fit:cover;display:block;" loading="lazy">
+        <img src="/images/service-2.webp" alt="New ground anchor and strap installed under a mobile home" width="1600" height="1000" style="width:100%;aspect-ratio:1.25/1;object-fit:cover;display:block;" loading="lazy" srcset="/images/service-2-800.webp 800w, /images/service-2.webp 1600w" sizes="(max-width: 600px) 100vw, (max-width: 1000px) 50vw, 25vw">
         <span style="font-family:'Poppins',sans-serif;font-size:14.5px;font-weight:800;color:#16332C;padding:14px 12px;">Tie-downs and anchors</span>
       </a>
       <a href="/vapor-barrier-ocala/" style="display:flex;flex-direction:column;background:#fff;border-radius:16px;overflow:hidden;text-decoration:none;box-shadow:0 4px 16px rgba(22,51,44,0.1);">
-        <img src="/images/service-3.webp" alt="Fresh vapor barrier installed under a mobile home in Ocala" width="700" height="560" style="width:100%;aspect-ratio:1.25/1;object-fit:cover;display:block;" loading="lazy">
+        <img src="/images/service-3.webp" alt="Fresh vapor barrier installed under a mobile home in Ocala" width="1600" height="1000" style="width:100%;aspect-ratio:1.25/1;object-fit:cover;display:block;" loading="lazy" srcset="/images/service-3-800.webp 800w, /images/service-3.webp 1600w" sizes="(max-width: 600px) 100vw, (max-width: 1000px) 50vw, 25vw">
         <span style="font-family:'Poppins',sans-serif;font-size:14.5px;font-weight:800;color:#16332C;padding:14px 12px;">Vapor barrier repair</span>
       </a>
       <a href="/mobile-home-skirting-ocala/" style="display:flex;flex-direction:column;background:#fff;border-radius:16px;overflow:hidden;text-decoration:none;box-shadow:0 4px 16px rgba(22,51,44,0.1);">
-        <img src="/images/service-4.webp" alt="Crew installing new skirting around a mobile home" width="700" height="560" style="width:100%;aspect-ratio:1.25/1;object-fit:cover;display:block;" loading="lazy">
+        <img src="/images/service-4.webp" alt="Crew installing new skirting around a mobile home" width="1600" height="1000" style="width:100%;aspect-ratio:1.25/1;object-fit:cover;display:block;" loading="lazy" srcset="/images/service-4-800.webp 800w, /images/service-4.webp 1600w" sizes="(max-width: 600px) 100vw, (max-width: 1000px) 50vw, 25vw">
         <span style="font-family:'Poppins',sans-serif;font-size:14.5px;font-weight:800;color:#16332C;padding:14px 12px;">Skirting repair and install</span>
       </a>
     </div>
@@ -234,7 +206,7 @@ import Layout from '../layouts/Layout.astro';
     </div>
     <div style="display:flex;flex-direction:column;gap:20px;">
       <div style="border-radius:18px;overflow:hidden;box-shadow:0 18px 44px rgba(22,51,44,0.2);aspect-ratio:4/5;">
-        <img src="/images/hero-800.webp" alt="Ocala Level Pros at work" width="800" height="800" style="width:100%;height:100%;object-fit:cover;display:block;" loading="lazy">
+        <img src="/images/hero-800.webp" alt="Ocala Level Pros at work" width="800" height="500" style="width:100%;height:100%;object-fit:cover;display:block;" loading="lazy">
       </div>
       <div style="display:grid;grid-template-columns:1fr 1fr;gap:20px;">
         <div style="background:#1F6D5A;border-radius:14px;padding:24px;text-align:center;">
@@ -326,7 +298,7 @@ import Layout from '../layouts/Layout.astro';
 
 <!-- CALL BAND -->
 <section style="position:relative;padding:84px 24px;overflow:hidden;">
-  <img src="/images/city-1.webp" alt="" width="1600" height="900" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover;" loading="lazy" aria-hidden="true">
+  <img src="/images/city-1.webp" alt="" width="1600" height="1000" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover;" loading="lazy" aria-hidden="true" srcset="/images/city-1-800.webp 800w, /images/city-1.webp 1600w" sizes="100vw">
   <div style="position:absolute;inset:0;background:linear-gradient(135deg, rgba(22,51,44,0.93) 0%, rgba(31,109,90,0.88) 100%);"></div>
   <div style="position:relative;max-width:780px;margin:0 auto;text-align:center;">
     <span class="kicker" style="color:#F0A860;">Free Estimate</span>
@@ -338,36 +310,4 @@ import Layout from '../layouts/Layout.astro';
     </div>
   </div>
 </section>
-<script>
-(function(){
-  var form = document.getElementById('contact-form');
-  var success = document.getElementById('cf-success');
-  var errBox = document.getElementById('cf-error');
-  var submitBtn = document.getElementById('cf-submit');
-  if (!form) return;
-  form.addEventListener('submit', function(e) {
-    e.preventDefault();
-    errBox.style.display = 'none';
-    submitBtn.disabled = true; submitBtn.textContent = 'Sending…';
-    fetch('https://formspree.io/f/xvkpknzb', {
-      method: 'POST', body: new FormData(form), headers: { 'Accept': 'application/json' }
-    })
-    .then(function(r){ return r.json().then(function(d){ return {ok: r.ok, data: d}; }); })
-    .then(function(res){
-      if (res.ok) { form.style.display = 'none'; success.style.display = 'block'; }
-      else {
-        errBox.textContent = 'Something went wrong. Please try again or call us directly.';
-        errBox.style.display = 'block';
-        submitBtn.disabled = false; submitBtn.textContent = 'Get My Free Estimate';
-      }
-    })
-    .catch(function(){
-      errBox.textContent = 'Could not send. Please call us at (352) 247-3105.';
-      errBox.style.display = 'block';
-      submitBtn.disabled = false; submitBtn.textContent = 'Get My Free Estimate';
-    });
-  });
-})();
-</script>
-
 </Layout>
