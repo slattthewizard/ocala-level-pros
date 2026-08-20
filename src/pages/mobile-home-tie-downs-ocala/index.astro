@@ -1,5 +1,6 @@
 ---
 import Layout from '../../layouts/Layout.astro';
+import EstimateForm from '../../components/EstimateForm.astro';
 ---
 
 <Layout
@@ -8,7 +9,7 @@ import Layout from '../../layouts/Layout.astro';
   canonical="https://ocalalevelpros.com/mobile-home-tie-downs-ocala/"
 >
 <Fragment slot="head">
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Service", "name": "Mobile Home Tie Down Replacement and Anchor Certifications in Ocala, FL", "description": "Mobile home tie down replacement in Ocala from $1,500. Certification letters $150-$300 for insurance and closings. Call Ocala Level Pros at (352) 247-3105.", "url": "https://ocalalevelpros.com/mobile-home-tie-downs-ocala/", "provider": {"@type": ["Plumber", "LocalBusiness"], "@id": "https://ocalalevelpros.com/#organization", "name": "Ocala Level Pros", "url": "https://ocalalevelpros.com", "logo": {"@type": "ImageObject", "url": "https://ocalalevelpros.com/logo-badge.png"}, "priceRange": "$$", "telephone": "(352) 247-3105", "email": "info@ocalalevelpros.com", "address": {"@type": "PostalAddress", "addressLocality": "Ocala", "addressRegion": "FL", "addressCountry": "US"}, "geo": {"@type": "GeoCoordinates", "latitude": 29.1872, "longitude": -82.1401}, "areaServed": [{"@type": "City", "name": "Ocala", "addressRegion": "FL"}, {"@type": "City", "name": "Silver Springs", "addressRegion": "FL"}, {"@type": "City", "name": "Belleview", "addressRegion": "FL"}, {"@type": "City", "name": "Summerfield", "addressRegion": "FL"}, {"@type": "City", "name": "Dunnellon", "addressRegion": "FL"}, {"@type": "City", "name": "Lady Lake", "addressRegion": "FL"}, {"@type": "City", "name": "Citra", "addressRegion": "FL"}]}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Service", "name": "Mobile Home Tie Down Replacement and Anchor Certifications in Ocala, FL", "description": "Mobile home tie down replacement in Ocala from $1,500. Certification letters $150-$300 for insurance and closings. Call Ocala Level Pros at (352) 247-3105.", "url": "https://ocalalevelpros.com/mobile-home-tie-downs-ocala/", "provider": {"@type": ["HomeAndConstructionBusiness", "LocalBusiness"], "@id": "https://ocalalevelpros.com/#organization", "name": "Ocala Level Pros", "url": "https://ocalalevelpros.com", "logo": {"@type": "ImageObject", "url": "https://ocalalevelpros.com/logo-badge.png"}, "priceRange": "$$", "telephone": "(352) 247-3105", "email": "info@ocalalevelpros.com", "address": {"@type": "PostalAddress", "addressLocality": "Ocala", "addressRegion": "FL", "addressCountry": "US"}, "geo": {"@type": "GeoCoordinates", "latitude": 29.1872, "longitude": -82.1401}, "areaServed": [{"@type": "City", "name": "Ocala", "addressRegion": "FL"}, {"@type": "City", "name": "Silver Springs", "addressRegion": "FL"}, {"@type": "City", "name": "Belleview", "addressRegion": "FL"}, {"@type": "City", "name": "Summerfield", "addressRegion": "FL"}, {"@type": "City", "name": "Dunnellon", "addressRegion": "FL"}, {"@type": "City", "name": "Lady Lake", "addressRegion": "FL"}, {"@type": "City", "name": "Citra", "addressRegion": "FL"}]}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://ocalalevelpros.com/"}, {"@type": "ListItem", "position": 2, "name": "Mobile Home Tie Down Replacement and Anchor Certifications in Ocala, FL", "item": "https://ocalalevelpros.com/mobile-home-tie-downs-ocala/"}]}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "How much does mobile home tie down replacement cost in Ocala?", "acceptedAnswer": {"@type": "Answer", "text": "A full anchoring package for an Ocala mobile home typically runs $1,500 to $3,000, depending on the size of the home and how many anchors and straps it needs. Smaller jobs, like replacing a few corroded straps, cost less. Every job starts with a free written estimate, so you'll know the exact number before we drive a single anchor."}}, {"@type": "Question", "name": "How much is a tie-down certification inspection?", "acceptedAnswer": {"@type": "Answer", "text": "A certification inspection costs $150 to $300. We inspect every anchor and strap under the home, check tension and corrosion, and compare the system to Florida Wind Zone II requirements. If it passes, you get a signed certification letter, usually within the same week."}}, {"@type": "Question", "name": "My insurance company is threatening non-renewal without a tie-down letter. How fast can you help?", "acceptedAnswer": {"@type": "Answer", "text": "This is one of the most common calls we get, and it's why we run a 24/7 line at (352) 247-3105. We can usually inspect within a day or two, and if the system passes, the letter follows quickly. If repairs are needed, most correction jobs finish in one to two days, and we issue the certification as soon as the work is complete."}}, {"@type": "Question", "name": "What does Wind Zone II require for my mobile home?", "acceptedAnswer": {"@type": "Answer", "text": "Marion, Sumter, and Citrus counties are all in Florida Wind Zone II. That means your home needs ground anchors and straps rated for higher wind loads, spaced closer together than Zone I, plus frame ties and longitudinal anchors to resist end-to-end movement. Older homes, especially pre-1994 installs, often come up short on longitudinal anchors, and that's the most common fix we make."}}, {"@type": "Question", "name": "How do I know if my tie-down straps need replacing?", "acceptedAnswer": {"@type": "Answer", "text": "The common failure signs are visible rust or flaking on the straps, slack you can move by hand, anchors that have pulled up or tilted in the soil, and straps that have snapped outright. Florida humidity and our sandy soil accelerate all of these. If your home is more than 15 to 20 years old and the straps have never been checked, a $150 to $300 inspection will tell you exactly where things stand."}}]}</script>
 <style is:global>
@@ -36,11 +37,11 @@ import Layout from '../../layouts/Layout.astro';
       <p style="font-size:18px;line-height:1.7;color:rgba(255,255,255,0.85);max-width:540px;margin:0 0 28px;">Corroded straps replaced, new anchors set to Wind Zone II code, and the certification letter your insurance company or closing agent is asking for. Free written estimates, and a 24/7 line when a deadline is breathing down your neck.</p>
       <div style="display:flex;flex-wrap:wrap;gap:16px;">
         <a href="tel:+13522473105" class="btn-cream">Call Now — (352) 247-3105</a>
-        <a href="/#contact" class="btn-outline-white">Get a Free Estimate</a>
+        <a href="#estimate" class="btn-outline-white">Get a Free Estimate</a>
       </div>
     </div>
     <div class="hero-img" style="border-radius:12px;overflow:hidden;box-shadow:0 24px 48px rgba(0,0,0,0.3);">
-      <img src="/images/service-2.webp" alt="Mobile Home Tie Down Replacement and Anchor Certifications in Ocala, FL" width="800" height="533" style="width:100%;height:100%;object-fit:cover;display:block;" loading="eager" fetchpriority="high">
+      <img src="/images/service-2.webp" alt="Mobile Home Tie Down Replacement and Anchor Certifications in Ocala, FL" width="1600" height="1000" style="width:100%;height:100%;object-fit:cover;display:block;" loading="eager" fetchpriority="high" srcset="/images/service-2-800.webp 800w, /images/service-2.webp 1600w" sizes="(max-width: 600px) 100vw, (max-width: 1000px) 50vw, 25vw">
     </div>
   </div>
 </section>
@@ -138,8 +139,24 @@ import Layout from '../../layouts/Layout.astro';
   <p style="font-size:16px;color:rgba(255,255,255,0.8);margin-bottom:28px;max-width:520px;margin-left:auto;margin-right:auto;">Free written estimates. Emergency calls answered around the clock.</p>
   <div style="display:flex;justify-content:center;gap:16px;flex-wrap:wrap;">
     <a href="tel:+13522473105" class="btn-cream">Call Now — (352) 247-3105</a>
-    <a href="/#contact" class="btn-outline-white">Get Free Estimate</a>
+    <a href="#estimate" class="btn-outline-white">Get Free Estimate</a>
   </div>
 </section>
+<section id="estimate" style="background:#F5F0E4;padding:64px 24px;">
+  <div class="est-grid" style="max-width:1000px;margin:0 auto;display:grid;grid-template-columns:1fr 1fr;gap:48px;align-items:center;">
+    <div>
+      <span class="kicker">Free Estimate</span>
+      <h2 class="section-heading" style="font-size:clamp(24px,3.5vw,34px);margin:0 0 16px;">Get Your Free Tie-Down Estimate</h2>
+      <p style="font-size:16px;line-height:1.8;color:#555;margin:0 0 16px;">Tell us what the home is doing and we'll come measure it. The visit is free, the estimate is written, and there's no obligation.</p>
+      <p style="font-size:16px;line-height:1.8;color:#555;margin:0;">In a hurry? Call <a href="tel:+13522473105" style="color:#1F6D5A;font-weight:600;text-decoration:none;">(352) 247-3105</a> — our line is answered 24/7 for closing and insurance deadlines.</p>
+    </div>
+    <div>
+      <EstimateForm heading="Request a Free Quote" location="Ocala" service="Tie-Downs & Anchors" />
+    </div>
+  </div>
+</section>
+<style>
+  @media (max-width: 860px) { .est-grid { grid-template-columns: 1fr !important; gap: 32px !important; } }
+</style>
 
 </Layout>

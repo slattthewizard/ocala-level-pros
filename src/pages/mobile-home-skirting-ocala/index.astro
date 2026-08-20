@@ -1,5 +1,6 @@
 ---
 import Layout from '../../layouts/Layout.astro';
+import EstimateForm from '../../components/EstimateForm.astro';
 ---
 
 <Layout
@@ -8,7 +9,7 @@ import Layout from '../../layouts/Layout.astro';
   canonical="https://ocalalevelpros.com/mobile-home-skirting-ocala/"
 >
 <Fragment slot="head">
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Service", "name": "Mobile Home Skirting Installation & Repair in Ocala, FL", "description": "Mobile home skirting in Ocala: vinyl and rigid-foam installs $1,200-$3,500, repairs $250-$800. Free written estimates. Call Ocala Level Pros (352) 247-3105.", "url": "https://ocalalevelpros.com/mobile-home-skirting-ocala/", "provider": {"@type": ["Plumber", "LocalBusiness"], "@id": "https://ocalalevelpros.com/#organization", "name": "Ocala Level Pros", "url": "https://ocalalevelpros.com", "logo": {"@type": "ImageObject", "url": "https://ocalalevelpros.com/logo-badge.png"}, "priceRange": "$$", "telephone": "(352) 247-3105", "email": "info@ocalalevelpros.com", "address": {"@type": "PostalAddress", "addressLocality": "Ocala", "addressRegion": "FL", "addressCountry": "US"}, "geo": {"@type": "GeoCoordinates", "latitude": 29.1872, "longitude": -82.1401}, "areaServed": [{"@type": "City", "name": "Ocala", "addressRegion": "FL"}, {"@type": "City", "name": "Silver Springs", "addressRegion": "FL"}, {"@type": "City", "name": "Belleview", "addressRegion": "FL"}, {"@type": "City", "name": "Summerfield", "addressRegion": "FL"}, {"@type": "City", "name": "Dunnellon", "addressRegion": "FL"}, {"@type": "City", "name": "Lady Lake", "addressRegion": "FL"}, {"@type": "City", "name": "Citra", "addressRegion": "FL"}]}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Service", "name": "Mobile Home Skirting Installation & Repair in Ocala, FL", "description": "Mobile home skirting in Ocala: vinyl and rigid-foam installs $1,200-$3,500, repairs $250-$800. Free written estimates. Call Ocala Level Pros (352) 247-3105.", "url": "https://ocalalevelpros.com/mobile-home-skirting-ocala/", "provider": {"@type": ["HomeAndConstructionBusiness", "LocalBusiness"], "@id": "https://ocalalevelpros.com/#organization", "name": "Ocala Level Pros", "url": "https://ocalalevelpros.com", "logo": {"@type": "ImageObject", "url": "https://ocalalevelpros.com/logo-badge.png"}, "priceRange": "$$", "telephone": "(352) 247-3105", "email": "info@ocalalevelpros.com", "address": {"@type": "PostalAddress", "addressLocality": "Ocala", "addressRegion": "FL", "addressCountry": "US"}, "geo": {"@type": "GeoCoordinates", "latitude": 29.1872, "longitude": -82.1401}, "areaServed": [{"@type": "City", "name": "Ocala", "addressRegion": "FL"}, {"@type": "City", "name": "Silver Springs", "addressRegion": "FL"}, {"@type": "City", "name": "Belleview", "addressRegion": "FL"}, {"@type": "City", "name": "Summerfield", "addressRegion": "FL"}, {"@type": "City", "name": "Dunnellon", "addressRegion": "FL"}, {"@type": "City", "name": "Lady Lake", "addressRegion": "FL"}, {"@type": "City", "name": "Citra", "addressRegion": "FL"}]}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://ocalalevelpros.com/"}, {"@type": "ListItem", "position": 2, "name": "Mobile Home Skirting Installation & Repair in Ocala, FL", "item": "https://ocalalevelpros.com/mobile-home-skirting-ocala/"}]}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "How much does mobile home skirting cost in Ocala?", "acceptedAnswer": {"@type": "Answer", "text": "A full install runs $1,200 to $3,500 depending on your home's size and material. Vinyl on a single-wide sits at the low end, around $1,200 to $2,000, while rigid-foam on a double-wide can reach $3,500. Repairs are much cheaper, typically $250 to $800. We give free written estimates so you have the exact number before we start."}}, {"@type": "Question", "name": "Which is better for Florida: vinyl or rigid-foam skirting?", "acceptedAnswer": {"@type": "Answer", "text": "Vinyl costs less and individual panels are cheap to replace, but it gets brittle after years of Florida sun. Rigid-foam costs roughly 30 to 50 percent more, handles wind better, and insulates the space under your home. If you plan to stay put for a decade, foam usually wins. If budget is tight or park rules require a specific look, vinyl does the job fine."}}, {"@type": "Question", "name": "Does skirting need vents in Florida?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. The standard is about 1 square foot of net vent area per 150 square feet of crawl space, spread around the perimeter so air actually moves through. Skipping vents in our humidity leads to condensation, mold, and rotted floor joists that cost far more than the skirting did. We calculate the vent count for your specific home and use vents with built-in rodent screens."}}, {"@type": "Question", "name": "My park sent a letter about my skirting. Can you help me meet their rules?", "acceptedAnswer": {"@type": "Answer", "text": "Yes, this is common in 55+ communities around Ocala, Belleview, and Lady Lake. Parks often specify approved materials, colors, and a repair deadline. Tell us which community you're in when you call (352) 247-3105 and we'll match their written standards. Most compliance repairs land in the $250 to $800 range unless the whole run needs replacement."}}, {"@type": "Question", "name": "How fast can you repair storm-damaged skirting?", "acceptedAnswer": {"@type": "Answer", "text": "During hurricane season we prioritize storm calls, and most repairs are done in a single visit once materials are matched. Typical storm repairs run $250 to $800 for panels and track. If you're facing an insurance deadline or a pre-closing inspection, our 24/7 emergency line at (352) 247-3105 gets you documentation and a written quote fast."}}]}</script>
 <style is:global>
@@ -36,11 +37,11 @@ import Layout from '../../layouts/Layout.astro';
       <p style="font-size:18px;line-height:1.7;color:rgba(255,255,255,0.85);max-width:540px;margin:0 0 28px;">Vinyl and rigid-foam skirting installed straight, vented right, and sealed against pests. Full installs run $1,200 to $3,500, most repairs $250 to $800, with a free written estimate before we touch a panel.</p>
       <div style="display:flex;flex-wrap:wrap;gap:16px;">
         <a href="tel:+13522473105" class="btn-cream">Call Now — (352) 247-3105</a>
-        <a href="/#contact" class="btn-outline-white">Get a Free Estimate</a>
+        <a href="#estimate" class="btn-outline-white">Get a Free Estimate</a>
       </div>
     </div>
     <div class="hero-img" style="border-radius:12px;overflow:hidden;box-shadow:0 24px 48px rgba(0,0,0,0.3);">
-      <img src="/images/service-4.webp" alt="Mobile Home Skirting Installation & Repair in Ocala, FL" width="800" height="533" style="width:100%;height:100%;object-fit:cover;display:block;" loading="eager" fetchpriority="high">
+      <img src="/images/service-4.webp" alt="Mobile Home Skirting Installation & Repair in Ocala, FL" width="1600" height="1000" style="width:100%;height:100%;object-fit:cover;display:block;" loading="eager" fetchpriority="high" srcset="/images/service-4-800.webp 800w, /images/service-4.webp 1600w" sizes="(max-width: 600px) 100vw, (max-width: 1000px) 50vw, 25vw">
     </div>
   </div>
 </section>
@@ -138,8 +139,24 @@ import Layout from '../../layouts/Layout.astro';
   <p style="font-size:16px;color:rgba(255,255,255,0.8);margin-bottom:28px;max-width:520px;margin-left:auto;margin-right:auto;">Free written estimates. Emergency calls answered around the clock.</p>
   <div style="display:flex;justify-content:center;gap:16px;flex-wrap:wrap;">
     <a href="tel:+13522473105" class="btn-cream">Call Now — (352) 247-3105</a>
-    <a href="/#contact" class="btn-outline-white">Get Free Estimate</a>
+    <a href="#estimate" class="btn-outline-white">Get Free Estimate</a>
   </div>
 </section>
+<section id="estimate" style="background:#F5F0E4;padding:64px 24px;">
+  <div class="est-grid" style="max-width:1000px;margin:0 auto;display:grid;grid-template-columns:1fr 1fr;gap:48px;align-items:center;">
+    <div>
+      <span class="kicker">Free Estimate</span>
+      <h2 class="section-heading" style="font-size:clamp(24px,3.5vw,34px);margin:0 0 16px;">Get Your Free Skirting Estimate</h2>
+      <p style="font-size:16px;line-height:1.8;color:#555;margin:0 0 16px;">Tell us what the home is doing and we'll come measure it. The visit is free, the estimate is written, and there's no obligation.</p>
+      <p style="font-size:16px;line-height:1.8;color:#555;margin:0;">In a hurry? Call <a href="tel:+13522473105" style="color:#1F6D5A;font-weight:600;text-decoration:none;">(352) 247-3105</a> — our line is answered 24/7 for closing and insurance deadlines.</p>
+    </div>
+    <div>
+      <EstimateForm heading="Request a Free Quote" location="Ocala" service="Skirting" />
+    </div>
+  </div>
+</section>
+<style>
+  @media (max-width: 860px) { .est-grid { grid-template-columns: 1fr !important; gap: 32px !important; } }
+</style>
 
 </Layout>

@@ -1,5 +1,6 @@
 ---
 import Layout from '../../layouts/Layout.astro';
+import EstimateForm from '../../components/EstimateForm.astro';
 ---
 
 <Layout
@@ -8,7 +9,7 @@ import Layout from '../../layouts/Layout.astro';
   canonical="https://ocalalevelpros.com/mobile-home-leveling-citra/"
 >
 <Fragment slot="head">
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Service", "name": "Mobile Home Leveling Service in Citra, FL", "description": "Mobile home leveling in Citra, FL. We reset piers, relevel frames, and fix soft spots on rural acreage homes. Free written estimates. Call (352) 247-3105.", "url": "https://ocalalevelpros.com/mobile-home-leveling-citra/", "provider": {"@type": ["Plumber", "LocalBusiness"], "@id": "https://ocalalevelpros.com/#organization", "name": "Ocala Level Pros", "url": "https://ocalalevelpros.com", "logo": {"@type": "ImageObject", "url": "https://ocalalevelpros.com/logo-badge.png"}, "priceRange": "$$", "telephone": "(352) 247-3105", "email": "info@ocalalevelpros.com", "address": {"@type": "PostalAddress", "addressLocality": "Ocala", "addressRegion": "FL", "addressCountry": "US"}, "geo": {"@type": "GeoCoordinates", "latitude": 29.1872, "longitude": -82.1401}, "areaServed": [{"@type": "City", "name": "Ocala", "addressRegion": "FL"}, {"@type": "City", "name": "Silver Springs", "addressRegion": "FL"}, {"@type": "City", "name": "Belleview", "addressRegion": "FL"}, {"@type": "City", "name": "Summerfield", "addressRegion": "FL"}, {"@type": "City", "name": "Dunnellon", "addressRegion": "FL"}, {"@type": "City", "name": "Lady Lake", "addressRegion": "FL"}, {"@type": "City", "name": "Citra", "addressRegion": "FL"}]}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Service", "name": "Mobile Home Leveling Service in Citra, FL", "description": "Mobile home leveling in Citra, FL. We reset piers, relevel frames, and fix soft spots on rural acreage homes. Free written estimates. Call (352) 247-3105.", "url": "https://ocalalevelpros.com/mobile-home-leveling-citra/", "provider": {"@type": ["HomeAndConstructionBusiness", "LocalBusiness"], "@id": "https://ocalalevelpros.com/#organization", "name": "Ocala Level Pros", "url": "https://ocalalevelpros.com", "logo": {"@type": "ImageObject", "url": "https://ocalalevelpros.com/logo-badge.png"}, "priceRange": "$$", "telephone": "(352) 247-3105", "email": "info@ocalalevelpros.com", "address": {"@type": "PostalAddress", "addressLocality": "Ocala", "addressRegion": "FL", "addressCountry": "US"}, "geo": {"@type": "GeoCoordinates", "latitude": 29.1872, "longitude": -82.1401}, "areaServed": [{"@type": "City", "name": "Ocala", "addressRegion": "FL"}, {"@type": "City", "name": "Silver Springs", "addressRegion": "FL"}, {"@type": "City", "name": "Belleview", "addressRegion": "FL"}, {"@type": "City", "name": "Summerfield", "addressRegion": "FL"}, {"@type": "City", "name": "Dunnellon", "addressRegion": "FL"}, {"@type": "City", "name": "Lady Lake", "addressRegion": "FL"}, {"@type": "City", "name": "Citra", "addressRegion": "FL"}]}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://ocalalevelpros.com/"}, {"@type": "ListItem", "position": 2, "name": "Mobile Home Leveling in Citra, FL", "item": "https://ocalalevelpros.com/mobile-home-leveling-citra/"}]}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "How much does mobile home leveling cost in Citra?", "acceptedAnswer": {"@type": "Answer", "text": "Most releveling jobs in the Citra area land in the same range as the rest of Marion County, and the price depends on home size, how many piers need work, and crawl space access. Older acreage homes sometimes need extra blocking or footing work, which we'll spell out in the written estimate before anything starts. Our <a href=\"/mobile-home-leveling-cost/\">cost guide</a> breaks down real numbers so you know what to expect."}}, {"@type": "Question", "name": "My home has sat on the same piers since the 1990s. Is it too far gone to level?", "acceptedAnswer": {"@type": "Answer", "text": "Almost never. We relevel Citra homes that haven't been touched in 30 years on a regular basis. As long as the frame is sound, sunken or crumbling piers can be rebuilt and the home brought back to level. If we find rot or frame damage that changes the picture, we'll show you and talk through options before doing any work."}}, {"@type": "Question", "name": "Do you come out to properties on dirt roads and larger acreage in Citra?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. A big share of our north county work is off unpaved drives between US 301 and the Fort McCoy and Orange Lake areas. Our crews carry blocks, shims, and jacks on the truck, so a long driveway or a home set back behind pasture isn't a problem. Just mention the access when you call and we'll plan for it."}}, {"@type": "Question", "name": "Can you fix what a 4-point or tie-down inspection flagged before my deadline?", "acceptedAnswer": {"@type": "Answer", "text": "That's one of the most common calls we get from Citra. Send us the inspection report, and we'll quote the specific items: releveling, pier repair, strap and anchor replacement, or skirting. If you're on a closing or insurance deadline, use our 24/7 line at (352) 247-3105 and we'll prioritize the visit. You'll get written documentation of the completed work to pass along."}}]}</script>
 <style is:global>
@@ -36,11 +37,11 @@ import Layout from '../../layouts/Layout.astro';
       <p style="font-size:18px;line-height:1.7;color:rgba(255,255,255,0.85);max-width:540px;margin:0 0 28px;">Serving the acreage and horse country of north Marion County, from the US 301 corridor out to Orange Lake. Free written estimates and straight answers from a local crew.</p>
       <div style="display:flex;flex-wrap:wrap;gap:16px;">
         <a href="tel:+13522473105" class="btn-cream">Call Now — (352) 247-3105</a>
-        <a href="/#contact" class="btn-outline-white">Get a Free Estimate</a>
+        <a href="#estimate" class="btn-outline-white">Get a Free Estimate</a>
       </div>
     </div>
     <div class="hero-img" style="border-radius:12px;overflow:hidden;box-shadow:0 24px 48px rgba(0,0,0,0.3);">
-      <img src="/images/city-6.webp" alt="Mobile Home Leveling in Citra, FL" width="800" height="533" style="width:100%;height:100%;object-fit:cover;display:block;" loading="eager" fetchpriority="high">
+      <img src="/images/city-6.webp" alt="Mobile Home Leveling in Citra, FL" width="1600" height="1000" style="width:100%;height:100%;object-fit:cover;display:block;" loading="eager" fetchpriority="high" srcset="/images/city-6-800.webp 800w, /images/city-6.webp 1600w" sizes="100vw">
     </div>
   </div>
 </section>
@@ -120,8 +121,24 @@ import Layout from '../../layouts/Layout.astro';
   <p style="font-size:16px;color:rgba(255,255,255,0.8);margin-bottom:28px;max-width:520px;margin-left:auto;margin-right:auto;">Free written estimates. Emergency calls answered around the clock.</p>
   <div style="display:flex;justify-content:center;gap:16px;flex-wrap:wrap;">
     <a href="tel:+13522473105" class="btn-cream">Call Now — (352) 247-3105</a>
-    <a href="/#contact" class="btn-outline-white">Get Free Estimate</a>
+    <a href="#estimate" class="btn-outline-white">Get Free Estimate</a>
   </div>
 </section>
+<section id="estimate" style="background:#F5F0E4;padding:64px 24px;">
+  <div class="est-grid" style="max-width:1000px;margin:0 auto;display:grid;grid-template-columns:1fr 1fr;gap:48px;align-items:center;">
+    <div>
+      <span class="kicker">Free Estimate</span>
+      <h2 class="section-heading" style="font-size:clamp(24px,3.5vw,34px);margin:0 0 16px;">Get Your Free Citra Estimate</h2>
+      <p style="font-size:16px;line-height:1.8;color:#555;margin:0 0 16px;">Tell us what the home is doing and we'll come measure it. The visit is free, the estimate is written, and there's no obligation.</p>
+      <p style="font-size:16px;line-height:1.8;color:#555;margin:0;">In a hurry? Call <a href="tel:+13522473105" style="color:#1F6D5A;font-weight:600;text-decoration:none;">(352) 247-3105</a> — our line is answered 24/7 for closing and insurance deadlines.</p>
+    </div>
+    <div>
+      <EstimateForm heading="Request a Free Quote" location="Citra" service="Mobile Home Leveling" />
+    </div>
+  </div>
+</section>
+<style>
+  @media (max-width: 860px) { .est-grid { grid-template-columns: 1fr !important; gap: 32px !important; } }
+</style>
 
 </Layout>

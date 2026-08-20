@@ -1,5 +1,6 @@
 ---
 import Layout from '../../layouts/Layout.astro';
+import EstimateForm from '../../components/EstimateForm.astro';
 ---
 
 <Layout
@@ -35,11 +36,11 @@ import Layout from '../../layouts/Layout.astro';
       <p style="font-size:18px;line-height:1.7;color:rgba(255,255,255,0.85);max-width:540px;margin:0 0 28px;">Real numbers, not a sales pitch. Most releveling jobs in our area land between $450 and $1,500, and every job starts with a free written estimate.</p>
       <div style="display:flex;flex-wrap:wrap;gap:16px;">
         <a href="tel:+13522473105" class="btn-cream">Call Now — (352) 247-3105</a>
-        <a href="/#contact" class="btn-outline-white">Get a Free Estimate</a>
+        <a href="#estimate" class="btn-outline-white">Get a Free Estimate</a>
       </div>
     </div>
     <div class="hero-img" style="border-radius:12px;overflow:hidden;box-shadow:0 24px 48px rgba(0,0,0,0.3);">
-      <img src="/images/service-2.webp" alt="Mobile Home Leveling Cost: 2026 Prices for Ocala and Marion County" width="800" height="533" style="width:100%;height:100%;object-fit:cover;display:block;" loading="eager" fetchpriority="high">
+      <img src="/images/service-2.webp" alt="Mobile Home Leveling Cost: 2026 Prices for Ocala and Marion County" width="1600" height="1000" style="width:100%;height:100%;object-fit:cover;display:block;" loading="eager" fetchpriority="high" srcset="/images/service-2-800.webp 800w, /images/service-2.webp 1600w" sizes="(max-width: 600px) 100vw, (max-width: 1000px) 50vw, 25vw">
     </div>
   </div>
 </section>
@@ -159,8 +160,24 @@ import Layout from '../../layouts/Layout.astro';
   <p style="font-size:16px;color:rgba(255,255,255,0.8);margin-bottom:28px;max-width:520px;margin-left:auto;margin-right:auto;">Free written estimates. Emergency calls answered around the clock.</p>
   <div style="display:flex;justify-content:center;gap:16px;flex-wrap:wrap;">
     <a href="tel:+13522473105" class="btn-cream">Call Now — (352) 247-3105</a>
-    <a href="/#contact" class="btn-outline-white">Get Free Estimate</a>
+    <a href="#estimate" class="btn-outline-white">Get Free Estimate</a>
   </div>
 </section>
+<section id="estimate" style="background:#F5F0E4;padding:64px 24px;">
+  <div class="est-grid" style="max-width:1000px;margin:0 auto;display:grid;grid-template-columns:1fr 1fr;gap:48px;align-items:center;">
+    <div>
+      <span class="kicker">Free Estimate</span>
+      <h2 class="section-heading" style="font-size:clamp(24px,3.5vw,34px);margin:0 0 16px;">Get Your Exact Price in Writing</h2>
+      <p style="font-size:16px;line-height:1.8;color:#555;margin:0 0 16px;">Tell us what the home is doing and we'll come measure it. The visit is free, the estimate is written, and there's no obligation.</p>
+      <p style="font-size:16px;line-height:1.8;color:#555;margin:0;">In a hurry? Call <a href="tel:+13522473105" style="color:#1F6D5A;font-weight:600;text-decoration:none;">(352) 247-3105</a> — our line is answered 24/7 for closing and insurance deadlines.</p>
+    </div>
+    <div>
+      <EstimateForm heading="Request a Free Quote" location="Ocala" service="Leveling Cost Guide" />
+    </div>
+  </div>
+</section>
+<style>
+  @media (max-width: 860px) { .est-grid { grid-template-columns: 1fr !important; gap: 32px !important; } }
+</style>
 
 </Layout>

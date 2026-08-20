@@ -1,5 +1,6 @@
 ---
 import Layout from '../../layouts/Layout.astro';
+import EstimateForm from '../../components/EstimateForm.astro';
 ---
 
 <Layout
@@ -8,7 +9,7 @@ import Layout from '../../layouts/Layout.astro';
   canonical="https://ocalalevelpros.com/mobile-home-leveling-silver-springs/"
 >
 <Fragment slot="head">
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Service", "name": "Mobile Home Leveling Service in Silver Springs, FL", "description": "Mobile home leveling in Silver Springs and Silver Springs Shores. Free written estimates, licensed and insured. Call Ocala Level Pros at (352) 247-3105.", "url": "https://ocalalevelpros.com/mobile-home-leveling-silver-springs/", "provider": {"@type": ["Plumber", "LocalBusiness"], "@id": "https://ocalalevelpros.com/#organization", "name": "Ocala Level Pros", "url": "https://ocalalevelpros.com", "logo": {"@type": "ImageObject", "url": "https://ocalalevelpros.com/logo-badge.png"}, "priceRange": "$$", "telephone": "(352) 247-3105", "email": "info@ocalalevelpros.com", "address": {"@type": "PostalAddress", "addressLocality": "Ocala", "addressRegion": "FL", "addressCountry": "US"}, "geo": {"@type": "GeoCoordinates", "latitude": 29.1872, "longitude": -82.1401}, "areaServed": [{"@type": "City", "name": "Ocala", "addressRegion": "FL"}, {"@type": "City", "name": "Silver Springs", "addressRegion": "FL"}, {"@type": "City", "name": "Belleview", "addressRegion": "FL"}, {"@type": "City", "name": "Summerfield", "addressRegion": "FL"}, {"@type": "City", "name": "Dunnellon", "addressRegion": "FL"}, {"@type": "City", "name": "Lady Lake", "addressRegion": "FL"}, {"@type": "City", "name": "Citra", "addressRegion": "FL"}]}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Service", "name": "Mobile Home Leveling Service in Silver Springs, FL", "description": "Mobile home leveling in Silver Springs and Silver Springs Shores. Free written estimates, licensed and insured. Call Ocala Level Pros at (352) 247-3105.", "url": "https://ocalalevelpros.com/mobile-home-leveling-silver-springs/", "provider": {"@type": ["HomeAndConstructionBusiness", "LocalBusiness"], "@id": "https://ocalalevelpros.com/#organization", "name": "Ocala Level Pros", "url": "https://ocalalevelpros.com", "logo": {"@type": "ImageObject", "url": "https://ocalalevelpros.com/logo-badge.png"}, "priceRange": "$$", "telephone": "(352) 247-3105", "email": "info@ocalalevelpros.com", "address": {"@type": "PostalAddress", "addressLocality": "Ocala", "addressRegion": "FL", "addressCountry": "US"}, "geo": {"@type": "GeoCoordinates", "latitude": 29.1872, "longitude": -82.1401}, "areaServed": [{"@type": "City", "name": "Ocala", "addressRegion": "FL"}, {"@type": "City", "name": "Silver Springs", "addressRegion": "FL"}, {"@type": "City", "name": "Belleview", "addressRegion": "FL"}, {"@type": "City", "name": "Summerfield", "addressRegion": "FL"}, {"@type": "City", "name": "Dunnellon", "addressRegion": "FL"}, {"@type": "City", "name": "Lady Lake", "addressRegion": "FL"}, {"@type": "City", "name": "Citra", "addressRegion": "FL"}]}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://ocalalevelpros.com/"}, {"@type": "ListItem", "position": 2, "name": "Mobile Home Leveling in Silver Springs, FL", "item": "https://ocalalevelpros.com/mobile-home-leveling-silver-springs/"}]}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "How do I know if my Silver Springs Shores home needs releveling?", "acceptedAnswer": {"@type": "Answer", "text": "The common signs are doors and windows that stick, cracks spreading from door or window corners, sloping or bouncy floors, and skirting that's separating from the home. Homes in the Shores built in the 1970s and 80s that have never been releveled almost always show some settling. We'll check it free and give you a straight answer either way."}}, {"@type": "Question", "name": "How long does mobile home leveling take in Silver Springs?", "acceptedAnswer": {"@type": "Answer", "text": "Most single-wides are done in half a day and most double-wides in a full day. You can stay home while we work since almost everything happens underneath the home. Bigger jobs, like adding piers or replacing a vapor barrier at the same time, can add a second day."}}, {"@type": "Question", "name": "Will my old tie-downs pass a 4-point inspection?", "acceptedAnswer": {"@type": "Answer", "text": "If your home went in during the 70s or 80s and the anchors have never been upgraded, there's a good chance they won't pass today's standards. Rusted straps, loose anchor heads, and too few anchors are the usual failures we see in Silver Springs. We can inspect them during a leveling visit and quote the upgrade in writing."}}, {"@type": "Question", "name": "Does the sandy soil around Silver Springs cause more settling?", "acceptedAnswer": {"@type": "Answer", "text": "Sandy soil drains fast, which is good, but heavy summer rains can shift and compact it unevenly under pier footings. That's why homes here often settle on one side or corner rather than all at once. Proper footings and periodic releveling keep it manageable, and it's not a reason to worry about the home itself."}}]}</script>
 <style is:global>
@@ -36,11 +37,11 @@ import Layout from '../../layouts/Layout.astro';
       <p style="font-size:18px;line-height:1.7;color:rgba(255,255,255,0.85);max-width:540px;margin:0 0 28px;">From the Shores to the homes off SR 40 near the state park, we relevel manufactured homes on Silver Springs' sandy ground and back it up with a free written estimate.</p>
       <div style="display:flex;flex-wrap:wrap;gap:16px;">
         <a href="tel:+13522473105" class="btn-cream">Call Now — (352) 247-3105</a>
-        <a href="/#contact" class="btn-outline-white">Get a Free Estimate</a>
+        <a href="#estimate" class="btn-outline-white">Get a Free Estimate</a>
       </div>
     </div>
     <div class="hero-img" style="border-radius:12px;overflow:hidden;box-shadow:0 24px 48px rgba(0,0,0,0.3);">
-      <img src="/images/city-1.webp" alt="Mobile Home Leveling in Silver Springs, FL" width="800" height="533" style="width:100%;height:100%;object-fit:cover;display:block;" loading="eager" fetchpriority="high">
+      <img src="/images/city-1.webp" alt="Mobile Home Leveling in Silver Springs, FL" width="1600" height="1000" style="width:100%;height:100%;object-fit:cover;display:block;" loading="eager" fetchpriority="high" srcset="/images/city-1-800.webp 800w, /images/city-1.webp 1600w" sizes="100vw">
     </div>
   </div>
 </section>
@@ -120,8 +121,24 @@ import Layout from '../../layouts/Layout.astro';
   <p style="font-size:16px;color:rgba(255,255,255,0.8);margin-bottom:28px;max-width:520px;margin-left:auto;margin-right:auto;">Free written estimates. Emergency calls answered around the clock.</p>
   <div style="display:flex;justify-content:center;gap:16px;flex-wrap:wrap;">
     <a href="tel:+13522473105" class="btn-cream">Call Now — (352) 247-3105</a>
-    <a href="/#contact" class="btn-outline-white">Get Free Estimate</a>
+    <a href="#estimate" class="btn-outline-white">Get Free Estimate</a>
   </div>
 </section>
+<section id="estimate" style="background:#F5F0E4;padding:64px 24px;">
+  <div class="est-grid" style="max-width:1000px;margin:0 auto;display:grid;grid-template-columns:1fr 1fr;gap:48px;align-items:center;">
+    <div>
+      <span class="kicker">Free Estimate</span>
+      <h2 class="section-heading" style="font-size:clamp(24px,3.5vw,34px);margin:0 0 16px;">Get Your Free Silver Springs Estimate</h2>
+      <p style="font-size:16px;line-height:1.8;color:#555;margin:0 0 16px;">Tell us what the home is doing and we'll come measure it. The visit is free, the estimate is written, and there's no obligation.</p>
+      <p style="font-size:16px;line-height:1.8;color:#555;margin:0;">In a hurry? Call <a href="tel:+13522473105" style="color:#1F6D5A;font-weight:600;text-decoration:none;">(352) 247-3105</a> — our line is answered 24/7 for closing and insurance deadlines.</p>
+    </div>
+    <div>
+      <EstimateForm heading="Request a Free Quote" location="Silver Springs" service="Mobile Home Leveling" />
+    </div>
+  </div>
+</section>
+<style>
+  @media (max-width: 860px) { .est-grid { grid-template-columns: 1fr !important; gap: 32px !important; } }
+</style>
 
 </Layout>

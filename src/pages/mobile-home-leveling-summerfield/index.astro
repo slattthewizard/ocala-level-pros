@@ -1,5 +1,6 @@
 ---
 import Layout from '../../layouts/Layout.astro';
+import EstimateForm from '../../components/EstimateForm.astro';
 ---
 
 <Layout
@@ -8,7 +9,7 @@ import Layout from '../../layouts/Layout.astro';
   canonical="https://ocalalevelpros.com/mobile-home-leveling-summerfield/"
 >
 <Fragment slot="head">
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Service", "name": "Mobile Home Leveling Service in Summerfield, FL", "description": "Mobile home leveling in Summerfield, FL. Free written estimates, tie-down inspections, and fast scheduling for insurance deadlines. Call (352) 247-3105.", "url": "https://ocalalevelpros.com/mobile-home-leveling-summerfield/", "provider": {"@type": ["Plumber", "LocalBusiness"], "@id": "https://ocalalevelpros.com/#organization", "name": "Ocala Level Pros", "url": "https://ocalalevelpros.com", "logo": {"@type": "ImageObject", "url": "https://ocalalevelpros.com/logo-badge.png"}, "priceRange": "$$", "telephone": "(352) 247-3105", "email": "info@ocalalevelpros.com", "address": {"@type": "PostalAddress", "addressLocality": "Ocala", "addressRegion": "FL", "addressCountry": "US"}, "geo": {"@type": "GeoCoordinates", "latitude": 29.1872, "longitude": -82.1401}, "areaServed": [{"@type": "City", "name": "Ocala", "addressRegion": "FL"}, {"@type": "City", "name": "Silver Springs", "addressRegion": "FL"}, {"@type": "City", "name": "Belleview", "addressRegion": "FL"}, {"@type": "City", "name": "Summerfield", "addressRegion": "FL"}, {"@type": "City", "name": "Dunnellon", "addressRegion": "FL"}, {"@type": "City", "name": "Lady Lake", "addressRegion": "FL"}, {"@type": "City", "name": "Citra", "addressRegion": "FL"}]}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Service", "name": "Mobile Home Leveling Service in Summerfield, FL", "description": "Mobile home leveling in Summerfield, FL. Free written estimates, tie-down inspections, and fast scheduling for insurance deadlines. Call (352) 247-3105.", "url": "https://ocalalevelpros.com/mobile-home-leveling-summerfield/", "provider": {"@type": ["HomeAndConstructionBusiness", "LocalBusiness"], "@id": "https://ocalalevelpros.com/#organization", "name": "Ocala Level Pros", "url": "https://ocalalevelpros.com", "logo": {"@type": "ImageObject", "url": "https://ocalalevelpros.com/logo-badge.png"}, "priceRange": "$$", "telephone": "(352) 247-3105", "email": "info@ocalalevelpros.com", "address": {"@type": "PostalAddress", "addressLocality": "Ocala", "addressRegion": "FL", "addressCountry": "US"}, "geo": {"@type": "GeoCoordinates", "latitude": 29.1872, "longitude": -82.1401}, "areaServed": [{"@type": "City", "name": "Ocala", "addressRegion": "FL"}, {"@type": "City", "name": "Silver Springs", "addressRegion": "FL"}, {"@type": "City", "name": "Belleview", "addressRegion": "FL"}, {"@type": "City", "name": "Summerfield", "addressRegion": "FL"}, {"@type": "City", "name": "Dunnellon", "addressRegion": "FL"}, {"@type": "City", "name": "Lady Lake", "addressRegion": "FL"}, {"@type": "City", "name": "Citra", "addressRegion": "FL"}]}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://ocalalevelpros.com/"}, {"@type": "ListItem", "position": 2, "name": "Mobile Home Leveling in Summerfield, FL", "item": "https://ocalalevelpros.com/mobile-home-leveling-summerfield/"}]}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "How much does mobile home leveling cost in Summerfield?", "acceptedAnswer": {"@type": "Answer", "text": "Most Summerfield relevels fall in the same range as the rest of Marion County, and the price depends on the home's size and how many piers need work. A single-wide with minor settling costs less than a double-wide that needs added piers. We give you a free written estimate before any work starts, and our <a href=\"/mobile-home-leveling-cost/\">cost guide</a> lays out typical numbers."}}, {"@type": "Question", "name": "My insurance company wants a tie-down certification. How fast can you get out here?", "acceptedAnswer": {"@type": "Answer", "text": "Usually within a few days, and we keep a 24/7 line for hard insurance deadlines. Summerfield is a short drive from our Ocala base, so we can often inspect, make repairs, and hand you documentation inside the window your carrier gave you. Call (352) 247-3105 and tell us your deadline."}}, {"@type": "Question", "name": "Do you work in the 55+ communities around Summerfield?", "acceptedAnswer": {"@type": "Answer", "text": "Yes, a large share of our Summerfield work is in the retirement communities off US 441 and US 301, including the Spruce Creek area. We're used to community rules about contractor access and work hours, and we leave the site clean. We're licensed and insured, and we're happy to provide proof to your HOA or community office."}}, {"@type": "Question", "name": "How do I know if my Summerfield mobile home needs leveling?", "acceptedAnswer": {"@type": "Answer", "text": "Watch for doors that stick or swing on their own, floors that slope or bounce, and cracks around windows or interior seams. Skirting that's buckling or pulling away from the home is another early sign. Any one of these is worth a look, because small settling is cheaper to fix than a frame that's been twisting for years."}}]}</script>
 <style is:global>
@@ -36,11 +37,11 @@ import Layout from '../../layouts/Layout.astro';
       <p style="font-size:18px;line-height:1.7;color:rgba(255,255,255,0.85);max-width:540px;margin:0 0 28px;">From the Spruce Creek communities to the US 441 corridor, we level, anchor, and inspect manufactured homes across Summerfield. Free written estimates and fast scheduling when an insurance deadline is breathing down your neck.</p>
       <div style="display:flex;flex-wrap:wrap;gap:16px;">
         <a href="tel:+13522473105" class="btn-cream">Call Now — (352) 247-3105</a>
-        <a href="/#contact" class="btn-outline-white">Get a Free Estimate</a>
+        <a href="#estimate" class="btn-outline-white">Get a Free Estimate</a>
       </div>
     </div>
     <div class="hero-img" style="border-radius:12px;overflow:hidden;box-shadow:0 24px 48px rgba(0,0,0,0.3);">
-      <img src="/images/city-3.webp" alt="Mobile Home Leveling in Summerfield, FL" width="800" height="533" style="width:100%;height:100%;object-fit:cover;display:block;" loading="eager" fetchpriority="high">
+      <img src="/images/city-3.webp" alt="Mobile Home Leveling in Summerfield, FL" width="1600" height="1000" style="width:100%;height:100%;object-fit:cover;display:block;" loading="eager" fetchpriority="high" srcset="/images/city-3-800.webp 800w, /images/city-3.webp 1600w" sizes="100vw">
     </div>
   </div>
 </section>
@@ -120,8 +121,24 @@ import Layout from '../../layouts/Layout.astro';
   <p style="font-size:16px;color:rgba(255,255,255,0.8);margin-bottom:28px;max-width:520px;margin-left:auto;margin-right:auto;">Free written estimates. Emergency calls answered around the clock.</p>
   <div style="display:flex;justify-content:center;gap:16px;flex-wrap:wrap;">
     <a href="tel:+13522473105" class="btn-cream">Call Now — (352) 247-3105</a>
-    <a href="/#contact" class="btn-outline-white">Get Free Estimate</a>
+    <a href="#estimate" class="btn-outline-white">Get Free Estimate</a>
   </div>
 </section>
+<section id="estimate" style="background:#F5F0E4;padding:64px 24px;">
+  <div class="est-grid" style="max-width:1000px;margin:0 auto;display:grid;grid-template-columns:1fr 1fr;gap:48px;align-items:center;">
+    <div>
+      <span class="kicker">Free Estimate</span>
+      <h2 class="section-heading" style="font-size:clamp(24px,3.5vw,34px);margin:0 0 16px;">Get Your Free Summerfield Estimate</h2>
+      <p style="font-size:16px;line-height:1.8;color:#555;margin:0 0 16px;">Tell us what the home is doing and we'll come measure it. The visit is free, the estimate is written, and there's no obligation.</p>
+      <p style="font-size:16px;line-height:1.8;color:#555;margin:0;">In a hurry? Call <a href="tel:+13522473105" style="color:#1F6D5A;font-weight:600;text-decoration:none;">(352) 247-3105</a> — our line is answered 24/7 for closing and insurance deadlines.</p>
+    </div>
+    <div>
+      <EstimateForm heading="Request a Free Quote" location="Summerfield" service="Mobile Home Leveling" />
+    </div>
+  </div>
+</section>
+<style>
+  @media (max-width: 860px) { .est-grid { grid-template-columns: 1fr !important; gap: 32px !important; } }
+</style>
 
 </Layout>
