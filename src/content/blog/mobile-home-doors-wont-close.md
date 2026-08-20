@@ -6,7 +6,7 @@ metaDescription: "Sticking doors usually mean your mobile home has settled. Lear
 primaryKeyword: "mobile home door won't close"
 secondaryKeywords: "mobile home door sticking, mobile home door won't latch, doors out of alignment mobile home, mobile home settling doors, sticking doors mobile home"
 publishedDate: "2026-08-02"
-tag: "Well Care"
+tag: "Warning Signs"
 subtitle: "You've shaved that door twice. You've tightened the hinges, swapped the strike plate, maybe even bought a new door. And it still won't latch by October."
 canonical: "https://ocalalevelpros.com/blog/mobile-home-doors-wont-close/"
 faq:

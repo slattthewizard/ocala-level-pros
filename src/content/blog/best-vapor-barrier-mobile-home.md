@@ -6,7 +6,7 @@ metaDescription: "The best vapor barrier for a mobile home isn't the cheapest ro
 primaryKeyword: "best vapor barrier for mobile home"
 secondaryKeywords: "mobile home vapor barrier thickness, 6 mil vs 10 mil vapor barrier, vapor barrier under mobile home, mobile home moisture barrier, belly wrap vs ground vapor barrier"
 publishedDate: "2026-08-05"
-tag: "Well Care"
+tag: "Vapor Barrier"
 subtitle: "Pull back the skirting on most mobile homes in Marion County and you'll find one of two things: bare sand, or a shredded sheet of plastic that quit working years ago."
 canonical: "https://ocalalevelpros.com/blog/best-vapor-barrier-mobile-home/"
 faq:

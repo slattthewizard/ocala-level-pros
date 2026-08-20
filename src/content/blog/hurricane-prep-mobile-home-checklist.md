@@ -6,7 +6,7 @@ metaDescription: "Get a practical hurricane preparation checklist for mobile hom
 primaryKeyword: "hurricane preparation for mobile homes"
 secondaryKeywords: "hurricane prep for mobile homes, mobile home hurricane checklist, prepare mobile home for hurricane, mobile home tie-down inspection, hurricane readiness manufactured home"
 publishedDate: "2026-08-16"
-tag: "Well Care"
+tag: "Storm Prep"
 subtitle: "A Category 1 hurricane pushes winds of 74 to 95 mph across Marion County, and a mobile home with loose tie-downs can start shifting on its piers in gusts well below that."
 canonical: "https://ocalalevelpros.com/blog/hurricane-prep-mobile-home-checklist/"
 faq:

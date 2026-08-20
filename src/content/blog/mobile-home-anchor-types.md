@@ -6,7 +6,7 @@ metaDescription: "Auger, rock, or concrete? Compare mobile home anchor types for
 primaryKeyword: "mobile home anchor types"
 secondaryKeywords: "auger anchors for mobile homes, mobile home ground anchors, rock anchors mobile home, concrete anchors mobile home, mobile home tie-down anchors"
 publishedDate: "2026-08-19"
-tag: "Well Care"
+tag: "Tie-Downs"
 subtitle: "Your entire home is held to the ground by steel rods, and most of them were screwed into loose Florida sand by someone you never met. That's not a scare line."
 canonical: "https://ocalalevelpros.com/blog/mobile-home-anchor-types/"
 faq:

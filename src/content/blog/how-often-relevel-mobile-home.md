@@ -6,7 +6,7 @@ metaDescription: "Learn how often a mobile home should be leveled in Florida, th
 primaryKeyword: "how often should a mobile home be leveled"
 secondaryKeywords: "how often to relevel a mobile home, mobile home releveling schedule, mobile home leveling frequency, when to relevel a manufactured home, mobile home releveling Florida"
 publishedDate: "2026-08-02"
-tag: "Well Care"
+tag: "Leveling"
 subtitle: "Here's a number that surprises most of the homeowners we meet: a mobile home in Central Florida can drift out of level in as little as two to three years, even when nothing looks wrong from the..."
 canonical: "https://ocalalevelpros.com/blog/how-often-relevel-mobile-home/"
 faq:

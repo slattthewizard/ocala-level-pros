@@ -6,7 +6,7 @@ metaDescription: "Most mobile homes in Ocala are leveled in 2 to 6 hours. See re
 primaryKeyword: "how long does it take to level a mobile home"
 secondaryKeywords: "mobile home leveling time, how long to level a double wide, mobile home releveling timeline, time to level a single wide, how long does releveling take"
 publishedDate: "2026-08-02"
-tag: "Well Care"
+tag: "Leveling"
 subtitle: "Here's a number that surprises most homeowners: the average releveling job in Marion County is done in about four hours. Not four days, not a week with your yard torn up. Four hours."
 canonical: "https://ocalalevelpros.com/blog/how-long-mobile-home-leveling-takes/"
 faq:

@@ -6,7 +6,7 @@ metaDescription: "See exactly how to level a mobile home, from the water level c
 primaryKeyword: "how to level a mobile home"
 secondaryKeywords: "mobile home leveling process, releveling a mobile home, mobile home leveling steps, jacking up a mobile home, how mobile home leveling works"
 publishedDate: "2026-08-02"
-tag: "Well Care"
+tag: "Leveling"
 subtitle: "Your bedroom door swings open by itself. A crack just showed up over the kitchen window. And last week you noticed the floor near the hallway feels like it tilts a little downhill."
 canonical: "https://ocalalevelpros.com/blog/how-mobile-home-leveling-works/"
 faq:

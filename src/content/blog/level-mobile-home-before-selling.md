@@ -6,7 +6,7 @@ metaDescription: "Is leveling a mobile home before selling worth it? See real Ma
 primaryKeyword: "leveling mobile home before selling"
 secondaryKeywords: "level mobile home before sale, relevel mobile home to sell, unlevel mobile home selling, mobile home leveling before listing, selling an unlevel mobile home"
 publishedDate: "2026-08-17"
-tag: "Well Care"
+tag: "Buying & Selling"
 subtitle: "A $650 relevel job just saved a Belleview seller from a $3,000 price cut. That's not a sales pitch, it's math, and it's the kind of math you should run before you list your home."
 canonical: "https://ocalalevelpros.com/blog/level-mobile-home-before-selling/"
 faq:

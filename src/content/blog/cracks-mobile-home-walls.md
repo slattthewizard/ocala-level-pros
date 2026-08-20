@@ -6,7 +6,7 @@ metaDescription: "Worried about cracks in mobile home walls? Learn which ones ar
 primaryKeyword: "cracks in mobile home walls"
 secondaryKeywords: "mobile home wall cracks, cracks in mobile home ceiling, mobile home cracking walls, why is my mobile home cracking, mobile home settling cracks"
 publishedDate: "2026-08-08"
-tag: "Well Care"
+tag: "Warning Signs"
 subtitle: "You've patched that crack above the bedroom door three times this year, and it keeps coming back wider. That's not a paint problem. That's your home telling you something moved underneath it."
 canonical: "https://ocalalevelpros.com/blog/cracks-mobile-home-walls/"
 faq:

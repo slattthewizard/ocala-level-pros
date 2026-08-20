@@ -14,19 +14,26 @@ from pathlib import Path
 
 
 TAG_MAP = {
-    'repair': 'Pump Repair', 'fix': 'Pump Repair', 'troubleshoot': 'Pump Repair',
-    'replace': 'Pump Replacement', 'replacement': 'Pump Replacement', 'lifespan': 'Pump Replacement',
-    'pressure tank': 'Pressure Tanks', 'pressure switch': 'Pressure Tanks', 'bladder': 'Pressure Tanks',
-    'no water': 'Emergency', 'emergency': 'Emergency', 'stopped working': 'Emergency',
-    'cost': 'Cost Guide', 'price': 'Cost Guide', 'worth': 'Cost Guide',
-    'water quality': 'Water Quality', 'sediment': 'Water Quality', 'smell': 'Water Quality',
-    'taste': 'Water Quality', 'test': 'Water Quality', 'filter': 'Water Quality', 'softener': 'Water Quality',
-    'winter': 'Maintenance', 'maintenance': 'Maintenance', 'inspect': 'Maintenance',
-    'freeze': 'Maintenance', 'frozen': 'Maintenance',
-    'drill': 'Wells 101', 'depth': 'Wells 101', 'how deep': 'Wells 101', 'casing': 'Wells 101',
-    'permit': 'Regulations', 'law': 'Regulations', 'rights': 'Regulations', 'license': 'Regulations',
-    'buy': 'Buying a Home', 'real estate': 'Buying a Home', 'inspection when buying': 'Buying a Home',
-    'irrigation': 'Irrigation', 'orchard': 'Irrigation', 'sprinkler': 'Irrigation',
+    'tie down': 'Tie-Downs', 'tie-down': 'Tie-Downs', 'anchor': 'Tie-Downs',
+    'strap': 'Tie-Downs', 'frame tie': 'Tie-Downs',
+    'cost': 'Cost Guide', 'price': 'Cost Guide', 'worth': 'Cost Guide', 'how much': 'Cost Guide',
+    'vapor barrier': 'Vapor Barrier', 'belly': 'Underbelly', 'underbelly': 'Underbelly',
+    'insulation': 'Underbelly', 'animals': 'Underbelly', 'mold': 'Underbelly', 'water under': 'Underbelly',
+    'skirting': 'Skirting',
+    'hurricane': 'Storm Prep', 'wind zone': 'Storm Prep', 'storm': 'Storm Prep', 'flood': 'Storm Prep',
+    'inspection': 'Inspections', '4 point': 'Inspections', 'four point': 'Inspections',
+    'certification': 'Inspections', 'fha': 'Inspections', 'insurance': 'Inspections',
+    'permit': 'Regulations', 'law': 'Regulations', 'requirement': 'Regulations',
+    'code': 'Regulations', 'pre-1976': 'Regulations',
+    'sell': 'Buying & Selling', 'selling': 'Buying & Selling', 'buying': 'Buying & Selling',
+    'used mobile home': 'Buying & Selling', 'scam': 'Buying & Selling',
+    'contractor': 'Buying & Selling', 'park': 'Buying & Selling',
+    'crack': 'Warning Signs', 'soft spot': 'Warning Signs', 'bouncy': 'Warning Signs',
+    'squeak': 'Warning Signs', 'door': 'Warning Signs', 'window': 'Warning Signs',
+    'sign': 'Warning Signs', 'settling': 'Warning Signs', 'settle': 'Warning Signs',
+    'sinkhole': 'Warning Signs', 'sagging': 'Warning Signs',
+    'pier': 'Leveling', 'shim': 'Leveling', 'level': 'Leveling', 'relevel': 'Leveling',
+    'foundation': 'Leveling', 'subfloor': 'Leveling', 'jack': 'Leveling',
 }
 
 
@@ -35,7 +42,7 @@ def guess_tag(title, keyword):
     for fragment, tag in TAG_MAP.items():
         if fragment in text:
             return tag
-    return 'Well Care'
+    return 'Mobile Home Care'
 
 
 def make_nav_title(title):

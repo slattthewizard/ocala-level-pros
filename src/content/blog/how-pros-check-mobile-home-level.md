@@ -6,7 +6,7 @@ metaDescription: "How to tell if a mobile home is level, the way pros do it: wat
 primaryKeyword: "how to tell if a mobile home is level"
 secondaryKeywords: "check mobile home level, mobile home not level signs, water level for mobile homes, laser level mobile home, mobile home leveling check"
 publishedDate: "2026-08-15"
-tag: "Well Care"
+tag: "Leveling"
 subtitle: "Set a marble on your kitchen floor. If it takes off rolling toward the hallway, your home just answered a question most owners never think to ask."
 canonical: "https://ocalalevelpros.com/blog/how-pros-check-mobile-home-level/"
 faq:

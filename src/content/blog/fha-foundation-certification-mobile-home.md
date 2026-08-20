@@ -6,7 +6,7 @@ metaDescription: "Buying or refinancing a mobile home with an FHA loan? Here's w
 primaryKeyword: "FHA foundation certification mobile home"
 secondaryKeywords: "FHA foundation inspection manufactured home, HUD permanent foundation requirements, engineer foundation certification mobile home, FHA foundation retrofit cost, manufactured home foundation certification Florida"
 publishedDate: "2026-08-10"
-tag: "Well Care"
+tag: "Inspections"
 subtitle: "Your loan officer just called. The underwriter won't clear your file until an engineer signs off on the foundation, closing is in 12 days, and you've never heard the words \"permanent foundation\" in..."
 canonical: "https://ocalalevelpros.com/blog/fha-foundation-certification-mobile-home/"
 faq:

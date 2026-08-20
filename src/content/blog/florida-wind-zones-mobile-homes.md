@@ -6,7 +6,7 @@ metaDescription: "Marion County sits in HUD Wind Zone 2. Learn what that means f
 primaryKeyword: "Florida wind zone mobile home"
 secondaryKeywords: "HUD wind zone 2 Florida, mobile home wind zone map Florida, wind zone 2 mobile home requirements, Marion County mobile home wind zone, manufactured home wind zones"
 publishedDate: "2026-08-12"
-tag: "Well Care"
+tag: "Storm Prep"
 subtitle: "Hurricane Andrew destroyed more than 11,000 manufactured homes in South Florida in a single morning back in August 1992."
 canonical: "https://ocalalevelpros.com/blog/florida-wind-zones-mobile-homes/"
 faq:

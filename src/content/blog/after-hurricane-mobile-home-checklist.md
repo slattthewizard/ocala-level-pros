@@ -6,7 +6,7 @@ metaDescription: "Coming home after a storm? Use this mobile home inspection aft
 primaryKeyword: "mobile home inspection after hurricane"
 secondaryKeywords: "post-hurricane mobile home checklist, mobile home storm damage inspection, check mobile home after storm, hurricane damage mobile home Florida, manufactured home inspection after storm"
 publishedDate: "2026-08-03"
-tag: "Maintenance"
+tag: "Storm Prep"
 subtitle: "The most expensive storm damage in Marion County usually isn't the tree on the roof. It's the pier that shifted two inches under the master bedroom while nobody was looking."
 canonical: "https://ocalalevelpros.com/blog/after-hurricane-mobile-home-checklist/"
 faq:

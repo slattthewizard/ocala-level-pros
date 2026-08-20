@@ -6,7 +6,7 @@ metaDescription: "Soft spots in your mobile home floor usually mean water damage
 primaryKeyword: "soft spots in mobile home floor"
 secondaryKeywords: "mobile home floor soft spots, soft floor in mobile home, mobile home subfloor rot, spongy mobile home floor, mobile home subfloor repair"
 publishedDate: "2026-08-02"
-tag: "Pump Repair"
+tag: "Warning Signs"
 subtitle: "You step out of the shower, put your weight on that one spot by the tub, and the floor gives just a little. You've been stepping around it for months, maybe longer."
 canonical: "https://ocalalevelpros.com/blog/soft-spots-mobile-home-floor/"
 faq:

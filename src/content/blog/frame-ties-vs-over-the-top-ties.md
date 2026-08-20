@@ -6,7 +6,7 @@ metaDescription: "Frame ties vs over the top tie downs explained for Florida mob
 primaryKeyword: "frame ties vs over the top tie downs"
 secondaryKeywords: "frame anchors vs over the top straps, mobile home frame ties, over the top tie downs Florida, diagonal frame ties, mobile home tie down types"
 publishedDate: "2026-08-14"
-tag: "Well Care"
+tag: "Tie-Downs"
 subtitle: "Crawl under ten mobile homes in Marion County and you'll find ten different anchoring setups, and at least half the owners above them couldn't tell you which kind they have."
 canonical: "https://ocalalevelpros.com/blog/frame-ties-vs-over-the-top-ties/"
 faq:

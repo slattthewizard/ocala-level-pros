@@ -6,7 +6,7 @@ metaDescription: "Thinking about leveling your mobile home yourself? Here's what
 primaryKeyword: "diy mobile home leveling"
 secondaryKeywords: "level a mobile home yourself, how to level a mobile home, mobile home leveling tools, relevel mobile home DIY, jacking up a mobile home"
 publishedDate: "2026-08-09"
-tag: "Well Care"
+tag: "Leveling"
 subtitle: "Somewhere in your garage there's a bottle jack, and somewhere in your head there's a voice saying you could level your own mobile home this weekend."
 canonical: "https://ocalalevelpros.com/blog/diy-mobile-home-leveling/"
 faq:

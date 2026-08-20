@@ -6,7 +6,7 @@ metaDescription: "Double wide leveling takes more time, more piers, and marriage
 primaryKeyword: "double wide leveling"
 secondaryKeywords: "single wide leveling, leveling a double wide mobile home, double wide releveling cost, marriage line leveling, mobile home leveling Ocala"
 publishedDate: "2026-08-18"
-tag: "Well Care"
+tag: "Leveling"
 subtitle: "Here's a number that surprises most homeowners: a double wide usually sits on twice as many piers as a single wide, sometimes more."
 canonical: "https://ocalalevelpros.com/blog/leveling-single-wide-vs-double-wide/"
 faq:

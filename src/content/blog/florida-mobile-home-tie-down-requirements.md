@@ -6,7 +6,7 @@ metaDescription: "Florida mobile home tie down requirements in plain English: wi
 primaryKeyword: "Florida mobile home tie down requirements"
 secondaryKeywords: "mobile home tie down laws Florida, mobile home anchor requirements Florida, Florida wind zone tie downs, mobile home tie down inspection, mobile home anchor spacing"
 publishedDate: "2026-08-11"
-tag: "Well Care"
+tag: "Tie-Downs"
 subtitle: "Quick question: when did anyone last crawl under your home and actually look at the straps holding it to the ground? If you can't remember, you're in good company."
 canonical: "https://ocalalevelpros.com/blog/florida-mobile-home-tie-down-requirements/"
 faq:

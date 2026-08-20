@@ -6,7 +6,7 @@ metaDescription: "Bouncy or squeaky floors in your mobile home usually mean pier
 primaryKeyword: "bouncy floors in mobile home"
 secondaryKeywords: "squeaky floors in mobile home, mobile home floor bounce, why is my mobile home floor bouncy, mobile home floor feels spongy, fix bouncy mobile home floor"
 publishedDate: "2026-08-07"
-tag: "Well Care"
+tag: "Warning Signs"
 subtitle: "Does your coffee cup rattle when someone walks through the living room? That little jiggle feels harmless, maybe even funny, right up until you realize your floor is trying to tell you something."
 canonical: "https://ocalalevelpros.com/blog/bouncy-floors-mobile-home/"
 faq:

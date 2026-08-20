@@ -6,7 +6,7 @@ metaDescription: "Facing a 4 point inspection on your mobile home? See what Flor
 primaryKeyword: "4 point inspection mobile home"
 secondaryKeywords: "4 point inspection for mobile home, mobile home 4 point inspection Florida, pass 4 point inspection, 4 point inspection checklist mobile home, mobile home insurance inspection"
 publishedDate: "2026-08-13"
-tag: "Maintenance"
+tag: "Inspections"
 subtitle: "You've got 30 days before your insurance renewal, and your agent just dropped the news: no updated inspection report, no policy."
 canonical: "https://ocalalevelpros.com/blog/four-point-inspection-mobile-home/"
 faq:

@@ -6,7 +6,7 @@ metaDescription: "Sticking doors, cracked walls, bouncy floors? Learn the 7 sign
 primaryKeyword: "signs mobile home needs leveling"
 secondaryKeywords: "signs your mobile home needs leveling, mobile home out of level symptoms, how to tell if mobile home needs releveling, mobile home leveling warning signs, unlevel mobile home signs"
 publishedDate: "2026-08-02"
-tag: "Well Care"
+tag: "Warning Signs"
 subtitle: "Drop a marble on your kitchen floor. If it rolls to the same corner every time, your home is trying to tell you something."
 canonical: "https://ocalalevelpros.com/blog/signs-mobile-home-needs-leveling/"
 faq:

@@ -6,7 +6,7 @@ metaDescription: "Raccoons, armadillos, or rats under your mobile home? Here's h
 primaryKeyword: "how to keep animals out from under a mobile home"
 secondaryKeywords: "animals under mobile home, keep raccoons out from under mobile home, animal proof mobile home skirting, critters under mobile home, seal under a mobile home"
 publishedDate: "2026-08-04"
-tag: "Well Care"
+tag: "Underbelly"
 subtitle: "A mother raccoon can squeeze through a gap the size of a softball. Once she moves in under your home, she can rack up $2,000 to $3,000 in damage to your insulation, ductwork, and belly wrap before..."
 canonical: "https://ocalalevelpros.com/blog/animals-under-mobile-home/"
 faq:
