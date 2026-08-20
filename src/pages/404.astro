@@ -1,0 +1,65 @@
+---
+import Layout from '../layouts/Layout.astro';
+
+const services = [
+  { href: '/mobile-home-leveling-ocala/', label: 'Mobile Home Leveling' },
+  { href: '/mobile-home-tie-downs-ocala/', label: 'Tie-Downs, Anchors & Certifications' },
+  { href: '/vapor-barrier-ocala/', label: 'Vapor Barrier & Underbelly Repair' },
+  { href: '/mobile-home-skirting-ocala/', label: 'Skirting Installation & Repair' },
+];
+const popular = [
+  { href: '/mobile-home-leveling-cost/', label: 'What leveling costs in Ocala' },
+  { href: '/blog/signs-mobile-home-needs-leveling/', label: '7 signs your home needs leveling' },
+  { href: '/blog/how-mobile-home-leveling-works/', label: 'How mobile home leveling works' },
+  { href: '/blog/four-point-inspection-mobile-home/', label: 'Passing a 4-point inspection' },
+  { href: '/blog/florida-mobile-home-tie-down-requirements/', label: 'Florida tie-down requirements' },
+  { href: '/blog/', label: 'All mobile home care articles' },
+];
+---
+
+<Layout
+  title="Page Not Found | Ocala Level Pros"
+  description="That page doesn't exist. Find mobile home leveling, tie-down, vapor barrier, and skirting services in Ocala, FL, or call (352) 247-3105."
+  canonical="https://ocalalevelpros.com/404/"
+>
+<Fragment slot="head">
+<meta name="robots" content="noindex, follow" />
+</Fragment>
+
+<section style="background:linear-gradient(135deg, #175445 0%, #1F6D5A 65%, #175445 100%);padding:72px 24px 64px;">
+  <div style="max-width:760px;margin:0 auto;text-align:center;">
+    <span style="display:inline-block;margin-bottom:14px;padding:4px 12px;border-radius:999px;font-size:11px;font-weight:700;letter-spacing:0.12em;text-transform:uppercase;background:rgba(240,168,96,0.18);color:#F0A860;border:1px solid rgba(240,168,96,0.3);">Error 404</span>
+    <h1 style="font-family:'Poppins',sans-serif;font-weight:800;color:#fff;line-height:1.1;font-size:clamp(30px,4.4vw,48px);margin:0 0 16px;">This Page Isn't Here</h1>
+    <p style="font-size:18px;line-height:1.7;color:rgba(255,255,255,0.85);margin:0 auto 28px;max-width:540px;">The link may be old or mistyped. Everything below still works, and the phone always does.</p>
+    <div style="display:flex;flex-wrap:wrap;gap:16px;justify-content:center;">
+      <a href="tel:+13522473105" class="btn-cream">Call Now &mdash; (352) 247-3105</a>
+      <a href="/" class="btn-outline-white">Back to Home</a>
+    </div>
+  </div>
+</section>
+
+<section style="padding:56px 24px 72px;">
+  <div class="nf-grid" style="max-width:1000px;margin:0 auto;display:grid;grid-template-columns:1fr 1fr;gap:48px;">
+    <div>
+      <p style="font-family:'Poppins',sans-serif;font-size:13px;font-weight:800;letter-spacing:0.14em;text-transform:uppercase;color:#E07B1F;margin:0 0 16px;">What We Do</p>
+      <ul style="list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:12px;">
+        {services.map(s => (
+          <li><a href={s.href} style="font-size:16px;font-weight:600;color:#1F6D5A;text-decoration:none;">{s.label}</a></li>
+        ))}
+      </ul>
+      <p style="font-size:15px;line-height:1.7;color:#5F6E67;margin:24px 0 0;">Serving Ocala, Silver Springs, Belleview, Summerfield, Dunnellon, Lady Lake, and Citra.</p>
+    </div>
+    <div>
+      <p style="font-family:'Poppins',sans-serif;font-size:13px;font-weight:800;letter-spacing:0.14em;text-transform:uppercase;color:#E07B1F;margin:0 0 16px;">Popular Reading</p>
+      <ul style="list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:12px;">
+        {popular.map(p => (
+          <li><a href={p.href} style="font-size:16px;font-weight:600;color:#1F6D5A;text-decoration:none;">{p.label}</a></li>
+        ))}
+      </ul>
+    </div>
+  </div>
+</section>
+<style>
+  @media (max-width: 760px) { .nf-grid { grid-template-columns: 1fr !important; gap: 36px !important; } }
+</style>
+</Layout>
