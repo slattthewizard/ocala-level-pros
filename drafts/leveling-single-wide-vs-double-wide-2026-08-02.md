@@ -66,7 +66,7 @@ A few notes on those numbers. The price gap isn't padding, it's pier count and t
 
 Access matters too. A double wide with 30-inch clearance and dry ground underneath is a much faster job than one sitting low over damp soil with sagging belly board in the way, and a double wide has twice the crawling territory.
 
-Want a real number for your home instead of a range? We give free written estimates anywhere in Marion, Sumter, and Citrus counties. [Request yours here](/#contact) and we'll put the actual pier count and price on paper.
+Want a real number for your home instead of a range? We give free written estimates anywhere in Marion, Sumter, and Citrus counties. [Request yours here](/contact/) and we'll put the actual pier count and price on paper.
 
 ## How the Work Actually Goes, Step by Step
 
@@ -100,7 +100,7 @@ For a double wide, our honest advice is don't. Lifting one section without coord
 
 Either way, stop and call a professional if you see any of these: piers leaning more than a few degrees, cracked or crumbling blocks, a marriage line gap you can see daylight through, soft or sunken soil under multiple piers, or a home that's settled noticeably after one heavy rain. Those point to problems a shim won't fix.
 
-Ocala Level Pros levels single wides and double wides across Ocala, Belleview, Summerfield, Silver Springs, Dunnellon, Lady Lake, and Citra. Estimates are free and written, so you know the price before we start. Call [(352) 247-3105](tel:+13522473105) or [request your free estimate online](/#contact), and if you're up against an insurance or closing deadline, our emergency line runs 24/7.
+Ocala Level Pros levels single wides and double wides across Ocala, Belleview, Summerfield, Silver Springs, Dunnellon, Lady Lake, and Citra. Estimates are free and written, so you know the price before we start. Call [(352) 247-3105](tel:+13522473105) or [request your free estimate online](/contact/), and if you're up against an insurance or closing deadline, our emergency line runs 24/7.
 
 ## Frequently Asked Questions
 

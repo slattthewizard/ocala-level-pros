@@ -59,7 +59,7 @@ Settling rarely announces itself with anything dramatic. It shows up in small an
 
 Any one of these on its own might be nothing. Two or more showing up in the same season, especially after heavy rain, almost always means the piers moved. Our full rundown of [signs your mobile home needs leveling](/blog/signs-mobile-home-needs-leveling/) walks through each symptom in detail, and if the doors are your main complaint, see [why mobile home doors won't close](/blog/mobile-home-doors-wont-close/).
 
-Here's a quick check you can do yourself in five minutes. Set a marble or a golf ball on the floor in several rooms and watch which way it rolls. Do it in spring, then again in September. If the roll changes direction or speeds up, the wet season moved your home. That's your cue to [request a free estimate](/#contact) before small movement becomes structural damage.
+Here's a quick check you can do yourself in five minutes. Set a marble or a golf ball on the floor in several rooms and watch which way it rolls. Do it in spring, then again in September. If the roll changes direction or speeds up, the wet season moved your home. That's your cue to [request a free estimate](/contact/) before small movement becomes structural damage.
 
 One safety note: you can look at your skirting and roll marbles all day, but don't crawl under the home to inspect or adjust piers yourself. A pier that's tilted or undermined by washout can shift under load with no warning. Leave anything under the frame to a crew with proper jacks and training.
 
@@ -102,7 +102,7 @@ A reasonable rule: monitor cosmetic stuff, act on functional stuff. A hairline c
 
 Our process is straightforward. We come out, measure elevations along the entire frame, inspect every pier and pad, and give you a free written estimate with real numbers. Most [mobile home releveling jobs in the Ocala area](/mobile-home-leveling-ocala/) are done in a single day, and we serve all of Marion, Sumter, and Citrus counties.
 
-If this article sounded uncomfortably familiar, trust that instinct. Call [(352) 247-3105](tel:+13522473105) or [request your free estimate online](/#contact). Catching rainy season settling in year one is a few hundred dollars. Catching it in year three is a few thousand. We'd rather help you pay the small bill.
+If this article sounded uncomfortably familiar, trust that instinct. Call [(352) 247-3105](tel:+13522473105) or [request your free estimate online](/contact/). Catching rainy season settling in year one is a few hundred dollars. Catching it in year three is a few thousand. We'd rather help you pay the small bill.
 
 ## Frequently Asked Questions
 

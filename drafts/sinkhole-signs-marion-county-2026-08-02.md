@@ -110,7 +110,7 @@ Keep this simple sequence handy.
 
 Watch the yard, check the crawl space twice a year, photograph changes, and act on patterns instead of single scary moments.
 
-If something under your home doesn't look right, don't sit on it and don't panic either. [Request a free written estimate](/#contact) or call our line at (352) 247-3105, which is answered 24/7 for inspection deadlines and time-sensitive situations. We'll tell you honestly whether you need us, an engineer, or nobody at all.
+If something under your home doesn't look right, don't sit on it and don't panic either. [Request a free written estimate](/contact/) or call our line at (352) 247-3105, which is answered 24/7 for inspection deadlines and time-sensitive situations. We'll tell you honestly whether you need us, an engineer, or nobody at all.
 
 ## Frequently Asked Questions
 

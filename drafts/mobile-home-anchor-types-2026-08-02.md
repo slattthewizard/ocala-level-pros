@@ -89,7 +89,7 @@ Here's the whole picture in one table. Prices reflect what we typically see for 
 
 A full re-anchor on a double wide in our area usually lands between $1,500 and $3,500 depending on anchor count, soil, and how much strapping needs replacement along with the anchors. Wind zone matters too. A Zone 2 home needs more anchor points than an identical home graded for Zone 1, and all of Marion County is Zone 2. Our breakdown of [Florida wind zones for mobile homes](/blog/florida-wind-zones-mobile-homes/) explains how to read the data plate and count what your home actually requires.
 
-For a written quote on your specific home, [request a free estimate](/#contact) and we'll put the anchor count, type, and price on paper before you commit to anything.
+For a written quote on your specific home, [request a free estimate](/contact/) and we'll put the anchor count, type, and price on paper before you commit to anything.
 
 ## Which Mobile Home Anchor Type Do You Actually Need?
 

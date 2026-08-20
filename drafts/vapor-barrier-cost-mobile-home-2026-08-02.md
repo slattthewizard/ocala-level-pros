@@ -63,7 +63,7 @@ There's also a timing issue specific to Florida. If you're selling, a 4-point in
 
 One more reason not to wait: an open belly and damp ground create exactly the conditions mold needs. The EPA's guidance is blunt about it: control moisture and you control mold. You can read their recommendations at [epa.gov/mold](https://www.epa.gov/mold). If you're already smelling mustiness inside, start with our post on [mold under a mobile home](/blog/mold-under-mobile-home/), then get someone under there quickly.
 
-Not sure which side of the line your home falls on? [Request a free estimate](/#contact) and we'll crawl it, photograph it, and tell you straight. If a $300 patch does the job, that's what we'll quote.
+Not sure which side of the line your home falls on? [Request a free estimate](/contact/) and we'll crawl it, photograph it, and tell you straight. If a $300 patch does the job, that's what we'll quote.
 
 ## Real Jobs From Around Marion County
 
@@ -91,7 +91,7 @@ Whichever route you take, a little maintenance protects the investment. Walk you
 
 One honest warning about the low bid. A vapor barrier job quoted at $300 for a full double wide replacement isn't a bargain, it's a red flag. That price doesn't cover the labor hours the job takes, which means corners get cut where you'll never see them. Under-home work is the easiest place in the trades to get ripped off, because almost no homeowner crawls under to check.
 
-If you want real numbers for your home, we'll put them in writing for free. Call [(352) 247-3105](tel:+13522473105) or [request your estimate online](/#contact). We serve Ocala and all of Marion, Sumter, and Citrus counties, and we answer the emergency line 24/7 for inspection and insurance deadlines.
+If you want real numbers for your home, we'll put them in writing for free. Call [(352) 247-3105](tel:+13522473105) or [request your estimate online](/contact/). We serve Ocala and all of Marion, Sumter, and Citrus counties, and we answer the emergency line 24/7 for inspection and insurance deadlines.
 
 ## Frequently Asked Questions
 

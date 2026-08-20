@@ -13,7 +13,7 @@ If you've been researching the mobile home permanent foundation vs piers questio
 
 We level, anchor, and support mobile homes across Marion, Sumter, and Citrus counties every week, so we see how this decision plays out in real Florida yards with real Florida soil. This guide walks through what each system actually is, what each one costs here in the Ocala area, and the handful of situations where one choice clearly beats the other.
 
-Not sure what your home is sitting on right now? [Request a free written estimate](/#contact) and we'll crawl under there and tell you exactly what you have.
+Not sure what your home is sitting on right now? [Request a free written estimate](/contact/) and we'll crawl under there and tell you exactly what you have.
 
 ## What Counts as a Permanent Foundation on a Mobile Home?
 
@@ -113,7 +113,7 @@ So how do you actually decide? Boil it down to four questions:
 
 If you land somewhere in the middle, start with an inspection. Knowing whether your current setup needs $800 of work or $8,000 of work changes the math on everything else.
 
-That first step costs you nothing. [Schedule a free written estimate](/#contact) or call [(352) 247-3105](tel:+13522473105) and we'll assess your piers, anchors, and level, then give you straight numbers for both paths. We work all over Ocala, Marion County, and the surrounding counties, and we'll tell you plainly if the cheaper option is the right one.
+That first step costs you nothing. [Schedule a free written estimate](/contact/) or call [(352) 247-3105](tel:+13522473105) and we'll assess your piers, anchors, and level, then give you straight numbers for both paths. We work all over Ocala, Marion County, and the surrounding counties, and we'll tell you plainly if the cheaper option is the right one.
 
 ## Frequently Asked Questions
 

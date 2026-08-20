@@ -82,7 +82,7 @@ Triple wides and homes with additions add another layer. Site-built additions li
 
 If you're not sure yet whether your home even needs leveling, run through the [signs a mobile home needs leveling](/blog/signs-mobile-home-needs-leveling/) first. Doors that won't latch, cracks at the corners of windows, and floors that slope toward one end are the classics. Catching it early is the single best way to keep the job in the two-to-three-hour range instead of the all-day range.
 
-Want us to tell you which category your home falls in? [Request a free written estimate](/#contact) and we'll give you a firm time window along with the price.
+Want us to tell you which category your home falls in? [Request a free written estimate](/contact/) and we'll give you a firm time window along with the price.
 
 ## When Leveling Takes Longer Than a Day
 
@@ -114,7 +114,7 @@ And here's the one piece of prep advice that matters more than all the others: d
 
 Leveling day itself is simple on your end. Someone 18 or older should be home at the start and finish, but you don't need to hover. Water and power stay on. The crew does the walkthrough with you at the end, and you get the pier map and readings with your paperwork, which is exactly the documentation a 4-point inspection or insurance renewal will ask for later.
 
-Ready to get on the schedule? Call [(352) 247-3105](tel:+13522473105) or [send us your info](/#contact) and we'll usually have an estimator out within a couple of days anywhere in Marion, Sumter, or Citrus County. If you're up against a closing date or an insurance deadline, say so. That's what our 24/7 line is for.
+Ready to get on the schedule? Call [(352) 247-3105](tel:+13522473105) or [send us your info](/contact/) and we'll usually have an estimator out within a couple of days anywhere in Marion, Sumter, or Citrus County. If you're up against a closing date or an insurance deadline, say so. That's what our 24/7 line is for.
 
 ## Frequently Asked Questions
 

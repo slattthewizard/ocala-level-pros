@@ -96,7 +96,7 @@ The crew jacks the frame just enough to unload the failed pier, usually less tha
 
 Permits deserve a mention. In Florida, mobile home installation and stabilization work falls under state rules, and licensed installers are regulated through the [FLHSMV mobile home program](https://www.flhsmv.gov/motor-vehicles-tags-titles/mobile-homes/). Reputable contractors handle any required paperwork. If someone shrugs off the question, that tells you something.
 
-One more practical note: if you're facing a 4-point inspection or a pre-closing deadline, pier condition often shows up in the report. We run a 24/7 line for exactly those situations. Call [(352) 247-3105](tel:+13522473105) or [request your free written estimate](/#contact) and we'll get eyes under the home fast.
+One more practical note: if you're facing a 4-point inspection or a pre-closing deadline, pier condition often shows up in the report. We run a 24/7 line for exactly those situations. Call [(352) 247-3105](tel:+13522473105) or [request your free written estimate](/contact/) and we'll get eyes under the home fast.
 
 ## Where DIY Ends and the Pros Begin
 

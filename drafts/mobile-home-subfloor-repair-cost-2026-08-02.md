@@ -64,7 +64,7 @@ Ray in Summerfield learned this the hard way, though the ending was better than 
 
 That's the honest math on patch vs replacement. Patching bad wood surrounded by more bad wood isn't a repair, it's a subscription.
 
-If you're staring at multiple soft spots and don't know which situation you're in, that's exactly what a free inspection is for. [Request a written estimate](/#contact) and we'll tell you straight whether you need a $500 patch or a bigger conversation.
+If you're staring at multiple soft spots and don't know which situation you're in, that's exactly what a free inspection is for. [Request a written estimate](/contact/) and we'll tell you straight whether you need a $500 patch or a bigger conversation.
 
 ## Patch vs Full Replacement: Side-by-Side Costs
 

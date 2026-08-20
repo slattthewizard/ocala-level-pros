@@ -91,7 +91,7 @@ The pattern is clear. A plain relevel is a few hundred to about fifteen hundred 
 
 One more real example. Ray in Dunnellon called us two weeks before closing on the sale of his double wide. The buyer's inspector had flagged an unlevel frame and two deteriorated piers, and the buyer wanted $5,000 off the price. We releveled the home and replaced both piers for $1,340, provided documentation, and the sale closed at full price. If you're selling, get ahead of the inspector. It's almost always cheaper.
 
-Want a real number for your home instead of a range? [Request a free written estimate](/#contact) and we'll put it on paper, no pressure and no phone tag required.
+Want a real number for your home instead of a range? [Request a free written estimate](/contact/) and we'll put it on paper, no pressure and no phone tag required.
 
 ## How to Check for Signs Your Mobile Home Needs Leveling
 
@@ -114,7 +114,7 @@ Call a professional when you see any two of the seven signs at the same time, wh
 
 Here's what the visit looks like with us. We come out, take laser and water level readings across the frame, inspect every pier, and hand you a written estimate on the spot. If the home checks out level, we tell you that too and you've lost nothing, because the estimate is free. Most relevels are done in a single day, and we're in [Ocala](/mobile-home-leveling-ocala/), Belleview, Summerfield, Silver Springs, Dunnellon, Lady Lake, and Citra constantly.
 
-If you've got an insurance deadline or a closing bearing down on you, our emergency line runs 24/7. Call [(352) 247-3105](tel:+13522473105) or [request your free estimate online](/#contact). Ten minutes on the phone now beats a subfloor bill next year.
+If you've got an insurance deadline or a closing bearing down on you, our emergency line runs 24/7. Call [(352) 247-3105](tel:+13522473105) or [request your free estimate online](/contact/). Ten minutes on the phone now beats a subfloor bill next year.
 
 ## Frequently Asked Questions
 

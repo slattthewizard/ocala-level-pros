@@ -21,7 +21,7 @@ When the belly tears, all four jobs stop getting done. Insulation slumps and fal
 
 Here's the part most homeowners miss: belly damage rarely stays a belly problem. Wet insulation sits against your subfloor, and within a year or two you're feeling [soft spots in the floor](/blog/soft-spots-mobile-home-floor/) near the bathroom or kitchen. Fixing a $300 tear now beats a $2,000 subfloor job later.
 
-If you're not sure what's going on under your home, don't guess. [Request a free written estimate](/#contact) and we'll crawl under there, photograph everything, and tell you exactly what you're dealing with. No obligation, and you keep the photos.
+If you're not sure what's going on under your home, don't guess. [Request a free written estimate](/contact/) and we'll crawl under there, photograph everything, and tell you exactly what you're dealing with. No obligation, and you keep the photos.
 
 ## The Three Ways Belly Board Damage Starts
 
@@ -90,7 +90,7 @@ Handy homeowners can do some of this, and we'll tell you straight which parts.
 
 And one hard rule: never crawl under a home that isn't properly supported, and never work under one while jacking or leveling is in progress. If your floors are bouncy or doors have started sticking, the frame may already be shifting on its piers, and that's a [sign your mobile home needs leveling](/blog/signs-mobile-home-needs-leveling/) before anyone spends hours underneath it.
 
-If any of that list describes your home, skip the crawl and [send us a message](/#contact) or call [(352) 247-3105](tel:+13522473105). We're licensed and insured, estimates are free and in writing, and we serve Ocala plus all of Marion, Sumter, and Citrus counties.
+If any of that list describes your home, skip the crawl and [send us a message](/contact/) or call [(352) 247-3105](tel:+13522473105). We're licensed and insured, estimates are free and in writing, and we serve Ocala plus all of Marion, Sumter, and Citrus counties.
 
 ## Frequently Asked Questions
 

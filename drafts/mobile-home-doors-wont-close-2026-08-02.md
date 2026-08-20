@@ -25,7 +25,7 @@ That's why sticking doors in a mobile home tend to show up in clusters. One door
 
 Carl in Belleview learned this the practical way last year. His front door started dragging in June. By September his bathroom door wouldn't latch and there was a hairline crack over the hallway doorway. We found two piers on the south side had sunk into softened soil. The relevel ran him $625, and every door in the house closed properly again the same afternoon, no carpentry needed.
 
-If your doors are doing the same thing, don't wait for door number three. [Request a free written estimate](/#contact) or call us at [(352) 247-3105](tel:+13522473105). We'll tell you honestly whether it's a $10 hinge problem or a settling problem.
+If your doors are doing the same thing, don't wait for door number three. [Request a free written estimate](/contact/) or call us at [(352) 247-3105](tel:+13522473105). We'll tell you honestly whether it's a $10 hinge problem or a settling problem.
 
 ## The Chain Reaction: From Florida Soil to Your Door Frame
 
@@ -78,7 +78,7 @@ If you own a manufactured home in Florida, you'll eventually face a 4-point insp
 
 Donna in Summerfield ran into this head-on last spring. She listed her 2004 double-wide, and the buyer's inspector flagged three doors that wouldn't latch plus a noticeable slope in the master bedroom. The buyer's agent came back asking for a $4,000 credit for "foundation issues." Donna called us instead. The actual problem was four settled piers and a rotted set of shims. The relevel and shim replacement came to $890, we documented the work in writing, and the sale closed with no credit. The gap between a scary inspection note and the real repair cost was more than $3,000 in her favor.
 
-If you're heading into a sale or an insurance renewal, get ahead of it. Our guide to the [4-point inspection for mobile homes](/blog/four-point-inspection-mobile-home/) explains what inspectors look for. And if you already know your doors are sticking, [get a free written estimate](/#contact) before the inspector shows up, not after. A dated, itemized repair record from a licensed contractor is worth real money at the closing table.
+If you're heading into a sale or an insurance renewal, get ahead of it. Our guide to the [4-point inspection for mobile homes](/blog/four-point-inspection-mobile-home/) explains what inspectors look for. And if you already know your doors are sticking, [get a free written estimate](/contact/) before the inspector shows up, not after. A dated, itemized repair record from a licensed contractor is worth real money at the closing table.
 
 ## What It Costs to Fix a Mobile Home Door That Won't Close
 

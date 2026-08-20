@@ -23,7 +23,7 @@ And the stakes aren't small. A home that needs releveling, new anchors, and subf
 
 There's an insurance angle too. Florida insurers routinely require a four point inspection or proof of proper tie-downs before they'll write a policy on an older mobile home. If the home can't pass, you can end up owning a home you can't insure. Our guide to the [four point inspection for mobile homes](/blog/four-point-inspection-mobile-home/) covers that process in detail.
 
-If you're already looking at a specific home and want a second set of trained eyes under it, [reach out for a free written estimate](/#contact). We inspect the foundation system, document what we find with photos, and put repair numbers on paper you can take straight into negotiations.
+If you're already looking at a specific home and want a second set of trained eyes under it, [reach out for a free written estimate](/contact/). We inspect the foundation system, document what we find with photos, and put repair numbers on paper you can take straight into negotiations.
 
 ## Under the Home: The First 4 Checks on the List
 
@@ -127,7 +127,7 @@ A professional foundation inspection also gives you something a flashlight can't
 
 One more honest tip: don't rely on the seller's handyman or a general home inspector who has never worked on manufactured homes. Mobile home foundations are their own trade, with their own standards. Ask whoever inspects the home how many mobile homes they've been under, and see our page on [mobile home leveling in Ocala](/mobile-home-leveling-ocala/) for what a proper foundation evaluation covers.
 
-Ready to look at a home this week? [Request your free written estimate](/#contact) or call [(352) 247-3105](tel:+13522473105). We're licensed and insured, we put every finding in writing, and if you're up against a closing date or an insurance deadline, our emergency line runs 24/7.
+Ready to look at a home this week? [Request your free written estimate](/contact/) or call [(352) 247-3105](tel:+13522473105). We're licensed and insured, we put every finding in writing, and if you're up against a closing date or an insurance deadline, our emergency line runs 24/7.
 
 ## Frequently Asked Questions
 

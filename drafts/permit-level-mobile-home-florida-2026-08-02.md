@@ -21,7 +21,7 @@ First, the state regulates who can do the work. Under [Florida Statute 320.8249]
 
 Second, your county or city decides when a permit is required. Building departments across Florida treat simple releveling differently than structural work. Most treat shim adjustments and minor jacking as maintenance. Most treat pier replacement, new anchor installation, and foundation changes as permitted work that gets inspected.
 
-The practical takeaway: the question isn't really "do I need a permit to level my home," it's "how much work does my home actually need?" A quick relevel is one answer. A relevel that uncovers crushed piers and rusted straps is another. If you're not sure which situation you're in, that's exactly what a free inspection is for. [Request a free written estimate](/#contact) or call us at [(352) 247-3105](tel:+13522473105) and we'll tell you what your job involves before anyone talks paperwork.
+The practical takeaway: the question isn't really "do I need a permit to level my home," it's "how much work does my home actually need?" A quick relevel is one answer. A relevel that uncovers crushed piers and rusted straps is another. If you're not sure which situation you're in, that's exactly what a free inspection is for. [Request a free written estimate](/contact/) or call us at [(352) 247-3105](tel:+13522473105) and we'll tell you what your job involves before anyone talks paperwork.
 
 ## What Counts as "Leveling" and What Counts as Structural Work
 
@@ -105,7 +105,7 @@ Here's how a by-the-book job goes in Marion, Sumter, or Citrus County, whether o
 
 Total homeowner effort in that whole process: one phone call and one signature. That's how it should be. If a contractor makes the permit sound like your problem, they're either unlicensed or planning to skip it.
 
-Ready to find out which kind of job your home needs? [Get a free written estimate](/#contact) and we'll put the scope, the price, and the permit answer in writing before you commit to anything.
+Ready to find out which kind of job your home needs? [Get a free written estimate](/contact/) and we'll put the scope, the price, and the permit answer in writing before you commit to anything.
 
 ## Frequently Asked Questions
 

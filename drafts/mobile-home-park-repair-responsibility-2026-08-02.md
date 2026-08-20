@@ -89,7 +89,7 @@ Three lessons from those two jobs:
 2. **Document before and during the repair.** Photos, dates, and a contractor's written description of the cause are what turn "he said, she said" into a reimbursement check.
 3. **Put complaints to the park in writing.** A dated letter or email about the drainage problem, sent before the damage got bad, is powerful evidence later.
 
-If you suspect park drainage or a utility leak is behind your settling, don't wait for the office to admit it. [Request a free estimate](/#contact) and ask us to note the likely cause in writing. That one page has paid for the whole repair more than once.
+If you suspect park drainage or a utility leak is behind your settling, don't wait for the office to admit it. [Request a free estimate](/contact/) and ask us to note the likely cause in writing. That one page has paid for the whole repair more than once.
 
 ## How to Push Back When the Park Won't Fix Its Side
 
@@ -119,7 +119,7 @@ And plan on these being covered by your lot rent: roads, common areas, park util
 
 The good news? The homeowner-side repairs are predictable and manageable when you catch them early. A $600 relevel today beats a $5,000 subfloor and frame repair three years from now. That math works in every park from Citra to Lady Lake.
 
-Want a straight answer on what's wrong under your home and whose bill it should be? Ocala Level Pros serves every park in Marion, Sumter, and Citrus counties. Call [(352) 247-3105](tel:+13522473105) for a free written estimate, or [reach us through the contact form](/#contact). We'll tell you what we see, what caused it, and what it costs, in writing.
+Want a straight answer on what's wrong under your home and whose bill it should be? Ocala Level Pros serves every park in Marion, Sumter, and Citrus counties. Call [(352) 247-3105](tel:+13522473105) for a free written estimate, or [reach us through the contact form](/contact/). We'll tell you what we see, what caused it, and what it costs, in writing.
 
 ## Frequently Asked Questions
 

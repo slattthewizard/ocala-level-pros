@@ -23,7 +23,7 @@ There's a paperwork angle too. When a 4-point inspection or a pre-closing walkth
 
 One more thing most homeowners don't realize: skirting problems are often a symptom, not the disease. When panels buckle or pull away from the track, the home itself may have settled and shifted. We wrote a whole piece on [why skirting buckles](/blog/mobile-home-skirting-buckling/), and the short version is this. If your skirting is wavy, check your level before you buy new panels.
 
-If you're not sure whether your skirting problem is cosmetic or structural, [request a free written estimate](/#contact) and we'll look at both at the same time.
+If you're not sure whether your skirting problem is cosmetic or structural, [request a free written estimate](/contact/) and we'll look at both at the same time.
 
 ## Vinyl Skirting: The Budget Favorite
 
@@ -102,7 +102,7 @@ And in every case, look under the home before you spend a dime on skirting. Sagg
 
 When to stop DIY and call a pro: vinyl repairs and single panel swaps are fair game for a handy homeowner. Full installs on an out-of-level home, any masonry work, anything involving pier or tie-down problems, or crawling under a home that shows signs of shifting are not. A mobile home that settles onto you is not a risk worth saving a few hundred dollars over.
 
-If you'd rather have local pros handle it start to finish, [reach out through our contact form](/#contact) or call [(352) 247-3105](tel:+13522473105). We serve Ocala and all of Marion, Sumter, and Citrus counties, estimates are free and in writing, and we'll tell you straight if your existing skirting just needs a repair instead of a replacement.
+If you'd rather have local pros handle it start to finish, [reach out through our contact form](/contact/) or call [(352) 247-3105](tel:+13522473105). We serve Ocala and all of Marion, Sumter, and Citrus counties, estimates are free and in writing, and we'll tell you straight if your existing skirting just needs a repair instead of a replacement.
 
 ## Frequently Asked Questions
 

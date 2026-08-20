@@ -23,7 +23,7 @@ Florida's installation rules take this seriously. The state requires footings si
 
 The short version: pads aren't optional, and "the blocks seem sturdy" isn't the same as "the home is supported correctly."
 
-Not sure what's under your home right now? [Request a free written estimate](/#contact) and we'll crawl under, photograph every pier, and tell you exactly what you're sitting on. Or call us at [(352) 247-3105](tel:+13522473105).
+Not sure what's under your home right now? [Request a free written estimate](/contact/) and we'll crawl under, photograph every pier, and tell you exactly what you're sitting on. Or call us at [(352) 247-3105](tel:+13522473105).
 
 ## Pier Pad Materials Compared: Concrete, ABS, and What to Avoid
 
@@ -86,7 +86,7 @@ If you do look underneath with a flashlight, here's what failing pads look like:
 
 One caution here. Look, but don't fix. Never jack a mobile home yourself or pull piers to swap pads. A home can shift off its supports with deadly force, and DIY jacking is one of the most dangerous projects a homeowner can attempt. We covered the risks in detail in our post on [DIY mobile home leveling](/blog/diy-mobile-home-leveling/). Spotting the problem is your job. Getting under thousands of pounds of home is ours.
 
-If any of those signs sound familiar, [get on our schedule for a free inspection](/#contact). We photograph everything and give you a written estimate, and there's no charge to find out where you stand.
+If any of those signs sound familiar, [get on our schedule for a free inspection](/contact/). We photograph everything and give you a written estimate, and there's no charge to find out where you stand.
 
 ## What Proper Pad Installation Looks Like
 

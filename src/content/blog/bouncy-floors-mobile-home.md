@@ -113,7 +113,7 @@ You can learn a lot from inside the house, no crawling required.
 
 Now, here's where we draw the DIY line. Checking is fine. Crawling under a home to adjust piers or add shims yourself is not. A mobile home can weigh 15,000 to 40,000 pounds, and a pier that shifts while you're under there is a genuinely life-threatening situation. Jacking and shimming needs proper equipment, cribbing, and someone who knows the frame points that can take the load. HUD's manufactured housing program sets the standards these homes are built and installed to, and you can find their resources at [hud.gov](https://www.hud.gov/program_offices/housing/rmra/mhs/mhshome). Leave the under-home work to people with insurance and hydraulic jacks.
 
-If your inspection turns up anything from the list above, [request a free written estimate](/#contact) and we'll get eyes underneath safely.
+If your inspection turns up anything from the list above, [request a free written estimate](/contact/) and we'll get eyes underneath safely.
 
 ## What a Professional Fix Actually Looks Like
 

@@ -93,7 +93,7 @@ Notice the trap in that table. Paying $600 to professionally repair a cracked wa
 
 Here's how that goes wrong. Carla in Dunnellon patched and repainted her living room wall every year for four years. About $50 a year in materials, no big deal, she figured. What she couldn't see was that the dropped pier causing the crack had also opened a gap in her floor, and her torn vapor barrier was letting ground moisture soak the subfloor above it. By the time she called us, the relevel was still only $650, but she also needed $3,900 in subfloor and belly board repair that would've been avoidable two years earlier. Cracks are cheap messengers. The damage they're announcing isn't always cheap.
 
-For the full breakdown of what drives leveling prices up or down, see our [mobile home leveling cost](/mobile-home-leveling-cost/) page. And if you want a second set of eyes before spending anything, [request a free estimate](/#contact) and we'll tell you honestly whether your cracks are cosmetic.
+For the full breakdown of what drives leveling prices up or down, see our [mobile home leveling cost](/mobile-home-leveling-cost/) page. And if you want a second set of eyes before spending anything, [request a free estimate](/contact/) and we'll tell you honestly whether your cracks are cosmetic.
 
 ## When to Stop Patching and Call a Professional
 
@@ -129,7 +129,7 @@ After that, the cracks you repair should stay repaired. In our sandy soil, plan 
 
 Here's the bottom line. Cracks in mobile home walls are common, and most are nothing. But diagonal cracks at doors and windows, repeat offenders, and cracks paired with sticking doors mean your home is asking for support, literally. A relevel in Marion County typically runs $450 to $1,100, which is a fraction of what neglected settling costs once floors and subfloors get involved.
 
-Not sure which kind of crack you're looking at? Snap a photo, [reach out through our contact form](/#contact) or call [(352) 247-3105](tel:+13522473105), and we'll give you a straight answer and a free written estimate. If it's cosmetic, we'll tell you that too.
+Not sure which kind of crack you're looking at? Snap a photo, [reach out through our contact form](/contact/) or call [(352) 247-3105](tel:+13522473105), and we'll give you a straight answer and a free written estimate. If it's cosmetic, we'll tell you that too.
 
 ## Frequently Asked Questions
 

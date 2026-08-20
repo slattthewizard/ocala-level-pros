@@ -25,7 +25,7 @@ Insurers can't tell the good ones from the bad ones over the phone. So they trea
 - The ones that will often require inspections and certifications first
 - Coverage is usually actual cash value, not replacement cost
 
-None of that means you can't get insured. It means you need to know the game before you play it. If you want someone to look at your home's foundation and tie-downs before you start calling agents, [reach out for a free written estimate](/#contact). It's a lot cheaper to fix problems before an inspector documents them.
+None of that means you can't get insured. It means you need to know the game before you play it. If you want someone to look at your home's foundation and tie-downs before you start calling agents, [reach out for a free written estimate](/contact/). It's a lot cheaper to fix problems before an inspector documents them.
 
 ## Insuring a Pre-1976 Mobile Home in Florida
 
@@ -133,7 +133,7 @@ Keep your paperwork. Tie-down certifications, relevel invoices, and inspection r
 
 And know when to stop DIYing. Skirting repairs, gutter work, and visual checks are fair game for any homeowner. Anything involving jacks, piers, anchors, or the frame belongs with a licensed pro. The money you save doing it yourself isn't worth what a 15,000 pound home can do in half a second.
 
-If you own a pre-1976 mobile home anywhere in Marion, Sumter, or Citrus County and you want a straight answer about what it needs, [request a free written estimate](/#contact) or call [(352) 247-3105](tel:+13522473105). We'll tell you what's worth fixing and what isn't, in writing, with no pressure.
+If you own a pre-1976 mobile home anywhere in Marion, Sumter, or Citrus County and you want a straight answer about what it needs, [request a free written estimate](/contact/) or call [(352) 247-3105](tel:+13522473105). We'll tell you what's worth fixing and what isn't, in writing, with no pressure.
 
 ## Frequently Asked Questions
 

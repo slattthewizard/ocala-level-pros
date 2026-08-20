@@ -90,7 +90,7 @@ Prices move with anchor count, soil, and how much junk is under the home, so tre
 
 Timing matters more than most people expect. Mike in Summerfield was buying a 2004 double wide last spring, and his lender required a foundation certification. The inspection found no longitudinal ties and six loose straps. Because he caught it before closing, he negotiated $2,400 off the purchase price. Our actual repair bill was $1,650. He walked away ahead by catching it early, and that's the norm, not the exception.
 
-Ready for real numbers on your home? [Request a free written estimate](/#contact) and we'll put everything in writing, itemized, with no pressure.
+Ready for real numbers on your home? [Request a free written estimate](/contact/) and we'll put everything in writing, itemized, with no pressure.
 
 ## Tie-Down Requirements and Your Insurance Company
 

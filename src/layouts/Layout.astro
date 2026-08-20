@@ -16,6 +16,26 @@ const {
   ogDescription,
   ogImage = 'https://ocalalevelpros.com/images/og-image.webp',
 } = Astro.props;
+
+/**
+ * Sitewide CTAs should land on the nearest form rather than always bouncing
+ * to the homepage hero. Service and city pages carry their own #estimate
+ * section with the city pre-filled; everything else goes to /contact/.
+ */
+const PAGES_WITH_ESTIMATE_FORM = [
+  '/mobile-home-leveling-belleview/', '/mobile-home-leveling-citra/',
+  '/mobile-home-leveling-cost/', '/mobile-home-leveling-dunnellon/',
+  '/mobile-home-leveling-lady-lake/', '/mobile-home-leveling-ocala/',
+  '/mobile-home-leveling-silver-springs/', '/mobile-home-leveling-summerfield/',
+  '/mobile-home-skirting-ocala/', '/mobile-home-tie-downs-ocala/',
+  '/vapor-barrier-ocala/',
+];
+const path = Astro.url.pathname;
+const ctaHref = path === '/'
+  ? '/#contact'
+  : PAGES_WITH_ESTIMATE_FORM.includes(path)
+    ? '#estimate'
+    : '/contact/';
 ---
 
 <!DOCTYPE html>
@@ -274,7 +294,7 @@ const {
 
     <!-- CTA -->
     <div class="desktop-cta" style="display:none;align-items:center;gap:12px;">
-      <a href="/#contact" class="btn-green" style="padding:12px 26px;font-size:13.5px;">Get a Free Quote</a>
+      <a href={ctaHref} class="btn-green" style="padding:12px 26px;font-size:13.5px;">Get a Free Quote</a>
     </div>
 
     <!-- Mobile hamburger -->
@@ -294,7 +314,7 @@ const {
       <a href="/about/" class="nav-link" onclick="document.getElementById('mobile-menu').classList.remove('open')">About</a>
       <a href="/contact/" class="nav-link" onclick="document.getElementById('mobile-menu').classList.remove('open')">Contact</a>
       <a href="/blog/" class="nav-link" onclick="document.getElementById('mobile-menu').classList.remove('open')">Blog</a>
-      <a href="/#contact" class="btn-green" style="width:fit-content;font-size:13px;padding:11px 24px;" onclick="document.getElementById('mobile-menu').classList.remove('open')">Request Service</a>
+      <a href={ctaHref} class="btn-green" style="width:fit-content;font-size:13px;padding:11px 24px;" onclick="document.getElementById('mobile-menu').classList.remove('open')">Request Service</a>
     </nav>
   </div>
 </header>
@@ -313,7 +333,7 @@ const {
       </div>
       <div style="display:flex;gap:14px;flex-wrap:wrap;">
         <a href="tel:+13522473105" class="btn-white-outline">Call (352) 247-3105</a>
-        <a href="/#contact" class="btn-green">Request Service</a>
+        <a href={ctaHref} class="btn-green">Request Service</a>
       </div>
     </div>
   </div>

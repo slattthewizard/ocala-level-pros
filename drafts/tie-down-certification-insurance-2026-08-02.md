@@ -28,7 +28,7 @@ Florida sets the actual anchoring standards through the Department of Highway Sa
 
 The short version: your home needs the right number of anchors, in the right condition, with straps at the right tension, matched to the wind zone where the home sits. The certification is simply a licensed professional putting their name on paper saying your home meets that bar.
 
-If you've already got a compliance letter in hand and the clock is ticking, don't wait on it. [Request a free written estimate](/#contact) and we'll get eyes under your home fast, usually within a couple of days.
+If you've already got a compliance letter in hand and the clock is ticking, don't wait on it. [Request a free written estimate](/contact/) and we'll get eyes under your home fast, usually within a couple of days.
 
 ## What a Mobile Home Tie Down Certification Actually Includes
 
@@ -118,7 +118,7 @@ One more thing worth saying plainly: don't let anyone talk you into skipping the
 
 Tie-downs also don't work alone. Straps anchor the frame, but piers carry the weight, and a home that's settled out of level puts stress on both systems. If doors have started sticking or floors feel off since your last hurricane season, it's worth having the whole support system looked at in one visit. Our [mobile home tie-down service in Ocala](/mobile-home-tie-downs-ocala/) covers inspection, repair, and certification together, so you're not paying two contractors for one crawlspace.
 
-Ready to get it handled? [Reach out for a free written estimate](/#contact) and tell us your insurance deadline. We'll work backward from it.
+Ready to get it handled? [Reach out for a free written estimate](/contact/) and tell us your insurance deadline. We'll work backward from it.
 
 ## Frequently Asked Questions
 

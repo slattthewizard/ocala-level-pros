@@ -27,7 +27,7 @@ Nearly every soft spot traces back to one thing: moisture getting into particleb
 
 **Pier settling and lost support.** When piers under the home settle or shims work loose, sections of floor lose their backup support. The floor flexes more than it should, fasteners work loose, and seams open up. That flexing feels a lot like a soft spot even when the wood is still dry.
 
-If you'd rather have a professional crawl under there and tell you exactly what's going on, that's what we do. [Request a free written estimate](/#contact) or call us at [(352) 247-3105](tel:+13522473105). We check the subfloor, the vapor barrier, and the piers in one visit.
+If you'd rather have a professional crawl under there and tell you exactly what's going on, that's what we do. [Request a free written estimate](/contact/) or call us at [(352) 247-3105](tel:+13522473105). We check the subfloor, the vapor barrier, and the piers in one visit.
 
 ## How to Find Every Soft Spot Before You Fix One
 
@@ -107,7 +107,7 @@ Once your floor is solid again, a little prevention keeps it that way.
 
 **Get the level checked every few years.** A quick check confirms the piers are carrying the home evenly, which keeps floors from flexing and seams from opening. If you're not sure whether your home is due, our post on [signs your mobile home needs leveling](/blog/signs-mobile-home-needs-leveling/) covers the early warnings.
 
-A soft floor caught early is a small job. A soft floor ignored becomes rotted joists, mold remediation, and a bathroom you can't use. If you've got a spot you've been stepping around, [get a free written estimate](/#contact) and know exactly what you're dealing with. We serve Ocala, Belleview, Summerfield, Silver Springs, Dunnellon, and all of Marion, Sumter, and Citrus counties, and we're licensed and insured.
+A soft floor caught early is a small job. A soft floor ignored becomes rotted joists, mold remediation, and a bathroom you can't use. If you've got a spot you've been stepping around, [get a free written estimate](/contact/) and know exactly what you're dealing with. We serve Ocala, Belleview, Summerfield, Silver Springs, Dunnellon, and all of Marion, Sumter, and Citrus counties, and we're licensed and insured.
 
 ## Frequently Asked Questions
 

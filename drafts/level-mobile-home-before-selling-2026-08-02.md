@@ -73,7 +73,7 @@ This is why we tell sellers to look at leveling and tie-downs together before li
 
 One more seller from us: Ray in Dunnellon went the other way. He listed his single-wide as-is at $58,000. First buyer's inspection flagged an unlevel frame and corroded anchor straps, and the buyer walked. Second buyer demanded $4,500 off. By the time Ray called us, he'd been on the market 74 days. The relevel and strap replacement together came to $1,850. He relisted, sold in three weeks, but he figures the delay and the earlier price drop cost him about $5,000 he didn't need to lose.
 
-If a sale is already in motion and an inspection deadline is breathing down your neck, we keep a 24/7 line for exactly that situation. Call [(352) 247-3105](tel:+13522473105) any time, or [request your free written estimate here](/#contact).
+If a sale is already in motion and an inspection deadline is breathing down your neck, we keep a 24/7 line for exactly that situation. Call [(352) 247-3105](tel:+13522473105) any time, or [request your free written estimate here](/contact/).
 
 ## How to Check Your Home Before You List
 
@@ -108,7 +108,7 @@ We promised to be straight about both sides, so here it is. There are a few situ
 
 For everyone else, which is most sellers in Ocala and Marion County, the relevel is the highest-return dollar you'll spend getting the home ready. It's cheaper than new flooring, faster than painting, and it fixes the exact items inspectors flag and buyers fear.
 
-If you want a number for your specific home before you decide, [reach out for a free written estimate](/#contact). We'll measure, give you a fixed price in writing, and tell you plainly whether the work is worth doing before your sale. No pressure either way.
+If you want a number for your specific home before you decide, [reach out for a free written estimate](/contact/). We'll measure, give you a fixed price in writing, and tell you plainly whether the work is worth doing before your sale. No pressure either way.
 
 ## Frequently Asked Questions
 

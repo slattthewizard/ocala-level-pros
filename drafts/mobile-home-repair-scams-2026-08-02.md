@@ -25,7 +25,7 @@ Third, Florida weather gives scammers a built-in script. After every named storm
 
 Finally, the work itself is invisible. If someone repaves your driveway badly, you can see it. If someone "relevels" your home by turning a few pier caps and leaving, you might not notice anything wrong for a year. That delay is what lets bad actors move from park to park without getting caught.
 
-If something under your home genuinely worries you, get a second set of eyes before you sign anything. Ocala Level Pros gives [free written estimates](/#contact), and we'll tell you straight if the first guy was right. You can also just call us at [(352) 247-3105](tel:+13522473105) and describe what you were told. We've heard most of the scripts.
+If something under your home genuinely worries you, get a second set of eyes before you sign anything. Ocala Level Pros gives [free written estimates](/contact/), and we'll tell you straight if the first guy was right. You can also just call us at [(352) 247-3105](tel:+13522473105) and describe what you were told. We've heard most of the scripts.
 
 ## The 9 Biggest Red Flags of a Mobile Home Repair Scam
 
@@ -108,7 +108,7 @@ Getting conned feels awful, and a lot of folks stay quiet out of embarrassment. 
 
 **5. Warn your park.** Scam crews work one community at a time. A note on the park bulletin board or a word with the manager can stop the same crew from hitting six more homes that week.
 
-If your home does need real work after a scam, don't let one bad experience keep you from fixing genuine problems. Settling, loose anchors, and torn vapor barriers get more expensive the longer they wait. [Request a free written estimate](/#contact) and we'll show you exactly what we see under there, with your own photos, not stock ones.
+If your home does need real work after a scam, don't let one bad experience keep you from fixing genuine problems. Settling, loose anchors, and torn vapor barriers get more expensive the longer they wait. [Request a free written estimate](/contact/) and we'll show you exactly what we see under there, with your own photos, not stock ones.
 
 ## Frequently Asked Questions
 

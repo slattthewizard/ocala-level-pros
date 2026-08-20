@@ -82,7 +82,7 @@ When the soil under a home is stable, leveling is straightforward. When it's not
 
 Marisol in Dunnellon learned this the hard way. Her double-wide sits on low ground not far from the river, and the previous owner had releveled it twice in six years using the cheapest bid each time. Nobody addressed the water pooling under the north side after every storm. We releveled the home, replaced six failed piers, upsized the pads, and corrected the grading so water finally moved away from the foundation. Total: $2,700. It's held level for two years now, through two hurricane seasons.
 
-If your home keeps settling in the same spot, the soil is trying to tell you something. Our post on [why mobile homes settle in Florida](/blog/why-mobile-homes-settle-florida/) explains the pattern. And if you'd like our crew to look at your specific lot, [request a free estimate here](/#contact). We'll tell you honestly whether you need drainage work or just a standard relevel.
+If your home keeps settling in the same spot, the soil is trying to tell you something. Our post on [why mobile homes settle in Florida](/blog/why-mobile-homes-settle-florida/) explains the pattern. And if you'd like our crew to look at your specific lot, [request a free estimate here](/contact/). We'll tell you honestly whether you need drainage work or just a standard relevel.
 
 ## 5. Access and Clearance Under the Home
 
@@ -133,7 +133,7 @@ If a bid is hundreds of dollars below everyone else's, one of these items is usu
 
 One last piece of advice on the DIY question. Checking your home with a 4-foot level and walking the skirting line for gaps is smart homeowner maintenance. Jacking a 15,000-pound structure is not a DIY job. Homes can shift off jacks, and the injuries are serious. If your level shows a problem, stop there and bring in a pro.
 
-Ready for real numbers on your home? Call [(352) 247-3105](tel:+13522473105) or [request your free written estimate](/#contact). We serve Ocala and all of Marion, Sumter, and Citrus counties, we're licensed and insured, and we'll show you photos of everything we find under your home before you spend a dollar.
+Ready for real numbers on your home? Call [(352) 247-3105](tel:+13522473105) or [request your free written estimate](/contact/). We serve Ocala and all of Marion, Sumter, and Citrus counties, we're licensed and insured, and we'll show you photos of everything we find under your home before you spend a dollar.
 
 ## Frequently Asked Questions
 

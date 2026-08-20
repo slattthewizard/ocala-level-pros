@@ -40,7 +40,7 @@ None of these prove anything on their own. Florida humidity swells doors, and ol
 
 Ruth in Belleview called us last spring for exactly this reason. Her coffee mug kept sliding to one side of the kitchen table, and her back door had stopped latching. She'd assumed the door was just old. Our tech ran a water level under the home and found the rear corner sitting 2.5 inches low. Six piers needed adjustment and new shims. Total bill: $850, and her door latched again before the truck left the driveway.
 
-If your home is showing two or more of these signs, don't wait for the marble test to get worse. [Request a free written estimate](/#contact) or call us at [(352) 247-3105](tel:+13522473105). The check itself takes under an hour at most homes.
+If your home is showing two or more of these signs, don't wait for the marble test to get worse. [Request a free written estimate](/contact/) or call us at [(352) 247-3105](tel:+13522473105). The check itself takes under an hour at most homes.
 
 ## The Water Level: The $20 Tool Pros Still Trust Most
 
@@ -113,7 +113,7 @@ The lesson isn't fear, it's timing. Settling caught early is a shim adjustment. 
 
 One safety note: looking is fine, lifting is not. Never put any part of your body under the frame while jacking, and never trust a jack alone to hold a home. A single section weighs upwards of 15,000 pounds. When the readings say something needs to move, call a crew with the jacks, blocking, and insurance to do it safely.
 
-Ready to know exactly where your home stands? [Schedule a free written estimate](/#contact) or call [(352) 247-3105](tel:+13522473105). We check homes across Ocala, Marion, Sumter, and Citrus counties, and our 24/7 line covers pre-closing deadlines when a sale can't wait.
+Ready to know exactly where your home stands? [Schedule a free written estimate](/contact/) or call [(352) 247-3105](tel:+13522473105). We check homes across Ocala, Marion, Sumter, and Citrus counties, and our 24/7 line covers pre-closing deadlines when a sale can't wait.
 
 ## Frequently Asked Questions
 

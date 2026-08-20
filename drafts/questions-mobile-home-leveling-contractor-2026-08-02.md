@@ -21,7 +21,7 @@ The problem is that leveling touches everything. Your plumbing connections, your
 
 Florida also regulates this work more than most states. Mobile home installers here are licensed through the [Florida Department of Highway Safety and Motor Vehicles](https://www.flhsmv.gov/), and structural standards for manufactured homes come from [HUD's federal construction and safety rules](https://www.hud.gov/program_offices/housing/rmra/mhs/mhshome). A contractor who shrugs at either of those is telling you something important.
 
-If you'd rather skip the interview process, we'll make it easy. Ocala Level Pros answers every one of these questions in writing before we touch a jack. [Request a free written estimate](/#contact) or call [(352) 247-3105](tel:+13522473105) and ask us anything on this list.
+If you'd rather skip the interview process, we'll make it easy. Ocala Level Pros answers every one of these questions in writing before we touch a jack. [Request a free written estimate](/contact/) or call [(352) 247-3105](tel:+13522473105) and ask us anything on this list.
 
 ## The First Five Questions to Ask a Mobile Home Leveling Contractor
 
@@ -118,7 +118,7 @@ One more from right here at home. Marge in Silver Springs had a door-knocker tel
 
 And a note on doing it yourself: checking your home with a level is fine, and so is looking under the skirting with a flashlight. But never get under a mobile home supported only by jacks, and never try to lift a frame without training. Homes weigh 15,000 pounds and up. If anything needs to move, that's the moment to stop and call a professional.
 
-When you're ready for straight answers and a documented job, start with our [mobile home leveling service in Ocala](/mobile-home-leveling-ocala/) or [request your free written estimate](/#contact). Every quote comes with elevation readings, photos, and pricing on paper.
+When you're ready for straight answers and a documented job, start with our [mobile home leveling service in Ocala](/mobile-home-leveling-ocala/) or [request your free written estimate](/contact/). Every quote comes with elevation readings, photos, and pricing on paper.
 
 ## Frequently Asked Questions
 

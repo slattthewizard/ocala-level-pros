@@ -74,7 +74,7 @@ Gloria in Summerfield learned the middle row of that table the hard way. She rep
 
 If you're pricing options, our breakdown of [mobile home skirting cost](/blog/mobile-home-skirting-cost/) covers materials and labor in detail. Just read it after you've ruled out settling.
 
-Want a straight answer on which column you're in? [Request a free written estimate](/#contact) and we'll check the level before quoting anything.
+Want a straight answer on which column you're in? [Request a free written estimate](/contact/) and we'll check the level before quoting anything.
 
 ## Real Fixes: From Releveling to Skirting Repair
 
@@ -127,7 +127,7 @@ Fourth, you get a free written estimate that separates the leveling work from th
 
 The whole visit usually takes under 90 minutes. If the home checks out level and the skirting really is just tired vinyl, we'll say so.
 
-We serve Ocala, Belleview, Summerfield, Silver Springs, Dunnellon, Lady Lake, Citra, and the surrounding parts of Marion, Sumter, and Citrus counties. If your skirting is bowing, gapping, or pulling away, don't wait for the wet season to make it worse. Call [(352) 247-3105](tel:+13522473105) or [request your free written estimate online](/#contact). We also run a 24/7 line for pre-closing inspection deadlines, because real estate contracts don't wait for business hours.
+We serve Ocala, Belleview, Summerfield, Silver Springs, Dunnellon, Lady Lake, Citra, and the surrounding parts of Marion, Sumter, and Citrus counties. If your skirting is bowing, gapping, or pulling away, don't wait for the wet season to make it worse. Call [(352) 247-3105](tel:+13522473105) or [request your free written estimate online](/contact/). We also run a 24/7 line for pre-closing inspection deadlines, because real estate contracts don't wait for business hours.
 
 ## Frequently Asked Questions
 

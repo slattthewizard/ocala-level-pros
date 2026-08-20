@@ -97,7 +97,7 @@ Those are pier and drainage problems. Stacking shims taller to chase a sinking p
 
 And a safety line we don't cross, and you shouldn't either: never crawl under a home that's supported only by jacks, and never work under a frame while lifting it. Homes have killed people that way. Checking your shims visually from the crawl space entrance with a flashlight is fine. Getting under a lifted frame is professional-only territory, full stop.
 
-Not sure whether you're looking at a $20 shim fix or a full relevel? Send us a note through [our contact form](/#contact) and we'll schedule a free inspection with a written estimate. No pressure, just numbers on paper.
+Not sure whether you're looking at a $20 shim fix or a full relevel? Send us a note through [our contact form](/contact/) and we'll schedule a free inspection with a written estimate. No pressure, just numbers on paper.
 
 ## How to Tell Your Shims Need Attention
 

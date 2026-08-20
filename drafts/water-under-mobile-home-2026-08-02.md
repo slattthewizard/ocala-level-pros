@@ -13,7 +13,7 @@ Here's the thing most homeowners don't realize: the water itself isn't the expen
 
 The good news is that most standing water problems have a clear cause and a fix that costs a lot less than the damage it prevents. Let's walk through why water collects under mobile homes in Central Florida, what it hurts first, and exactly what to do about it.
 
-If you already know you've got a swamp under there and just want someone to look at it, [request a free written estimate](/#contact) or call us at [(352) 247-3105](tel:+13522473105). We check drainage, piers, and the vapor barrier in one visit.
+If you already know you've got a swamp under there and just want someone to look at it, [request a free written estimate](/contact/) or call us at [(352) 247-3105](tel:+13522473105). We check drainage, piers, and the vapor barrier in one visit.
 
 ## Why Water Collects Under a Mobile Home in Florida
 
@@ -101,7 +101,7 @@ Draw the line at anything involving the structure. If piers have visibly sunk or
 
 And if you're seeing widespread mold, a collapsed belly wrap, or water that returns within days no matter what you do, you need eyes on it from someone who deals with this every week.
 
-That's us. Ocala Level Pros serves Ocala and all of Marion, Sumter, and Citrus counties. We'll inspect the drainage, piers, vapor barrier, and level in one visit, and you'll get a free written estimate with real numbers, not a scare pitch. Call [(352) 247-3105](tel:+13522473105) or [reach us here](/#contact). We keep a 24/7 line open for pre-closing inspections and insurance deadlines, because those never seem to land on a Tuesday afternoon.
+That's us. Ocala Level Pros serves Ocala and all of Marion, Sumter, and Citrus counties. We'll inspect the drainage, piers, vapor barrier, and level in one visit, and you'll get a free written estimate with real numbers, not a scare pitch. Call [(352) 247-3105](tel:+13522473105) or [reach us here](/contact/). We keep a 24/7 line open for pre-closing inspections and insurance deadlines, because those never seem to land on a Tuesday afternoon.
 
 ## Frequently Asked Questions
 

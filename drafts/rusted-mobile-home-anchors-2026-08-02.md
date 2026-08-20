@@ -23,7 +23,7 @@ The dangerous part is where the rust concentrates. Anchors usually corrode worst
 
 Marion County sits in Wind Zone II under Florida's installation rules, so your anchoring system isn't optional equipment. It's the thing standing between your home and a very bad afternoon in storm season. We're not going to fearmonger about hurricanes here. The practical point is simpler: the state, your insurer, and any future buyer all expect that system to work, and rust is the main reason it doesn't. If you want the full rundown of what Florida requires, our guide to [Florida mobile home tie-down requirements](/blog/florida-mobile-home-tie-down-requirements/) covers the details.
 
-Not sure what shape your anchors are in? [Request a free written estimate](/#contact) and we'll crawl under, count every anchor, and tell you exactly which ones pass and which ones don't. No guesswork, no pressure.
+Not sure what shape your anchors are in? [Request a free written estimate](/contact/) and we'll crawl under, count every anchor, and tell you exactly which ones pass and which ones don't. No guesswork, no pressure.
 
 ## How to Tell If Your Anchors Are Rusted, Loose, or Just Dirty
 
@@ -91,7 +91,7 @@ Timing matters more than most people expect. Summer rains soften our soil, which
 
 While the crew is under the home, a good contractor will also flag related problems while the skirting is open: pier issues, moisture problems, sagging belly board. It costs nothing to look, and catching a $300 problem before it becomes a $3,000 one is the whole point of getting eyes under there.
 
-If you're in Ocala, Silver Springs, Belleview, Summerfield, Dunnellon, Lady Lake, Citra, or anywhere in Marion, Sumter, or Citrus counties, we do this every week. Our [mobile home tie-down service](/mobile-home-tie-downs-ocala/) covers inspection, repair, full replacement, and the certification letters insurers ask for. [Get your free written estimate here](/#contact) or call [(352) 247-3105](tel:+13522473105), and you'll get a straight answer about what needs replacing and what doesn't.
+If you're in Ocala, Silver Springs, Belleview, Summerfield, Dunnellon, Lady Lake, Citra, or anywhere in Marion, Sumter, or Citrus counties, we do this every week. Our [mobile home tie-down service](/mobile-home-tie-downs-ocala/) covers inspection, repair, full replacement, and the certification letters insurers ask for. [Get your free written estimate here](/contact/) or call [(352) 247-3105](tel:+13522473105), and you'll get a straight answer about what needs replacing and what doesn't.
 
 ## Frequently Asked Questions
 

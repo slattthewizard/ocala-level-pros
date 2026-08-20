@@ -25,7 +25,7 @@ Every structure settles a little. A mobile home in Florida settles more, and mor
 
 Put those three together and you get the classic Florida pattern: a home that was dead level at setup drifts out of level within three to five years, usually on one side or one corner first.
 
-If you're already seeing sticking doors or sloped floors, don't wait for it to get worse. Call Ocala Level Pros at [(352) 247-3105](tel:+13522473105) or [request a free written estimate](/#contact). We'll check every pier and tell you exactly where you stand, in writing, at no cost.
+If you're already seeing sticking doors or sloped floors, don't wait for it to get worse. Call Ocala Level Pros at [(352) 247-3105](tel:+13522473105) or [request a free written estimate](/contact/). We'll check every pier and tell you exactly where you stand, in writing, at no cost.
 
 ## The Trouble With Sand: What's Really Under Marion County
 
@@ -83,7 +83,7 @@ That last row isn't a scare tactic, it's math. Settling itself is cheap to fix. 
 
 Gene in Summerfield got the timing right. He was prepping his home for sale and his agent warned him the buyer's four-point inspection would flag anything unlevel. We found moderate settling along one beam, releveled it for $650, and gave him written documentation. The sale closed on schedule with zero inspection credits. His neighbor, same model home, ignored the same symptoms and ended up crediting a buyer $2,500 at closing for "foundation concerns" that would have cost a third of that to actually fix.
 
-Want to know which category your home falls in? [Get a free written estimate](/#contact) or call [(352) 247-3105](tel:+13522473105). We serve Ocala, Belleview, Summerfield, Silver Springs, Dunnellon, Lady Lake, Citra, and the rest of Marion, Sumter, and Citrus counties.
+Want to know which category your home falls in? [Get a free written estimate](/contact/) or call [(352) 247-3105](tel:+13522473105). We serve Ocala, Belleview, Summerfield, Silver Springs, Dunnellon, Lady Lake, Citra, and the rest of Marion, Sumter, and Citrus counties.
 
 ## How to Slow Settling Down Under Your Home
 

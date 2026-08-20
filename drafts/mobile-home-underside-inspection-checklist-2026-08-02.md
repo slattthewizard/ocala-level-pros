@@ -23,7 +23,7 @@ Ray in Belleview learned that the cheap way. During his first yearly check, he s
 
 There's an insurance angle too. Florida insurers lean hard on 4-point inspections for older mobile homes, and the underside is where those inspections go sideways. Catching rusted straps or leaning piers a year early means you fix them on your schedule and your budget, not under a 30-day cancellation notice.
 
-If you'd rather have a pro run this check the first time and show you what to look for, we do free written estimates across Marion, Sumter, and Citrus counties. Call (352) 247-3105 or [request a visit here](/#contact) and we'll walk the underside with you.
+If you'd rather have a pro run this check the first time and show you what to look for, we do free written estimates across Marion, Sumter, and Citrus counties. Call (352) 247-3105 or [request a visit here](/contact/) and we'll walk the underside with you.
 
 ## Gear Up First: What You Need and When Not to Crawl
 
@@ -106,7 +106,7 @@ Keep it simple. Create a note on your phone called "Under-home check" with three
 
 Two timing tips for Central Florida. Run your main check in spring, before the June-through-September rains, so you fix drainage and pier issues before the wet season tests them. And add a quick bonus check after any named storm or any week with flooding rain, because saturated sand is when piers and anchors actually move.
 
-If this year's check turns up anything on the red flag list, or you just want trained eyes under there once, that's what we do all day. Ocala Level Pros is licensed and insured, estimates are free and in writing, and we keep a 24/7 line for pre-closing inspections and insurance deadlines. Call (352) 247-3105 or [book your free underside inspection](/#contact) and we'll tell you exactly what's under your home and what, if anything, it needs.
+If this year's check turns up anything on the red flag list, or you just want trained eyes under there once, that's what we do all day. Ocala Level Pros is licensed and insured, estimates are free and in writing, and we keep a 24/7 line for pre-closing inspections and insurance deadlines. Call (352) 247-3105 or [book your free underside inspection](/contact/) and we'll tell you exactly what's under your home and what, if anything, it needs.
 
 ## Frequently Asked Questions
 

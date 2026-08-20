@@ -11,7 +11,7 @@ A Category 1 hurricane pushes winds of 74 to 95 mph across Marion County, and a 
 
 That's what this guide is for. It's a practical, no-panic approach to hurricane preparation for mobile homes, built from what we actually see under homes in Ocala, Belleview, Summerfield, and the rest of Marion, Sumter, and Citrus counties. We'll cover what to check 30 days out, what to do the week before landfall, what it all costs, and when to stop DIYing and pick up the phone.
 
-If you'd rather have a professional look things over before the season heats up, [request a free written estimate](/#contact) or call us at [(352) 247-3105](tel:+13522473105). We check anchors, straps, piers, and skirting in one visit.
+If you'd rather have a professional look things over before the season heats up, [request a free written estimate](/contact/) or call us at [(352) 247-3105](tel:+13522473105). We check anchors, straps, piers, and skirting in one visit.
 
 ## Why Hurricane Prep for Mobile Homes Starts Under the Home
 
@@ -77,7 +77,7 @@ Dave and Sharon in Belleview are the case study we cite most. In 2024 they spent
 
 There's an insurance angle too. Many Florida carriers ask for proof of a compliant tie-down system, especially during 4-point inspections on older homes. A documented inspection can be the difference between keeping coverage and scrambling for it. Our post on [tie-down certification and insurance](/blog/tie-down-certification-insurance/) covers what carriers actually want to see.
 
-Want a real number for your home instead of a range? [Get a free written estimate](/#contact). No pressure, no scare tactics, just what we find and what it costs to fix.
+Want a real number for your home instead of a range? [Get a free written estimate](/contact/). No pressure, no scare tactics, just what we find and what it costs to fix.
 
 ## Day Of the Storm and the First 48 Hours After
 
@@ -97,7 +97,7 @@ The homes that come through hurricane season fine are almost never the newest on
 
 Put the 30-day checklist on your calendar for late May. Do the crawl-around, or have us do it. Handle the yard and documents the week a storm is named. That's the whole system, and it costs a fraction of what a single strap failure does.
 
-We're local, we're licensed and insured, and we look at the undersides of mobile homes across Marion, Sumter, and Citrus counties every working day. If you want a second set of eyes before the season peaks, [reach out for a free estimate](/#contact) or call [(352) 247-3105](tel:+13522473105).
+We're local, we're licensed and insured, and we look at the undersides of mobile homes across Marion, Sumter, and Citrus counties every working day. If you want a second set of eyes before the season peaks, [reach out for a free estimate](/contact/) or call [(352) 247-3105](tel:+13522473105).
 
 ## Frequently Asked Questions
 

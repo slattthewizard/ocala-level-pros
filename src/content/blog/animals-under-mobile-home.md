@@ -41,7 +41,7 @@ Every one of these animals got in through an opening you can find and close. Dam
 
 Ruth in Belleview learned that the hard way last spring. A raccoon family found a loose panel behind her AC unit, and by the time she called us, they'd pulled down insulation under two bedrooms and soaked the belly wrap with urine. The repair ran $2,750 for belly board patching, new insulation, and cleanup. The skirting fix that would have prevented all of it? About $85 in panels.
 
-If you suspect something is living under your home right now, don't wait for the damage to spread. [Request a free written estimate](/#contact) or call us at [(352) 247-3105](tel:+13522473105) and we'll take a look at the whole underside, not just the entry hole.
+If you suspect something is living under your home right now, don't wait for the damage to spread. [Request a free written estimate](/contact/) or call us at [(352) 247-3105](tel:+13522473105) and we'll take a look at the whole underside, not just the entry hole.
 
 ## Step One: Get the Animals Out Before You Seal Anything
 
@@ -116,7 +116,7 @@ And call an under-home specialist when the damage goes past the skirting. Torn b
 
 That's the value of getting eyes on the whole underside. Ocala Level Pros handles [belly board repair](/blog/mobile-home-belly-board-repair/), skirting, vapor barriers, and releveling as one package, so you're not coordinating three contractors over one raccoon.
 
-Estimates are free and in writing, we're licensed and insured, and if you're up against an insurance deadline or a pre-closing inspection, our emergency line answers around the clock. Call [(352) 247-3105](tel:+13522473105) or [reach out here](/#contact) and we'll get under your home this week.
+Estimates are free and in writing, we're licensed and insured, and if you're up against an insurance deadline or a pre-closing inspection, our emergency line answers around the clock. Call [(352) 247-3105](tel:+13522473105) or [reach out here](/contact/) and we'll get under your home this week.
 
 ## Frequently Asked Questions
 

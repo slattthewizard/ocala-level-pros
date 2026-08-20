@@ -124,7 +124,7 @@ Florida's rules for anchoring and installation live with the state's manufacture
 
 The whole process, from first phone call to sealed letter in your lender's inbox, usually takes one to two weeks when the retrofit is straightforward. That's why the buyers who call us the day the appraisal comes back almost always close on time, and the ones who wait for the underwriter's final conditions list end up paying rush fees.
 
-If you've got an FHA, VA, or USDA deal in motion anywhere in Marion, Sumter, or Citrus County, [request a free written estimate](/#contact) or call [(352) 247-3105](tel:+13522473105). We'll tell you straight whether your foundation will pass, and if it won't, exactly what it takes to get the letter.
+If you've got an FHA, VA, or USDA deal in motion anywhere in Marion, Sumter, or Citrus County, [request a free written estimate](/contact/) or call [(352) 247-3105](tel:+13522473105). We'll tell you straight whether your foundation will pass, and if it won't, exactly what it takes to get the letter.
 
 ## Frequently Asked Questions
 

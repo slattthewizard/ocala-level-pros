@@ -78,7 +78,7 @@ What pushes a job toward the high end? Bad pier condition, poor access under the
 
 Two quick local examples. Mike in Summerfield had a double wide with a settled marriage line: humps in the floor down the center hallway and a kitchen ceiling crack. His relevel plus six replaced blocks came to $2,100, done in one day. Carla in Dunnellon waited about three years after her doors first started sticking. By then, water pooling under the home had rotted several pier caps and the settling had opened a gap at the marriage line. Her job needed twelve pier rebuilds along with the relevel and came to $4,700. Same size home as Mike's. The difference was time.
 
-If you'd rather not find out which example you are, [request a free written estimate](/#contact) and we'll put real numbers on paper for your home.
+If you'd rather not find out which example you are, [request a free written estimate](/contact/) and we'll put real numbers on paper for your home.
 
 ## Can You Level a Mobile Home Yourself?
 
@@ -102,7 +102,7 @@ Re-check level every couple of years, or after any hurricane or unusually wet se
 
 And keep your paperwork. If you sell the home or your insurer asks for a 4-point inspection, a written record of professional leveling and tie-down work makes those conversations a lot easier.
 
-Ready to get your home sitting flat again? Call [(352) 247-3105](tel:+13522473105), day or night if you're up against an inspection or insurance deadline, or [send us a note](/#contact) and we'll schedule your free level check anywhere in Marion, Sumter, or Citrus County.
+Ready to get your home sitting flat again? Call [(352) 247-3105](tel:+13522473105), day or night if you're up against an inspection or insurance deadline, or [send us a note](/contact/) and we'll schedule your free level check anywhere in Marion, Sumter, or Citrus County.
 
 ## Frequently Asked Questions
 

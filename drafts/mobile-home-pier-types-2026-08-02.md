@@ -80,7 +80,7 @@ Here's how the three pier types stack up side by side, using prices we actually 
 
 Two things to keep in mind reading that table. First, per-pier prices drop when they're part of a bigger job, since the crew and equipment are already under the home. Second, the pier is maybe a third of the real cost equation. Footings, soil condition, home weight, and access drive the rest, which is why our [pier replacement cost guide](/blog/mobile-home-pier-replacement-cost/) is worth a read before you budget.
 
-If you'd rather skip the spreadsheet and just get a number for your home, request a free written estimate through our [contact page](/#contact). We'll crawl the home, count and grade every pier, and put real figures on paper.
+If you'd rather skip the spreadsheet and just get a number for your home, request a free written estimate through our [contact page](/contact/). We'll crawl the home, count and grade every pier, and put real figures on paper.
 
 ## Which Pier Type Should You Choose?
 

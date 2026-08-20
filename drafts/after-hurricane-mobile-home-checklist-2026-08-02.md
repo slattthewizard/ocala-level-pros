@@ -85,7 +85,7 @@ Notice the pattern: the structural items at the top of the table are the cheapes
 
 Teresa in Belleview is our favorite example of doing this right. She photographed her home the day she returned, found a dropped pier and two snapped straps during her walkthrough, and called us for a written assessment before she called her insurance company. Her documented claim came back approved at $6,200, covering the leveling, six new anchors, and her skirting. Neighbors two streets over with similar damage but no photos and no written assessment got a fraction of that.
 
-Want a set of trained eyes on your home before you file anything? [Request a free written estimate](/#contact) and we'll document what we find, whether or not you hire us for the work.
+Want a set of trained eyes on your home before you file anything? [Request a free written estimate](/contact/) and we'll document what we find, whether or not you hire us for the work.
 
 ## Insurance, Documentation, and the 4-Point Problem
 

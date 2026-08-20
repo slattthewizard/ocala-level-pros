@@ -45,7 +45,7 @@ Second, pull a skirting panel and look under the home with a flashlight. Frame t
 
 Third, check spacing. In Wind Zone II, frame ties are generally required at 5 feet 4 inches on center or closer, depending on the home and installation instructions. If your ties are 8 or 10 feet apart, the system is short even if every strap looks perfect.
 
-A word of caution. Look, count, and photograph all you want, but don't crawl under a home that feels unstable, don't dig around anchor heads, and never release tension on a strap yourself. A loaded tie-down strap stores real energy, and anchors under tension can pull out violently. Checking is DIY-friendly. Adjusting is not. If anything you find looks loose, rusted, or missing, that's the point where you stop and [request a free inspection](/#contact).
+A word of caution. Look, count, and photograph all you want, but don't crawl under a home that feels unstable, don't dig around anchor heads, and never release tension on a strap yourself. A loaded tie-down strap stores real energy, and anchors under tension can pull out violently. Checking is DIY-friendly. Adjusting is not. If anything you find looks loose, rusted, or missing, that's the point where you stop and [request a free inspection](/contact/).
 
 Here's what two of those inspections looked like recently. Ray, who owns a 1972 single wide in Belleview, got a nonrenewal notice after a 4-point inspection flagged his home for having frame ties only. His home predates HUD code, so it needed over-the-top protection too. We added eight over-the-top straps, replaced five rusted frame anchors, and re-tensioned the rest for $2,150. His insurer reinstated the policy with the new certification.
 
@@ -96,7 +96,7 @@ If your home is a double wide, frame ties at correct spacing are the core of the
 
 Whatever the age, condition beats configuration. The right system with rusted anchors and slack straps protects you less than a modest system that's tight and sound. That's why we treat every tie-down job as inspect first, then quote. Sometimes the honest answer is that you only need eight straps re-tensioned, and that's a small job.
 
-Our crews handle inspection, anchor replacement, added ties, and certification paperwork across Marion, Sumter, and Citrus counties. Start on our [mobile home tie-downs in Ocala](/mobile-home-tie-downs-ocala/) page, or [request your free written estimate](/#contact) and we'll schedule a look, usually within a couple of days. If you're up against an insurance deadline or a closing date, our emergency line runs 24/7.
+Our crews handle inspection, anchor replacement, added ties, and certification paperwork across Marion, Sumter, and Citrus counties. Start on our [mobile home tie-downs in Ocala](/mobile-home-tie-downs-ocala/) page, or [request your free written estimate](/contact/) and we'll schedule a look, usually within a couple of days. If you're up against an insurance deadline or a closing date, our emergency line runs 24/7.
 
 ## Frequently Asked Questions
 

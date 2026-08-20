@@ -86,7 +86,7 @@ Two related paper trails are worth knowing about. A [four-point inspection on a 
 
 The pattern in all of it: paperwork problems are really hardware problems. Fix the hardware, and the paperwork follows.
 
-Facing an insurance deadline or a closing date? We keep a 24/7 line open for exactly those situations. Reach us anytime through our [contact page](/#contact) or at [(352) 247-3105](tel:+13522473105).
+Facing an insurance deadline or a closing date? We keep a 24/7 line open for exactly those situations. Reach us anytime through our [contact page](/contact/) or at [(352) 247-3105](tel:+13522473105).
 
 ## Keeping a Zone 2 Home Ready: What You Can Check and When to Call a Pro
 
@@ -102,7 +102,7 @@ Here's where the line is. Checking is homeowner work. Fixing is not. Anchors hav
 
 Anchoring and leveling also go together more than most owners realize. Straps anchor the frame, but the frame rests on piers, and when piers settle the whole system loosens. If your home shows settling signs along with strap problems, it's worth having both looked at in one visit. That's the bulk of what we do at Ocala Level Pros, from [mobile home leveling in Ocala](/mobile-home-leveling-ocala/) to complete [tie-down and anchor work](/mobile-home-tie-downs-ocala/) across Marion, Sumter, and Citrus counties.
 
-One visit, one written estimate, no pressure. Call [(352) 247-3105](tel:+13522473105) or send a note through [our contact form](/#contact) and we'll tell you exactly where your home stands.
+One visit, one written estimate, no pressure. Call [(352) 247-3105](tel:+13522473105) or send a note through [our contact form](/contact/) and we'll tell you exactly where your home stands.
 
 ## Frequently Asked Questions
 

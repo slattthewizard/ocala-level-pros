@@ -41,7 +41,7 @@ The EPA is blunt about the fix: you can't control mold without controlling moist
 
 If you're already seeing standing water or damp soil under your home, that's a separate drainage problem a barrier alone won't fix. Our post on [water under a mobile home](/blog/water-under-mobile-home/) walks through that.
 
-Not sure what's under your home right now? We'll crawl under there and tell you, with photos. [Request a free written estimate](/#contact) or call [(352) 247-3105](tel:+13522473105). It costs you nothing to know.
+Not sure what's under your home right now? We'll crawl under there and tell you, with photos. [Request a free written estimate](/contact/) or call [(352) 247-3105](tel:+13522473105). It costs you nothing to know.
 
 ## What Makes the Best Vapor Barrier for a Mobile Home in Florida
 
@@ -123,7 +123,7 @@ But stop and call a professional if you hit any of these:
 
 A professional install of a reinforced 10-12 mil barrier on a double wide in the Ocala area typically runs $1,200 to $1,800 including ground prep, taped seams, and pier collars. That usually includes a full underside inspection, which has caught more than a few problems early for our customers.
 
-Want the exact number for your home? We give free written estimates across Marion, Sumter, and Citrus counties, and our line is answered around the clock for pre-closing deadlines. Call [(352) 247-3105](tel:+13522473105) or [book your free estimate here](/#contact).
+Want the exact number for your home? We give free written estimates across Marion, Sumter, and Citrus counties, and our line is answered around the clock for pre-closing deadlines. Call [(352) 247-3105](tel:+13522473105) or [book your free estimate here](/contact/).
 
 ## Frequently Asked Questions
 

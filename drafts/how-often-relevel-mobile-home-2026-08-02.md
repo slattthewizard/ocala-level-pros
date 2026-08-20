@@ -23,7 +23,7 @@ Notice the difference between checking and releveling. Checking is free or cheap
 
 New homes need one extra step. A freshly set home settles the most in its first year as the soil under the piers compacts under the new weight. If your home was set within the last 12 to 18 months, get it checked at the one-year mark even if everything feels fine.
 
-Not sure where your home stands? We'll come out and check it for free. [Request a free written estimate](/#contact) or call [(352) 247-3105](tel:+13522473105) and we'll put a level on your frame, no pressure and no obligation.
+Not sure where your home stands? We'll come out and check it for free. [Request a free written estimate](/contact/) or call [(352) 247-3105](tel:+13522473105) and we'll put a level on your frame, no pressure and no obligation.
 
 ## Why Central Florida Homes Need Releveling More Often
 
@@ -94,7 +94,7 @@ Compare that with what deferred leveling leads to:
 
 That last one is more common than people think. Ruth in Belleview was three weeks from closing on her home sale when the buyer's inspector flagged the home as out of level and noted daylight at the marriage line. She called our emergency line on a Thursday, we releveled the home Friday for $875, provided written documentation, and the closing happened on schedule. Without that paper in hand, her buyer's lender was ready to walk.
 
-If a sale or an insurance deadline is breathing down your neck, that's exactly what our 24/7 line is for. Call [(352) 247-3105](tel:+13522473105) any hour, or [request your free written estimate](/#contact) and we'll get you a documented number fast. You can also see the full pricing breakdown on our [mobile home leveling cost page](/mobile-home-leveling-cost/).
+If a sale or an insurance deadline is breathing down your neck, that's exactly what our 24/7 line is for. Call [(352) 247-3105](tel:+13522473105) any hour, or [request your free written estimate](/contact/) and we'll get you a documented number fast. You can also see the full pricing breakdown on our [mobile home leveling cost page](/mobile-home-leveling-cost/).
 
 ## What You Can Check Yourself, and When to Call a Pro
 
@@ -117,7 +117,7 @@ Check yearly. Get a professional level check every 2 to 3 years. Expect to actua
 
 The homeowners who follow that rhythm spend a few hundred dollars every few years and never deal with cracked subfloors, stressed plumbing, or failed inspections. The ones who wait for obvious damage spend thousands. It's one of the clearest cases in home maintenance where a small, boring habit beats an expensive rescue.
 
-If you can't remember the last time anyone put a level on your home's frame, that's your answer. [Get your free written estimate](/#contact) or call [(352) 247-3105](tel:+13522473105) and we'll tell you exactly where your home stands.
+If you can't remember the last time anyone put a level on your home's frame, that's your answer. [Get your free written estimate](/contact/) or call [(352) 247-3105](tel:+13522473105) and we'll tell you exactly where your home stands.
 
 ## Frequently Asked Questions
 

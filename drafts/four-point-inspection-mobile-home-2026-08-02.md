@@ -115,7 +115,7 @@ When you're hiring, ask whether the contractor is licensed and insured, whether 
 
 And check your title situation while you're at it. Florida mobile homes are titled through the state, and insurers sometimes ask for ownership documentation along with the inspection. The [Florida Highway Safety and Motor Vehicles mobile home page](https://www.flhsmv.gov/motor-vehicles-tags-titles/mobile-homes/) covers titles and the annual registration rules.
 
-The bottom line: a 4 point inspection isn't a trap. It's a checklist, and checklists reward people who read them ahead of time. If your renewal or closing depends on passing, [get a free written estimate](/#contact) on the structural side now, while you still have calendar room to fix things calmly instead of expensively.
+The bottom line: a 4 point inspection isn't a trap. It's a checklist, and checklists reward people who read them ahead of time. If your renewal or closing depends on passing, [get a free written estimate](/contact/) on the structural side now, while you still have calendar room to fix things calmly instead of expensively.
 
 ## Frequently Asked Questions
 

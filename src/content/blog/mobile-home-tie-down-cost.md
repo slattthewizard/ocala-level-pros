@@ -49,7 +49,7 @@ Here's how the common scenarios break down in our area:
 
 Prices assume normal soil and reasonable access under the home. We'll get to what blows those assumptions up in a minute.
 
-If you'd rather skip the guessing, we'll come out and count what your home actually needs. [Request a free written estimate](/#contact) or call [(352) 247-3105](tel:+13522473105). We put the anchor count and per-anchor price in writing so you can compare it against anyone else's quote line by line.
+If you'd rather skip the guessing, we'll come out and count what your home actually needs. [Request a free written estimate](/contact/) or call [(352) 247-3105](tel:+13522473105). We put the anchor count and per-anchor price in writing so you can compare it against anyone else's quote line by line.
 
 ## What Drives Tie-Down Installation Cost Up or Down
 
@@ -104,7 +104,7 @@ Where DIY makes sense: keeping your skirting vents clear, keeping the crawl spac
 
 Where it doesn't: installing, replacing, or tensioning anchors and straps. If a strap has snapped or an anchor is visibly leaning, stop there and call a pro. That hardware is under load, and it's not a safe place to learn.
 
-Not sure which side of that line your home is on? Send us a photo or two and we'll tell you straight. Reach us at [(352) 247-3105](tel:+13522473105) or through the [contact form](/#contact). If it's a two-strap fix, we'll say so.
+Not sure which side of that line your home is on? Send us a photo or two and we'll tell you straight. Reach us at [(352) 247-3105](tel:+13522473105) or through the [contact form](/contact/). If it's a two-strap fix, we'll say so.
 
 ## How to Get a Quote You Can Actually Trust
 
@@ -150,4 +150,4 @@ In Wind Zone 2, which includes Marion, Sumter, and Citrus counties, most double 
 
 Galvanized anchors and straps typically last 15 to 25 years in Central Florida, less in consistently damp soil or where the vapor barrier has failed. Straps usually rust out before anchors do. A quick visual check each spring and fall, plus a professional look during any 4-point inspection, will catch wear long before it fails.
 
-Ready for a real number instead of a range? Call [(352) 247-3105](tel:+13522473105) or [request your free written estimate](/#contact). We'll count your anchors, check your straps, and give you a price that holds up.
+Ready for a real number instead of a range? Call [(352) 247-3105](tel:+13522473105) or [request your free written estimate](/contact/). We'll count your anchors, check your straps, and give you a price that holds up.

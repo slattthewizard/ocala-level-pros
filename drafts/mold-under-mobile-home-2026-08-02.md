@@ -25,7 +25,7 @@ Then there's the ground itself. Ocala sits on sandy soil over limestone, and aft
 
 The EPA is blunt about the fix: there's no practical way to eliminate all mold spores indoors, so the only real control is controlling moisture. You can read their guidance at [epa.gov/mold](https://www.epa.gov/mold).
 
-If any of this sounds like your place, don't wait for it to get worse. [Request a free written estimate](/#contact) and we'll take a look under there, no obligation.
+If any of this sounds like your place, don't wait for it to get worse. [Request a free written estimate](/contact/) and we'll take a look under there, no obligation.
 
 ## The Warning Signs Most Homeowners Miss
 
@@ -124,7 +124,7 @@ Last spring we got a call from Denise Kowalski in Dunnellon, three weeks from cl
 
 The lesson isn't that every job is cheap. It's that nobody should quote mold work without crawling under the home first. Get a written estimate from someone who actually looked.
 
-If that's the kind of straight answer you want, [reach out here](/#contact) or call [(352) 247-3105](tel:+13522473105). Estimates are free, in writing, and we serve all of Marion, Sumter, and Citrus counties.
+If that's the kind of straight answer you want, [reach out here](/contact/) or call [(352) 247-3105](tel:+13522473105). Estimates are free, in writing, and we serve all of Marion, Sumter, and Citrus counties.
 
 ## Frequently Asked Questions
 

@@ -84,7 +84,7 @@ Written out like that, it sounds manageable. Now let me tell you about a few nei
 
 **Ray in Dunnellon** never got past step three, and he's the story we're happiest to tell. He crawled under with his jack, saw the soil was saturated from a wet June, and felt the jack pad tilt on the first pump. He backed out and called us instead. We found a washed-out footer and standing water that needed drainage work before any leveling made sense. His total came to $840 for the leveling plus a graded swale, and nobody got hurt. Ray made the single smartest DIY move there is: recognizing the moment the job stopped being DIY.
 
-If any of these sound like where you're headed, [reach out through our contact form](/#contact) before the small problem becomes a Gary-sized one. Written estimates are free, and telling you "yours is actually fine" costs us nothing.
+If any of these sound like where you're headed, [reach out through our contact form](/contact/) before the small problem becomes a Gary-sized one. Written estimates are free, and telling you "yours is actually fine" costs us nothing.
 
 ## DIY vs. Professional Mobile Home Leveling: The Real Math
 
