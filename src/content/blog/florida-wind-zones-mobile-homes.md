@@ -35,7 +35,7 @@ Those numbers use an older "fastest mile" measurement, so they don't line up exa
 
 One more rule matters a lot in Florida. A home can always be installed in a zone equal to or lower than the one it was built for, but never higher. A Zone 3 home can sit in Marion County with no problem. A Zone 1 home cannot legally be installed anywhere in Florida, because the entire state is Zone 2 or Zone 3. You can read HUD's own explanation of the program at [hud.gov](https://www.hud.gov/program_offices/housing/rmra/mhs).
 
-Not sure what zone your home was built for, or whether your anchoring actually matches it? That's exactly the kind of thing we check every week. Call Ocala Level Pros at [(352) 247-3105](tel:+13522473105) for a free written estimate and a straight answer.
+Not sure what zone your home was built for, or whether your anchoring actually matches it? That's exactly the kind of thing we check every week. Call Ocala Level Pros at [(352) 820-4441](tel:+13528204441) for a free written estimate and a straight answer.
 
 ## Marion County Is Wind Zone 2: Here's What That Means for You
 
@@ -98,7 +98,7 @@ Two related paper trails are worth knowing about. A [four-point inspection on a 
 
 The pattern in all of it: paperwork problems are really hardware problems. Fix the hardware, and the paperwork follows.
 
-Facing an insurance deadline or a closing date? We keep a 24/7 line open for exactly those situations. Reach us anytime through our [contact page](/contact/) or at [(352) 247-3105](tel:+13522473105).
+Facing an insurance deadline or a closing date? We keep a 24/7 line open for exactly those situations. Reach us anytime through our [contact page](/contact/) or at [(352) 820-4441](tel:+13528204441).
 
 ## Keeping a Zone 2 Home Ready: What You Can Check and When to Call a Pro
 
@@ -114,7 +114,7 @@ Here's where the line is. Checking is homeowner work. Fixing is not. Anchors hav
 
 Anchoring and leveling also go together more than most owners realize. Straps anchor the frame, but the frame rests on piers, and when piers settle the whole system loosens. If your home shows settling signs along with strap problems, it's worth having both looked at in one visit. That's the bulk of what we do at Ocala Level Pros, from [mobile home leveling in Ocala](/mobile-home-leveling-ocala/) to complete [tie-down and anchor work](/mobile-home-tie-downs-ocala/) across Marion, Sumter, and Citrus counties.
 
-One visit, one written estimate, no pressure. Call [(352) 247-3105](tel:+13522473105) or send a note through [our contact form](/contact/) and we'll tell you exactly where your home stands.
+One visit, one written estimate, no pressure. Call [(352) 820-4441](tel:+13528204441) or send a note through [our contact form](/contact/) and we'll tell you exactly where your home stands.
 
 ## Frequently Asked Questions
 

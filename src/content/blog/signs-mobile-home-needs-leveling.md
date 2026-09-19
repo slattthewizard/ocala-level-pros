@@ -45,7 +45,7 @@ Watch for doors that drag on the top corner, doors that swing open or closed on 
 
 Carol, a retiree in Belleview, put up with a sticking front door and a bathroom door that wouldn't latch for almost a year. She'd been quoted $400 by a handyman to plane down the doors. When we checked underneath, six piers had loose shims and two had settled. One afternoon of releveling, $675 total, and every door in her single wide closed like new. Planing the doors would have hidden the symptom while the frame kept twisting.
 
-If your doors are doing this right now, don't wait for sign number two. Call us at [(352) 247-3105](tel:+13522473105) and we'll take a look, usually within a couple of days. The inspection and written estimate are free.
+If your doors are doing this right now, don't wait for sign number two. Call us at [(352) 820-4441](tel:+13528204441) and we'll take a look, usually within a couple of days. The inspection and written estimate are free.
 
 ### 2. Cracks in Walls, Ceilings, or Around Windows
 
@@ -126,7 +126,7 @@ Call a professional when you see any two of the seven signs at the same time, wh
 
 Here's what the visit looks like with us. We come out, take laser and water level readings across the frame, inspect every pier, and hand you a written estimate on the spot. If the home checks out level, we tell you that too and you've lost nothing, because the estimate is free. Most relevels are done in a single day, and we're in [Ocala](/mobile-home-leveling-ocala/), Belleview, Summerfield, Silver Springs, Dunnellon, Lady Lake, and Citra constantly.
 
-If you've got an insurance deadline or a closing bearing down on you, our emergency line runs 24/7. Call [(352) 247-3105](tel:+13522473105) or [request your free estimate online](/contact/). Ten minutes on the phone now beats a subfloor bill next year.
+If you've got an insurance deadline or a closing bearing down on you, our emergency line runs 24/7. Call [(352) 820-4441](tel:+13528204441) or [request your free estimate online](/contact/). Ten minutes on the phone now beats a subfloor bill next year.
 
 ## Frequently Asked Questions
 

@@ -23,7 +23,7 @@ A Category 1 hurricane pushes winds of 74 to 95 mph across Marion County, and a 
 
 That's what this guide is for. It's a practical, no-panic approach to hurricane preparation for mobile homes, built from what we actually see under homes in Ocala, Belleview, Summerfield, and the rest of Marion, Sumter, and Citrus counties. We'll cover what to check 30 days out, what to do the week before landfall, what it all costs, and when to stop DIYing and pick up the phone.
 
-If you'd rather have a professional look things over before the season heats up, [request a free written estimate](/contact/) or call us at [(352) 247-3105](tel:+13522473105). We check anchors, straps, piers, and skirting in one visit.
+If you'd rather have a professional look things over before the season heats up, [request a free written estimate](/contact/) or call us at [(352) 820-4441](tel:+13528204441). We check anchors, straps, piers, and skirting in one visit.
 
 ## Why Hurricane Prep for Mobile Homes Starts Under the Home
 
@@ -68,7 +68,7 @@ A storm is named and the cone includes Marion County. Here's your working list, 
 
 Rita in Dunnellon ran this exact list before a storm two seasons back. Her one splurge was calling us four days out to re-tension 14 straps and replace 3 anchors, a $700 same-week job. The storm wobbled inland as a strong tropical storm. Her home didn't move a quarter inch. Her park had two homes shift on their piers, and the cheaper of those two releveling and repair jobs ran about $4,200.
 
-If you're inside that one-week window and something under your home doesn't look right, don't wait in line behind everyone else. Call our line at [(352) 247-3105](tel:+13522473105). We run a 24/7 emergency schedule for exactly these deadline situations.
+If you're inside that one-week window and something under your home doesn't look right, don't wait in line behind everyone else. Call our line at [(352) 820-4441](tel:+13528204441). We run a 24/7 emergency schedule for exactly these deadline situations.
 
 ## What Prep Costs vs. What Storm Damage Costs
 
@@ -109,7 +109,7 @@ The homes that come through hurricane season fine are almost never the newest on
 
 Put the 30-day checklist on your calendar for late May. Do the crawl-around, or have us do it. Handle the yard and documents the week a storm is named. That's the whole system, and it costs a fraction of what a single strap failure does.
 
-We're local, we're licensed and insured, and we look at the undersides of mobile homes across Marion, Sumter, and Citrus counties every working day. If you want a second set of eyes before the season peaks, [reach out for a free estimate](/contact/) or call [(352) 247-3105](tel:+13522473105).
+We're local, we're licensed and insured, and we look at the undersides of mobile homes across Marion, Sumter, and Citrus counties every working day. If you want a second set of eyes before the season peaks, [reach out for a free estimate](/contact/) or call [(352) 820-4441](tel:+13528204441).
 
 ## Frequently Asked Questions
 

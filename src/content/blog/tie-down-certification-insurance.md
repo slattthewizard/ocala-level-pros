@@ -113,7 +113,7 @@ Then there's Manny in Summerfield, who was buying a 1998 double wide near Stonec
 
 And a quick cautionary one: Dale in Citra ignored a compliance letter for four months, figuring it was a bluff. It wasn't. His policy lapsed, and getting new coverage required the certification anyway, plus a $2,100 retrofit, plus higher premiums as a lapsed-coverage customer. The paperwork he avoided cost him far more than the paperwork would have.
 
-If your deadline is tight, call us at [(352) 247-3105](tel:+13522473105). We keep a 24/7 line specifically for insurance deadlines and pre-closing crunches, and a written estimate costs you nothing.
+If your deadline is tight, call us at [(352) 820-4441](tel:+13528204441). We keep a 24/7 line specifically for insurance deadlines and pre-closing crunches, and a written estimate costs you nothing.
 
 ## How to Pass Your Tie Down Certification the First Time
 

@@ -47,7 +47,7 @@ The marriage line is the big one for double-wides. That's the seam where the two
 
 Rule of thumb: expect a double-wide relevel to run roughly 50 to 80 percent more than a single-wide in the same condition.
 
-If you're not sure what your home needs yet, that's fine. Call us at [(352) 247-3105](tel:+13522473105) and we'll come out, crawl under, and give you a free written estimate with no pressure attached.
+If you're not sure what your home needs yet, that's fine. Call us at [(352) 820-4441](tel:+13528204441) and we'll come out, crawl under, and give you a free written estimate with no pressure attached.
 
 ## 2. How Far Out of Level the Home Has Drifted
 
@@ -145,7 +145,7 @@ If a bid is hundreds of dollars below everyone else's, one of these items is usu
 
 One last piece of advice on the DIY question. Checking your home with a 4-foot level and walking the skirting line for gaps is smart homeowner maintenance. Jacking a 15,000-pound structure is not a DIY job. Homes can shift off jacks, and the injuries are serious. If your level shows a problem, stop there and bring in a pro.
 
-Ready for real numbers on your home? Call [(352) 247-3105](tel:+13522473105) or [request your free written estimate](/contact/). We serve Ocala and all of Marion, Sumter, and Citrus counties, we're licensed and insured, and we'll show you photos of everything we find under your home before you spend a dollar.
+Ready for real numbers on your home? Call [(352) 820-4441](tel:+13528204441) or [request your free written estimate](/contact/). We serve Ocala and all of Marion, Sumter, and Citrus counties, we're licensed and insured, and we'll show you photos of everything we find under your home before you spend a dollar.
 
 ## Frequently Asked Questions
 

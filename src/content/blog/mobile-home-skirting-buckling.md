@@ -44,7 +44,7 @@ If any of those sound familiar, check out our post on the [signs your mobile hom
 
 One Florida-specific note: heat can warp vinyl, and a mower can crack panels. Those are genuine skirting-only problems, but heat warping shows up as shallow ripples across sunny walls, and impact damage is obvious. A deep bow or a separating top track points at movement.
 
-Not sure which one you're looking at? Call us at [(352) 247-3105](tel:+13522473105) and describe what you see. We'll tell you over the phone whether it sounds like settling, and the written estimate is free either way.
+Not sure which one you're looking at? Call us at [(352) 820-4441](tel:+13528204441) and describe what you see. We'll tell you over the phone whether it sounds like settling, and the written estimate is free either way.
 
 ## How to Tell If It's the Skirting or the Home That Moved
 
@@ -139,7 +139,7 @@ Fourth, you get a free written estimate that separates the leveling work from th
 
 The whole visit usually takes under 90 minutes. If the home checks out level and the skirting really is just tired vinyl, we'll say so.
 
-We serve Ocala, Belleview, Summerfield, Silver Springs, Dunnellon, Lady Lake, Citra, and the surrounding parts of Marion, Sumter, and Citrus counties. If your skirting is bowing, gapping, or pulling away, don't wait for the wet season to make it worse. Call [(352) 247-3105](tel:+13522473105) or [request your free written estimate online](/contact/). We also run a 24/7 line for pre-closing inspection deadlines, because real estate contracts don't wait for business hours.
+We serve Ocala, Belleview, Summerfield, Silver Springs, Dunnellon, Lady Lake, Citra, and the surrounding parts of Marion, Sumter, and Citrus counties. If your skirting is bowing, gapping, or pulling away, don't wait for the wet season to make it worse. Call [(352) 820-4441](tel:+13528204441) or [request your free written estimate online](/contact/). We also run a 24/7 line for pre-closing inspection deadlines, because real estate contracts don't wait for business hours.
 
 ## Frequently Asked Questions
 

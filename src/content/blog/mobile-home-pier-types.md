@@ -23,7 +23,7 @@ Your entire home is sitting on a couple dozen stacks of blocks, and most owners 
 
 If you're comparing mobile home pier types because you're buying a used home, fixing a sagging floor, or replacing piers an inspector flagged, this guide covers the three you'll actually see in Marion County: concrete block, steel, and ABS plastic systems. We'll walk through what each one costs, how long it lasts in Florida's sandy, wet soil, and which one we'd put under our own homes.
 
-Quick note before we dig in: if your floors are already sloping or doors are sticking, the pier type conversation can wait. Get the home stabilized first. Call us at [(352) 247-3105](tel:+13522473105) and we'll come take a look, free written estimate, no pressure.
+Quick note before we dig in: if your floors are already sloping or doors are sticking, the pier type conversation can wait. Get the home stabilized first. Call us at [(352) 820-4441](tel:+13528204441) and we'll come take a look, free written estimate, no pressure.
 
 ## The Three Main Mobile Home Pier Types in Florida
 
@@ -108,7 +108,7 @@ A few situations change the math. Homes with heavy roof loads or additions may n
 
 One more thing worth saying plainly: swapping piers is not a DIY job. Inspecting them with a flashlight and a level, absolutely, go do that this weekend. But lifting a 15,000-pound home on jacks to change what's under it can kill you if a jack kicks out, and Florida requires licensed installers for this work anyway. Know your limits, then hand it off.
 
-Not sure whether your current piers need replacing or just a relevel and reshim? That's exactly what a free inspection sorts out. Our [mobile home leveling crew in Ocala](/mobile-home-leveling-ocala/) checks every pier, every shim, and the frame itself, then gives you a written scope with prices before any work starts. Call [(352) 247-3105](tel:+13522473105), we answer the emergency line 24/7 for pre-closing and insurance deadlines.
+Not sure whether your current piers need replacing or just a relevel and reshim? That's exactly what a free inspection sorts out. Our [mobile home leveling crew in Ocala](/mobile-home-leveling-ocala/) checks every pier, every shim, and the frame itself, then gives you a written scope with prices before any work starts. Call [(352) 820-4441](tel:+13528204441), we answer the emergency line 24/7 for pre-closing and insurance deadlines.
 
 ## Frequently Asked Questions
 

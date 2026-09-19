@@ -69,7 +69,7 @@ A couple of notes on those numbers. Per-anchor pricing drops when you do more at
 
 Dale in Belleview learned the timeline lesson the hard way. His insurance company ordered a 4-point inspection at renewal, and the inspector flagged 11 corroded anchor heads and four slack straps on his 1998 double-wide. He had 30 days to show proof of repair or lose coverage. We replaced 14 anchors, swapped every compromised strap, re-tensioned the rest, and got him documentation for $1,850. He renewed on time. The stressful part wasn't the money, it was the deadline. Don't wait for an insurer to set your schedule.
 
-If you're staring at an inspection deadline right now, call us at [(352) 247-3105](tel:+13522473105). We keep a 24/7 line specifically for insurance deadlines and pre-closing crunches, and we put every estimate in writing.
+If you're staring at an inspection deadline right now, call us at [(352) 820-4441](tel:+13528204441). We keep a 24/7 line specifically for insurance deadlines and pre-closing crunches, and we put every estimate in writing.
 
 ## The Insurance and Inspection Side of Corroded Anchors
 
@@ -103,7 +103,7 @@ Timing matters more than most people expect. Summer rains soften our soil, which
 
 While the crew is under the home, a good contractor will also flag related problems while the skirting is open: pier issues, moisture problems, sagging belly board. It costs nothing to look, and catching a $300 problem before it becomes a $3,000 one is the whole point of getting eyes under there.
 
-If you're in Ocala, Silver Springs, Belleview, Summerfield, Dunnellon, Lady Lake, Citra, or anywhere in Marion, Sumter, or Citrus counties, we do this every week. Our [mobile home tie-down service](/mobile-home-tie-downs-ocala/) covers inspection, repair, full replacement, and the certification letters insurers ask for. [Get your free written estimate here](/contact/) or call [(352) 247-3105](tel:+13522473105), and you'll get a straight answer about what needs replacing and what doesn't.
+If you're in Ocala, Silver Springs, Belleview, Summerfield, Dunnellon, Lady Lake, Citra, or anywhere in Marion, Sumter, or Citrus counties, we do this every week. Our [mobile home tie-down service](/mobile-home-tie-downs-ocala/) covers inspection, repair, full replacement, and the certification letters insurers ask for. [Get your free written estimate here](/contact/) or call [(352) 820-4441](tel:+13528204441), and you'll get a straight answer about what needs replacing and what doesn't.
 
 ## Frequently Asked Questions
 

@@ -33,7 +33,7 @@ Rain also moves soil, not just softens it. Water running under your home during 
 
 The National Weather Service tracks Florida's rainy season closely, and you can see the pattern yourself in their data at [weather.gov](https://www.weather.gov/). The wet season delivers roughly 60 to 70 percent of our annual rainfall in about a third of the year. Your piers get hit with months of saturation, then months of drying and shrinking. That cycle, repeated year after year, is why Florida mobile homes need releveling more often than homes up north.
 
-If your floors already feel off after this summer's storms, don't wait for it to get worse. Call Ocala Level Pros at [(352) 247-3105](tel:+13522473105) for a free written estimate. We'll measure the whole frame and tell you exactly what moved and what it costs to fix.
+If your floors already feel off after this summer's storms, don't wait for it to get worse. Call Ocala Level Pros at [(352) 820-4441](tel:+13528204441) for a free written estimate. We'll measure the whole frame and tell you exactly what moved and what it costs to fix.
 
 ## Why Mobile Homes Settle Faster After Heavy Rain Than Site-Built Houses
 
@@ -114,7 +114,7 @@ A reasonable rule: monitor cosmetic stuff, act on functional stuff. A hairline c
 
 Our process is straightforward. We come out, measure elevations along the entire frame, inspect every pier and pad, and give you a free written estimate with real numbers. Most [mobile home releveling jobs in the Ocala area](/mobile-home-leveling-ocala/) are done in a single day, and we serve all of Marion, Sumter, and Citrus counties.
 
-If this article sounded uncomfortably familiar, trust that instinct. Call [(352) 247-3105](tel:+13522473105) or [request your free estimate online](/contact/). Catching rainy season settling in year one is a few hundred dollars. Catching it in year three is a few thousand. We'd rather help you pay the small bill.
+If this article sounded uncomfortably familiar, trust that instinct. Call [(352) 820-4441](tel:+13528204441) or [request your free estimate online](/contact/). Catching rainy season settling in year one is a few hundred dollars. Catching it in year three is a few thousand. We'd rather help you pay the small bill.
 
 ## Frequently Asked Questions
 

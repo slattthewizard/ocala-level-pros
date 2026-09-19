@@ -23,7 +23,7 @@ Florida's installation rules take this seriously. The state requires footings si
 
 The short version: pads aren't optional, and "the blocks seem sturdy" isn't the same as "the home is supported correctly."
 
-Not sure what's under your home right now? [Request a free written estimate](/contact/) and we'll crawl under, photograph every pier, and tell you exactly what you're sitting on. Or call us at [(352) 247-3105](tel:+13522473105).
+Not sure what's under your home right now? [Request a free written estimate](/contact/) and we'll crawl under, photograph every pier, and tell you exactly what you're sitting on. Or call us at [(352) 820-4441](tel:+13528204441).
 
 ## Pier Pad Materials Compared: Concrete, ABS, and What to Avoid
 
@@ -110,7 +110,7 @@ Add a check after any major storm, and always before you buy or sell. A pre-purc
 
 If your home has been releveled more than once in five years, stop treating the symptom. Something under the piers is wrong, whether it's undersized pads, bad soil prep, or drainage, and finding it costs a lot less than the third relevel. Our post on [how often a mobile home needs releveling](/blog/how-often-relevel-mobile-home/) explains what normal looks like versus what signals a support problem.
 
-One phone call gets you real answers: [(352) 247-3105](tel:+13522473105). We serve Ocala, Belleview, Silver Springs, Summerfield, Dunnellon, Lady Lake, Citra, and the surrounding areas across Marion, Sumter, and Citrus counties, with free written estimates and a 24/7 line for pre-closing and insurance deadlines.
+One phone call gets you real answers: [(352) 820-4441](tel:+13528204441). We serve Ocala, Belleview, Silver Springs, Summerfield, Dunnellon, Lady Lake, Citra, and the surrounding areas across Marion, Sumter, and Citrus counties, with free written estimates and a 24/7 line for pre-closing and insurance deadlines.
 
 ## Frequently Asked Questions
 

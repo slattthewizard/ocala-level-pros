@@ -37,7 +37,7 @@ Here's the plain-English version of why the rules exist. A mobile home sitting o
 
 That connection is what the state inspects, what insurance companies ask about, and what we spend a lot of our week fixing.
 
-Not sure where your home stands? Call Ocala Level Pros at [(352) 247-3105](tel:+13522473105) and we'll take a look. The written estimate is free, and we'll tell you honestly if everything's fine down there.
+Not sure where your home stands? Call Ocala Level Pros at [(352) 820-4441](tel:+13528204441) and we'll take a look. The written estimate is free, and we'll tell you honestly if everything's fine down there.
 
 ## Florida Mobile Home Tie-Down Requirements by Wind Zone
 
@@ -132,7 +132,7 @@ You don't need to be a contractor to spot the obvious stuff. With a flashlight a
 
 Now the important part: know when to stop. Tightening a strap changes the load on every strap near it, and a corroded anchor can snap under tension. Crawling under a home with failing supports is genuinely dangerous, and DIY anchor work can void the documentation your insurer needs anyway. Look, don't wrench. If anything on that list shows up, close the panel and call someone licensed.
 
-That's where we come in. Ocala Level Pros handles [mobile home tie-downs in Ocala](/mobile-home-tie-downs-ocala/) and across Marion, Sumter, and Citrus counties, from single strap fixes to full system installs with documentation your insurer will accept. Call [(352) 247-3105](tel:+13522473105), any hour if you're up against a closing date or an insurance deadline. Estimates are free and always in writing.
+That's where we come in. Ocala Level Pros handles [mobile home tie-downs in Ocala](/mobile-home-tie-downs-ocala/) and across Marion, Sumter, and Citrus counties, from single strap fixes to full system installs with documentation your insurer will accept. Call [(352) 820-4441](tel:+13528204441), any hour if you're up against a closing date or an insurance deadline. Estimates are free and always in writing.
 
 ## Frequently Asked Questions
 

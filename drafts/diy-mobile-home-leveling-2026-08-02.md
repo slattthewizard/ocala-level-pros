@@ -1,6 +1,6 @@
 ---
 meta_title: "DIY Mobile Home Leveling: What It Really Takes | Ocala"
-meta_description: "Thinking about leveling your mobile home yourself? Here's what DIY really involves, what the tools cost, and when to call an Ocala pro at (352) 247-3105."
+meta_description: "Thinking about leveling your mobile home yourself? Here's what DIY really involves, what the tools cost, and when to call an Ocala pro at (352) 820-4441."
 primary_keyword: "diy mobile home leveling"
 secondary_keywords: "level a mobile home yourself, how to level a mobile home, mobile home leveling tools, relevel mobile home DIY, jacking up a mobile home"
 ---
@@ -26,7 +26,7 @@ Leveling means raising the low sections of the frame back to a common plane and 
 
 If you've never done it, plan on a full weekend for a single wide and considerably more for a double wide. Pros do a single wide in a day because they've done hundreds. Your first one will not go like their five hundredth.
 
-If you'd rather skip the crawl space entirely, we get it. [Call Ocala Level Pros at (352) 247-3105](tel:+13522473105) and we'll come out, measure everything, and hand you a free written estimate. No pressure, and you'll at least know what the pro price is before you buy tools.
+If you'd rather skip the crawl space entirely, we get it. [Call Ocala Level Pros at (352) 820-4441](tel:+13528204441) and we'll come out, measure everything, and hand you a free written estimate. No pressure, and you'll at least know what the pro price is before you buy tools.
 
 ## The Tools You'll Need and What They Cost
 
@@ -99,7 +99,7 @@ And a hard safety rule that applies to everyone, DIY or not: never put any part 
 
 If you're not sure which side of the line your home falls on, the symptoms usually tell the story. Doors that won't latch, cracks radiating from window corners, and floors that slope toward one end are covered in our guide to the [signs your mobile home needs leveling](/blog/signs-mobile-home-needs-leveling/). And if you want to understand what a pro crew actually does before you hire one, [how mobile home leveling works](/blog/how-mobile-home-leveling-works/) walks through our whole process.
 
-The bottom line: DIY mobile home leveling is possible for a sound single wide on good soil with a patient owner who respects the weight involved. For everything else, the pro price is cheaper than it looks once you count tools, time, and the cost of mistakes. [Call (352) 247-3105](tel:+13522473105) for a free written estimate anywhere in Marion, Sumter, or Citrus County, and we'll give you real numbers for your exact home. If you start the DIY job and hit something that worries you, call anyway. We'd rather finish your job than fix it.
+The bottom line: DIY mobile home leveling is possible for a sound single wide on good soil with a patient owner who respects the weight involved. For everything else, the pro price is cheaper than it looks once you count tools, time, and the cost of mistakes. [Call (352) 820-4441](tel:+13528204441) for a free written estimate anywhere in Marion, Sumter, or Citrus County, and we'll give you real numbers for your exact home. If you start the DIY job and hit something that worries you, call anyway. We'd rather finish your job than fix it.
 
 ## Frequently Asked Questions
 

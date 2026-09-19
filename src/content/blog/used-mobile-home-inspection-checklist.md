@@ -105,7 +105,7 @@ Verify the title is clean and matches the seller's name. In Florida, mobile home
 
 Linda in Summerfield learned the insurance lesson the hard way. She paid cash for a tidy 2003 single wide, then called for insurance. The carrier wanted proof of anchoring, and the inspection found more than half her straps rusted through near the ground. The anchor and strap work came to $2,700 before she could bind a policy. Nothing about the house had changed, but her first month of ownership cost a lot more than she planned.
 
-If you want the foundation side of this checklist handled by someone who does it every day, call us at [(352) 247-3105](tel:+13522473105). We work pre-purchase inspections all over Marion, Sumter, and Citrus counties, and we keep a 24/7 line open for buyers up against closing deadlines.
+If you want the foundation side of this checklist handled by someone who does it every day, call us at [(352) 820-4441](tel:+13528204441). We work pre-purchase inspections all over Marion, Sumter, and Citrus counties, and we keep a 24/7 line open for buyers up against closing deadlines.
 
 ## What Repairs Actually Cost in Marion County
 
@@ -139,7 +139,7 @@ A professional foundation inspection also gives you something a flashlight can't
 
 One more honest tip: don't rely on the seller's handyman or a general home inspector who has never worked on manufactured homes. Mobile home foundations are their own trade, with their own standards. Ask whoever inspects the home how many mobile homes they've been under, and see our page on [mobile home leveling in Ocala](/mobile-home-leveling-ocala/) for what a proper foundation evaluation covers.
 
-Ready to look at a home this week? [Request your free written estimate](/contact/) or call [(352) 247-3105](tel:+13522473105). We're licensed and insured, we put every finding in writing, and if you're up against a closing date or an insurance deadline, our emergency line runs 24/7.
+Ready to look at a home this week? [Request your free written estimate](/contact/) or call [(352) 820-4441](tel:+13528204441). We're licensed and insured, we put every finding in writing, and if you're up against a closing date or an insurance deadline, our emergency line runs 24/7.
 
 ## Frequently Asked Questions
 

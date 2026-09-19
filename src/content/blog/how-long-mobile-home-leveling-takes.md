@@ -23,7 +23,7 @@ Here's a number that surprises most homeowners: the average releveling job in Ma
 
 So how long does it take to level a mobile home in your specific situation? For most single wides, plan on 1 to 3 hours. For most double wides, 3 to 6 hours. Bigger jobs with pier repairs or bad soil can stretch to a full day, and a small percentage need two visits. In this guide we'll walk through real timelines from jobs around Ocala, what makes one home a quick morning and another an all-day project, and how to make sure your crew shows up ready to finish in one trip.
 
-If you'd rather just get a real answer for your home, call us at [(352) 247-3105](tel:+13522473105) and we'll give you a time and cost estimate over the phone, then confirm it in writing after we look under the home. Estimates are free.
+If you'd rather just get a real answer for your home, call us at [(352) 820-4441](tel:+13528204441) and we'll give you a time and cost estimate over the phone, then confirm it in writing after we look under the home. Estimates are free.
 
 ## The Short Answer: 2 to 6 Hours for Most Homes
 
@@ -114,7 +114,7 @@ And here's the one piece of prep advice that matters more than all the others: d
 
 Leveling day itself is simple on your end. Someone 18 or older should be home at the start and finish, but you don't need to hover. Water and power stay on. The crew does the walkthrough with you at the end, and you get the pier map and readings with your paperwork, which is exactly the documentation a 4-point inspection or insurance renewal will ask for later.
 
-Ready to get on the schedule? Call [(352) 247-3105](tel:+13522473105) or [send us your info](/contact/) and we'll usually have an estimator out within a couple of days anywhere in Marion, Sumter, or Citrus County. If you're up against a closing date or an insurance deadline, say so. That's what our 24/7 line is for.
+Ready to get on the schedule? Call [(352) 820-4441](tel:+13528204441) or [send us your info](/contact/) and we'll usually have an estimator out within a couple of days anywhere in Marion, Sumter, or Citrus County. If you're up against a closing date or an insurance deadline, say so. That's what our 24/7 line is for.
 
 ## Frequently Asked Questions
 

@@ -25,7 +25,7 @@ That's the core problem with selling an unlevel mobile home. You're not negotiat
 
 If you're not sure whether your home has drifted out of level, our page on [mobile home leveling in Ocala](/mobile-home-leveling-ocala/) covers the warning signs, and this checklist of [signs your mobile home needs leveling](/blog/signs-mobile-home-needs-leveling/) lets you self-check in about ten minutes.
 
-Want a professional opinion before you list? Call us at [(352) 247-3105](tel:+13522473105) for a free written estimate. If your home doesn't need leveling, we'll tell you that too, in writing, which is a handy document to show buyers.
+Want a professional opinion before you list? Call us at [(352) 820-4441](tel:+13528204441) for a free written estimate. If your home doesn't need leveling, we'll tell you that too, in writing, which is a handy document to show buyers.
 
 ## Why Leveling a Mobile Home Before Selling Usually Pays Off
 
@@ -73,7 +73,7 @@ This is why we tell sellers to look at leveling and tie-downs together before li
 
 One more seller from us: Ray in Dunnellon went the other way. He listed his single-wide as-is at $58,000. First buyer's inspection flagged an unlevel frame and corroded anchor straps, and the buyer walked. Second buyer demanded $4,500 off. By the time Ray called us, he'd been on the market 74 days. The relevel and strap replacement together came to $1,850. He relisted, sold in three weeks, but he figures the delay and the earlier price drop cost him about $5,000 he didn't need to lose.
 
-If a sale is already in motion and an inspection deadline is breathing down your neck, we keep a 24/7 line for exactly that situation. Call [(352) 247-3105](tel:+13522473105) any time, or [request your free written estimate here](/contact/).
+If a sale is already in motion and an inspection deadline is breathing down your neck, we keep a 24/7 line for exactly that situation. Call [(352) 820-4441](tel:+13528204441) any time, or [request your free written estimate here](/contact/).
 
 ## How to Check Your Home Before You List
 

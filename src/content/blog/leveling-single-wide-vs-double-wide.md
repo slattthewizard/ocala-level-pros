@@ -47,7 +47,7 @@ Beyond pier count, four things make double wide leveling a more careful job.
 
 **Utilities cross the marriage line.** Ducts, wiring, and sometimes plumbing cross from one section to the other. If the halves have shifted, those crossover connections may have pulled loose. A proper double wide relevel includes checking them, because a separated duct under the house can quietly double your power bill.
 
-Quick gut check: if your doors won't latch and you own a double wide, look at your ceiling centerline first. A visible gap there means the sections are moving apart, and that's a call-a-pro situation, not a weekend project. Call us at [(352) 247-3105](tel:+13522473105) and we'll take a look, usually within a day or two anywhere in Marion County.
+Quick gut check: if your doors won't latch and you own a double wide, look at your ceiling centerline first. A visible gap there means the sections are moving apart, and that's a call-a-pro situation, not a weekend project. Call us at [(352) 820-4441](tel:+13528204441) and we'll take a look, usually within a day or two anywhere in Marion County.
 
 ## A Tale of Two Jobs: Belleview and Summerfield
 
@@ -112,7 +112,7 @@ For a double wide, our honest advice is don't. Lifting one section without coord
 
 Either way, stop and call a professional if you see any of these: piers leaning more than a few degrees, cracked or crumbling blocks, a marriage line gap you can see daylight through, soft or sunken soil under multiple piers, or a home that's settled noticeably after one heavy rain. Those point to problems a shim won't fix.
 
-Ocala Level Pros levels single wides and double wides across Ocala, Belleview, Summerfield, Silver Springs, Dunnellon, Lady Lake, and Citra. Estimates are free and written, so you know the price before we start. Call [(352) 247-3105](tel:+13522473105) or [request your free estimate online](/contact/), and if you're up against an insurance or closing deadline, our emergency line runs 24/7.
+Ocala Level Pros levels single wides and double wides across Ocala, Belleview, Summerfield, Silver Springs, Dunnellon, Lady Lake, and Citra. Estimates are free and written, so you know the price before we start. Call [(352) 820-4441](tel:+13528204441) or [request your free estimate online](/contact/), and if you're up against an insurance or closing deadline, our emergency line runs 24/7.
 
 ## Frequently Asked Questions
 

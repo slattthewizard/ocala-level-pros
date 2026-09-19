@@ -28,7 +28,7 @@ There are also everyday causes that have nothing to do with settling:
 - A new roof, porch, or addition that changed the load on the frame
 - Simple age, especially in homes with vinyl-on-gypsum (VOG) wall panels
 
-The skill is telling the harmless cracks from the warning signs. If you'd rather have a pro sort it out, call us at [(352) 247-3105](tel:+13522473105) and we'll check your level and give you a free written estimate. No pressure, just numbers.
+The skill is telling the harmless cracks from the warning signs. If you'd rather have a pro sort it out, call us at [(352) 820-4441](tel:+13528204441) and we'll check your level and give you a free written estimate. No pressure, just numbers.
 
 ## Cosmetic Cracks vs. Structural Cracks: How to Tell the Difference
 
@@ -110,7 +110,7 @@ There's also a paperwork reason to deal with cracks before they multiply. Florid
 
 That came up for Ray and Linda in Lady Lake last fall. Their insurer's inspector flagged a ceiling crack at the marriage line and gave them 30 days to show proof of repair before renewal. We releveled the double wide and reset two marriage-line piers for $940, they patched the ceiling for about $80, and their agent accepted our written report the same week. Without a dated report from a licensed contractor, they were looking at non-renewal and shopping for coverage with a flagged inspection on file.
 
-If you're up against an insurance or closing deadline, we keep a 24/7 line for exactly that. Call [(352) 247-3105](tel:+13522473105) any time.
+If you're up against an insurance or closing deadline, we keep a 24/7 line for exactly that. Call [(352) 820-4441](tel:+13528204441) any time.
 
 ## How Releveling Stops the Cracking Cycle
 
@@ -129,7 +129,7 @@ After that, the cracks you repair should stay repaired. In our sandy soil, plan 
 
 Here's the bottom line. Cracks in mobile home walls are common, and most are nothing. But diagonal cracks at doors and windows, repeat offenders, and cracks paired with sticking doors mean your home is asking for support, literally. A relevel in Marion County typically runs $450 to $1,100, which is a fraction of what neglected settling costs once floors and subfloors get involved.
 
-Not sure which kind of crack you're looking at? Snap a photo, [reach out through our contact form](/contact/) or call [(352) 247-3105](tel:+13522473105), and we'll give you a straight answer and a free written estimate. If it's cosmetic, we'll tell you that too.
+Not sure which kind of crack you're looking at? Snap a photo, [reach out through our contact form](/contact/) or call [(352) 820-4441](tel:+13528204441), and we'll give you a straight answer and a free written estimate. If it's cosmetic, we'll tell you that too.
 
 ## Frequently Asked Questions
 

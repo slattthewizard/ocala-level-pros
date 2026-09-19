@@ -27,7 +27,7 @@ Two types matter for homeowners:
 
 Mobile homes actually give you an advantage here that site-built homes don't. Because your home sits on piers over a crawl space, the ground underneath is visible. You can literally look at the soil your home stands on, which means problems tend to announce themselves early if you know what to look for.
 
-If you're not sure your setup is even stable to begin with, our [mobile home leveling service in Ocala](/mobile-home-leveling-ocala/) includes a full pier and soil check. Or just call us at [(352) 247-3105](tel:+13522473105) and describe what you're seeing. That first conversation is free, and we'll tell you straight whether it sounds like settling or something worth escalating.
+If you're not sure your setup is even stable to begin with, our [mobile home leveling service in Ocala](/mobile-home-leveling-ocala/) includes a full pier and soil check. Or just call us at [(352) 820-4441](tel:+13528204441) and describe what you're seeing. That first conversation is free, and we'll tell you straight whether it sounds like settling or something worth escalating.
 
 ## Sinkhole Warning Signs Marion County Homeowners Notice First
 
@@ -110,7 +110,7 @@ Keep this simple sequence handy.
 
 Watch the yard, check the crawl space twice a year, photograph changes, and act on patterns instead of single scary moments.
 
-If something under your home doesn't look right, don't sit on it and don't panic either. [Request a free written estimate](/contact/) or call our line at (352) 247-3105, which is answered 24/7 for inspection deadlines and time-sensitive situations. We'll tell you honestly whether you need us, an engineer, or nobody at all.
+If something under your home doesn't look right, don't sit on it and don't panic either. [Request a free written estimate](/contact/) or call our line at (352) 820-4441, which is answered 24/7 for inspection deadlines and time-sensitive situations. We'll tell you honestly whether you need us, an engineer, or nobody at all.
 
 ## Frequently Asked Questions
 

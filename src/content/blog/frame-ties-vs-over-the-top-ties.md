@@ -23,7 +23,7 @@ Crawl under ten mobile homes in Marion County and you'll find ten different anch
 
 Here's the short version. Frame ties are steel straps that run from ground anchors up to the steel I-beams under your home. Over-the-top ties run all the way over the roof structure and down the other side. Some homes need both. Many newer homes only need frame ties. And a surprising number of homes around here have the wrong setup, too few ties, or straps so rusted they'd fail the first real test.
 
-This guide walks through what each system does, which one your home actually needs under Florida rules, what it costs in Marion County, and how to check what you've got without guessing. If you'd rather skip straight to a straight answer about your own home, call us at [(352) 247-3105](tel:+13522473105) and we'll take a look. The written estimate is free.
+This guide walks through what each system does, which one your home actually needs under Florida rules, what it costs in Marion County, and how to check what you've got without guessing. If you'd rather skip straight to a straight answer about your own home, call us at [(352) 820-4441](tel:+13528204441) and we'll take a look. The written estimate is free.
 
 ## Frame Ties vs Over the Top Tie Downs: The Core Difference
 
@@ -82,7 +82,7 @@ Soil matters too. Sandy Marion County soil sometimes needs longer anchors or sta
 
 One more real example. Marcus in Summerfield got a $4,800 quote from another outfit for over-the-top ties on his 2004 double wide. The home didn't need them and couldn't practically take them. What it actually needed was twelve new frame ties and four anchor replacements, which we did for $1,850. Getting a second opinion cost him a phone call and saved him about $2,950.
 
-If you want real numbers for your home instead of ranges, call [(352) 247-3105](tel:+13522473105). We'll count what you have, tell you what's missing, and put the price in writing.
+If you want real numbers for your home instead of ranges, call [(352) 820-4441](tel:+13528204441). We'll count what you have, tell you what's missing, and put the price in writing.
 
 ## What Inspectors and Insurance Companies Actually Check
 

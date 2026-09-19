@@ -35,7 +35,7 @@ If you're seeing those symptoms now, our post on the [signs your mobile home nee
 
 Ruth in Belleview is a good example. She called us because two interior doors had stopped latching over the course of a spring. Our tech found four piers along one side had settled between a quarter inch and three quarters of an inch. The relevel ran $1,400, took about five hours, and both doors latched again before the crew packed up. No drywall repair, no subfloor work, because she called early.
 
-Not sure if your home has drifted out of level? Call us at [(352) 247-3105](tel:+13522473105) and we'll come check it for free. The estimate is written, and there's no pressure attached to it.
+Not sure if your home has drifted out of level? Call us at [(352) 820-4441](tel:+13528204441) and we'll come check it for free. The estimate is written, and there's no pressure attached to it.
 
 ## How Pros Check a Mobile Home for Level Before Lifting Anything
 
@@ -114,7 +114,7 @@ Re-check level every couple of years, or after any hurricane or unusually wet se
 
 And keep your paperwork. If you sell the home or your insurer asks for a 4-point inspection, a written record of professional leveling and tie-down work makes those conversations a lot easier.
 
-Ready to get your home sitting flat again? Call [(352) 247-3105](tel:+13522473105), day or night if you're up against an inspection or insurance deadline, or [send us a note](/contact/) and we'll schedule your free level check anywhere in Marion, Sumter, or Citrus County.
+Ready to get your home sitting flat again? Call [(352) 820-4441](tel:+13528204441), day or night if you're up against an inspection or insurance deadline, or [send us a note](/contact/) and we'll schedule your free level check anywhere in Marion, Sumter, or Citrus County.
 
 ## Frequently Asked Questions
 

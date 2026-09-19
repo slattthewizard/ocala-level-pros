@@ -39,7 +39,7 @@ A few things the certification is not:
 
 The letter typically costs $400 to $650 in our area and takes 3 to 7 business days once the inspection happens. The catch is that a lot of homes don't pass on the first look, and that's where the timeline gets tight.
 
-If you're under contract right now and the clock is running, call us at [(352) 247-3105](tel:+13522473105). We keep a 24/7 line for pre-closing deadlines because we know how fast these files move.
+If you're under contract right now and the clock is running, call us at [(352) 820-4441](tel:+13528204441). We keep a 24/7 line for pre-closing deadlines because we know how fast these files move.
 
 ## HUD Permanent Foundation Requirements Your Mobile Home Must Meet
 
@@ -124,7 +124,7 @@ Florida's rules for anchoring and installation live with the state's manufacture
 
 The whole process, from first phone call to sealed letter in your lender's inbox, usually takes one to two weeks when the retrofit is straightforward. That's why the buyers who call us the day the appraisal comes back almost always close on time, and the ones who wait for the underwriter's final conditions list end up paying rush fees.
 
-If you've got an FHA, VA, or USDA deal in motion anywhere in Marion, Sumter, or Citrus County, [request a free written estimate](/contact/) or call [(352) 247-3105](tel:+13522473105). We'll tell you straight whether your foundation will pass, and if it won't, exactly what it takes to get the letter.
+If you've got an FHA, VA, or USDA deal in motion anywhere in Marion, Sumter, or Citrus County, [request a free written estimate](/contact/) or call [(352) 820-4441](tel:+13528204441). We'll tell you straight whether your foundation will pass, and if it won't, exactly what it takes to get the letter.
 
 ## Frequently Asked Questions
 

@@ -33,7 +33,7 @@ First, the state regulates who can do the work. Under [Florida Statute 320.8249]
 
 Second, your county or city decides when a permit is required. Building departments across Florida treat simple releveling differently than structural work. Most treat shim adjustments and minor jacking as maintenance. Most treat pier replacement, new anchor installation, and foundation changes as permitted work that gets inspected.
 
-The practical takeaway: the question isn't really "do I need a permit to level my home," it's "how much work does my home actually need?" A quick relevel is one answer. A relevel that uncovers crushed piers and rusted straps is another. If you're not sure which situation you're in, that's exactly what a free inspection is for. [Request a free written estimate](/contact/) or call us at [(352) 247-3105](tel:+13522473105) and we'll tell you what your job involves before anyone talks paperwork.
+The practical takeaway: the question isn't really "do I need a permit to level my home," it's "how much work does my home actually need?" A quick relevel is one answer. A relevel that uncovers crushed piers and rusted straps is another. If you're not sure which situation you're in, that's exactly what a free inspection is for. [Request a free written estimate](/contact/) or call us at [(352) 820-4441](tel:+13528204441) and we'll tell you what your job involves before anyone talks paperwork.
 
 ## What Counts as "Leveling" and What Counts as Structural Work
 
@@ -87,7 +87,7 @@ Now the other side of the ledger. Skipping a required permit can cost you three 
 
 Miguel in Dunnellon learned this the expensive way before he ever called us. A handyman had "leveled" his home two years earlier for $300 cash, which included wedging a couple of extra block stacks under the frame with no footings and no permit. When Miguel went to sell, the buyer's inspector flagged the supports, the deal stalled, and Miguel paid us $3,200 to redo the piers correctly with the county sign-off, plus he ate a three-week closing delay. The $300 bargain ended up costing more than ten times its price.
 
-If you're staring down a deadline like that, don't wait on hold with the county. Call our line at [(352) 247-3105](tel:+13522473105). We keep a 24/7 emergency line specifically for pre-closing inspections and insurance deadlines, and we can usually tell you within one site visit whether your fix needs a permit at all.
+If you're staring down a deadline like that, don't wait on hold with the county. Call our line at [(352) 820-4441](tel:+13528204441). We keep a 24/7 emergency line specifically for pre-closing inspections and insurance deadlines, and we can usually tell you within one site visit whether your fix needs a permit at all.
 
 ## Why the Installer License Matters More Than the Permit
 

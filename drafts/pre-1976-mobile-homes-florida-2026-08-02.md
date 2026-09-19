@@ -48,7 +48,7 @@ Earl owns a 1972 single wide off Highway 318 in Citra. His carrier dropped him a
 
 We replaced the anchors, reset the piers, releveled the home, and had him certification-ready for $3,150 total. His new policy costs more than his old one, that's just Florida right now, but he's covered. Without the cert he had exactly zero offers.
 
-If you're staring at a similar deadline, call us at [(352) 247-3105](tel:+13522473105). We keep a 24/7 line specifically because insurance deadlines and closings don't wait for business hours.
+If you're staring at a similar deadline, call us at [(352) 820-4441](tel:+13528204441). We keep a 24/7 line specifically because insurance deadlines and closings don't wait for business hours.
 
 ## What Inspectors Actually Look For Under an Older Home
 
@@ -133,7 +133,7 @@ Keep your paperwork. Tie-down certifications, relevel invoices, and inspection r
 
 And know when to stop DIYing. Skirting repairs, gutter work, and visual checks are fair game for any homeowner. Anything involving jacks, piers, anchors, or the frame belongs with a licensed pro. The money you save doing it yourself isn't worth what a 15,000 pound home can do in half a second.
 
-If you own a pre-1976 mobile home anywhere in Marion, Sumter, or Citrus County and you want a straight answer about what it needs, [request a free written estimate](/contact/) or call [(352) 247-3105](tel:+13522473105). We'll tell you what's worth fixing and what isn't, in writing, with no pressure.
+If you own a pre-1976 mobile home anywhere in Marion, Sumter, or Citrus County and you want a straight answer about what it needs, [request a free written estimate](/contact/) or call [(352) 820-4441](tel:+13528204441). We'll tell you what's worth fixing and what isn't, in writing, with no pressure.
 
 ## Frequently Asked Questions
 

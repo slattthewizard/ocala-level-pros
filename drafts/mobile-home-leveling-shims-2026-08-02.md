@@ -23,7 +23,7 @@ Federal installation rules are surprisingly specific about this. Under HUD's man
 
 Why the 1 inch limit? Because shims are wedges, not building blocks. Stack too many and the pile can shift, crush, or kick out sideways under load. That's when a pier stops supporting the frame and your floor starts telling you about it.
 
-If your doors are already sticking or you can feel a slope when you walk the hallway, that's usually a shim or pier problem announcing itself. You can [call us at (352) 247-3105](tel:+13522473105) for a free written estimate, and we'll actually crawl under there and look instead of guessing from the driveway.
+If your doors are already sticking or you can feel a slope when you walk the hallway, that's usually a shim or pier problem announcing itself. You can [call us at (352) 820-4441](tel:+13528204441) for a free written estimate, and we'll actually crawl under there and look instead of guessing from the driveway.
 
 ## Wood Shims: The Old Standby
 
@@ -115,7 +115,7 @@ If you do peek under the skirting, look for shims that are split, crushed, darke
 
 In Florida, plan on a professional level check every 3 to 5 years, and after any hurricane or tropical storm that soaked the ground for days. Manufactured homes are federally regulated for construction, and HUD's own [manufactured housing program](https://www.hud.gov/program_offices/housing/rmra/mhs/mhshome) exists because these homes perform well when they're installed and maintained to standard. Shims are a small, cheap part of that standard. Ignore them and they get expensive.
 
-Ready to know what's actually under your home? Call Ocala Level Pros at [(352) 247-3105](tel:+13522473105). We serve Ocala and all of Marion, Sumter, and Citrus counties with free written estimates, and we're licensed and insured. If you're up against a closing date or an insurance deadline, our emergency line runs 24/7.
+Ready to know what's actually under your home? Call Ocala Level Pros at [(352) 820-4441](tel:+13528204441). We serve Ocala and all of Marion, Sumter, and Citrus counties with free written estimates, and we're licensed and insured. If you're up against a closing date or an insurance deadline, our emergency line runs 24/7.
 
 ## Frequently Asked Questions
 

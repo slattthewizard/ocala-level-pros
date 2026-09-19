@@ -35,7 +35,7 @@ Our soil is the real enemy. Marion County sits on sandy soil over limestone, and
 
 Age matters too. Concrete blocks are rated for decades of service, but constant moisture, soil movement, and point loading crack them early. A pier that went in when the home was set in 1985 has been through 40 years of wet seasons.
 
-Here's the good news: most pier problems we see are still fixable with a standard relevel. If you're not sure which camp you're in, call us at [(352) 247-3105](tel:+13522473105) and we'll take a look. The inspection and written estimate are free, and we'll tell you plainly if shims will do the job.
+Here's the good news: most pier problems we see are still fixable with a standard relevel. If you're not sure which camp you're in, call us at [(352) 820-4441](tel:+13528204441) and we'll take a look. The inspection and written estimate are free, and we'll tell you plainly if shims will do the job.
 
 ## When Releveling Is Still the Right Call
 
@@ -108,7 +108,7 @@ The crew jacks the frame just enough to unload the failed pier, usually less tha
 
 Permits deserve a mention. In Florida, mobile home installation and stabilization work falls under state rules, and licensed installers are regulated through the [FLHSMV mobile home program](https://www.flhsmv.gov/motor-vehicles-tags-titles/mobile-homes/). Reputable contractors handle any required paperwork. If someone shrugs off the question, that tells you something.
 
-One more practical note: if you're facing a 4-point inspection or a pre-closing deadline, pier condition often shows up in the report. We run a 24/7 line for exactly those situations. Call [(352) 247-3105](tel:+13522473105) or [request your free written estimate](/contact/) and we'll get eyes under the home fast.
+One more practical note: if you're facing a 4-point inspection or a pre-closing deadline, pier condition often shows up in the report. We run a 24/7 line for exactly those situations. Call [(352) 820-4441](tel:+13528204441) or [request your free written estimate](/contact/) and we'll get eyes under the home fast.
 
 ## Where DIY Ends and the Pros Begin
 

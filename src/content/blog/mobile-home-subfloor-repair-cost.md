@@ -39,7 +39,7 @@ Every subfloor quote comes down to four things: how much area is damaged, what c
 
 One more Florida-specific factor: settling. When a mobile home sinks unevenly, floors flex more than they were designed to, seams open up, and water finds its way in faster. If your home hasn't been checked in years, it's worth reading up on [how pros check whether leveling is part of the problem](/mobile-home-leveling-ocala/) before you spend money on new decking.
 
-Not sure what you're dealing with? Call us at [(352) 247-3105](tel:+13522473105) and we'll take a look. Estimates are free and in writing, so you'll know your real number before anyone touches a saw.
+Not sure what you're dealing with? Call us at [(352) 820-4441](tel:+13528204441) and we'll take a look. Estimates are free and in writing, so you'll know your real number before anyone touches a saw.
 
 ## Patch Repair Cost: When a $300 Fix Is All You Need
 
@@ -122,7 +122,7 @@ But there are hard lines where DIY stops making sense, and a few where it become
 
 There's also a paperwork reason to bring in a licensed contractor for bigger jobs. If you're selling, refinancing, or renewing insurance, a documented repair with a written invoice answers questions before they're asked. Florida insurers already scrutinize mobile homes during 4-point inspections, and "handyman patch, no receipt" is not the answer an underwriter wants to hear about floor damage.
 
-We handle subfloor repairs across Ocala, Silver Springs, Belleview, Summerfield, Dunnellon, Lady Lake, and Citra, and every job starts with a free written estimate. If you've got a soft spot, a sag, or a floor you just don't trust anymore, call [(352) 247-3105](tel:+13522473105). If it's a $350 patch, that's what we'll quote you.
+We handle subfloor repairs across Ocala, Silver Springs, Belleview, Summerfield, Dunnellon, Lady Lake, and Citra, and every job starts with a free written estimate. If you've got a soft spot, a sag, or a floor you just don't trust anymore, call [(352) 820-4441](tel:+13528204441). If it's a $350 patch, that's what we'll quote you.
 
 ## Frequently Asked Questions
 

@@ -74,7 +74,7 @@ Here's how the four materials stack up for a typical Marion County single wide, 
 
 Prices swing with panel grade, skirting height, site prep, and how much old material has to be hauled off. Homes sitting high off grade need taller panels and cost more. For a deeper cost breakdown with the line items spelled out, see our post on [mobile home skirting cost](/blog/mobile-home-skirting-cost/).
 
-Want a number for your actual home instead of a range? Call us at [(352) 247-3105](tel:+13522473105) and we'll put a free written estimate in your hands.
+Want a number for your actual home instead of a range? Call us at [(352) 820-4441](tel:+13528204441) and we'll put a free written estimate in your hands.
 
 ## Ventilation, Access, and Florida Rules You Can't Skip
 
@@ -102,7 +102,7 @@ And in every case, look under the home before you spend a dime on skirting. Sagg
 
 When to stop DIY and call a pro: vinyl repairs and single panel swaps are fair game for a handy homeowner. Full installs on an out-of-level home, any masonry work, anything involving pier or tie-down problems, or crawling under a home that shows signs of shifting are not. A mobile home that settles onto you is not a risk worth saving a few hundred dollars over.
 
-If you'd rather have local pros handle it start to finish, [reach out through our contact form](/contact/) or call [(352) 247-3105](tel:+13522473105). We serve Ocala and all of Marion, Sumter, and Citrus counties, estimates are free and in writing, and we'll tell you straight if your existing skirting just needs a repair instead of a replacement.
+If you'd rather have local pros handle it start to finish, [reach out through our contact form](/contact/) or call [(352) 820-4441](tel:+13528204441). We serve Ocala and all of Marion, Sumter, and Citrus counties, estimates are free and in writing, and we'll tell you straight if your existing skirting just needs a repair instead of a replacement.
 
 ## Frequently Asked Questions
 

@@ -27,7 +27,7 @@ Here's the chain reaction we see over and over in Ocala:
 
 Every step in that chain costs more to fix than the one before it. A relevel might run $450 to $900. Replacing rotted subfloor in three rooms can run several thousand. That's why we tell folks not to ignore the bounce, even when it seems minor.
 
-Not sure how bad yours is? Call us at [(352) 247-3105](tel:+13522473105) and describe what you're feeling underfoot. We'll tell you straight whether it sounds like a quick fix or something that needs eyes under the home. Estimates are free and in writing.
+Not sure how bad yours is? Call us at [(352) 820-4441](tel:+13528204441) and describe what you're feeling underfoot. We'll tell you straight whether it sounds like a quick fix or something that needs eyes under the home. Estimates are free and in writing.
 
 ## The Usual Suspects Under Your Floor
 
@@ -117,7 +117,7 @@ Most relevels take two to four hours. You'll usually feel the difference the mom
 
 One more story worth telling. **Ray and Diane in Lady Lake** were selling their 2004 double wide when the buyer's inspector flagged floor bounce and an out-of-level frame. The sale had 10 days left on the inspection window. We releveled the home for $720 two days after their call, the inspector re-checked and passed it, and the sale closed on time. That's exactly why we keep a 24/7 line for pre-closing deadlines.
 
-Whether you're selling, buying, or just tired of the rattle, call [(352) 247-3105](tel:+13522473105). If water shows up anywhere in your inspection, mention it when you call, because moisture problems move to the top of the list every time.
+Whether you're selling, buying, or just tired of the rattle, call [(352) 820-4441](tel:+13528204441). If water shows up anywhere in your inspection, mention it when you call, because moisture problems move to the top of the list every time.
 
 ## Frequently Asked Questions
 

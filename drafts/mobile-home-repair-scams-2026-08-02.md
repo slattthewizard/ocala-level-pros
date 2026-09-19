@@ -25,7 +25,7 @@ Third, Florida weather gives scammers a built-in script. After every named storm
 
 Finally, the work itself is invisible. If someone repaves your driveway badly, you can see it. If someone "relevels" your home by turning a few pier caps and leaving, you might not notice anything wrong for a year. That delay is what lets bad actors move from park to park without getting caught.
 
-If something under your home genuinely worries you, get a second set of eyes before you sign anything. Ocala Level Pros gives [free written estimates](/contact/), and we'll tell you straight if the first guy was right. You can also just call us at [(352) 247-3105](tel:+13522473105) and describe what you were told. We've heard most of the scripts.
+If something under your home genuinely worries you, get a second set of eyes before you sign anything. Ocala Level Pros gives [free written estimates](/contact/), and we'll tell you straight if the first guy was right. You can also just call us at [(352) 820-4441](tel:+13528204441) and describe what you were told. We've heard most of the scripts.
 
 ## The 9 Biggest Red Flags of a Mobile Home Repair Scam
 
@@ -59,7 +59,7 @@ These are the patterns we hear about most often, told through composite examples
 
 **The recycled photos in Dunnellon.** Marta let a storm-chaser crew inspect under her double-wide after a tropical system passed through. They showed her photos of soaked insulation and a shredded vapor barrier and quoted $4,200 for emergency repairs. Her son-in-law crawled under the home that weekend and found dry insulation and an intact barrier. The photos were of somebody else's house. Real water problems under a home do matter, and our article on [water under a mobile home](/blog/water-under-mobile-home/) covers what actual damage looks like.
 
-Three different towns, one common thread: nobody who got scammed had a trusted local number to call first. Save ours now: [(352) 247-3105](tel:+13522473105). A five-minute phone call is free, and it would've saved these three homeowners over $5,000 combined.
+Three different towns, one common thread: nobody who got scammed had a trusted local number to call first. Save ours now: [(352) 820-4441](tel:+13528204441). A five-minute phone call is free, and it would've saved these three homeowners over $5,000 combined.
 
 ## What Honest Mobile Home Repairs Actually Cost
 
@@ -126,4 +126,4 @@ Yes, structural work on manufactured homes falls under state licensing requireme
 
 ### How do I know if my home actually needs releveling?
 
-Look for symptoms you can verify: doors and windows that stick or won't latch, cracks appearing at wall corners, floors that slope or bounce, and skirting that bows or pulls away. If you have none of those, a stranger's claim of urgent hidden damage deserves serious doubt. When symptoms are real, a legitimate relevel is a routine job, usually done in a day, and we're happy to walk you through it at (352) 247-3105.
+Look for symptoms you can verify: doors and windows that stick or won't latch, cracks appearing at wall corners, floors that slope or bounce, and skirting that bows or pulls away. If you have none of those, a stranger's claim of urgent hidden damage deserves serious doubt. When symptoms are real, a legitimate relevel is a routine job, usually done in a day, and we're happy to walk you through it at (352) 820-4441.

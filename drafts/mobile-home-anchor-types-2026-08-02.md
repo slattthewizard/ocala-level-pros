@@ -27,7 +27,7 @@ Central Florida throws three very different soil situations at installers:
 
 Florida also regulates this more tightly than most states. The state requires anchors rated for at least 4,725 pounds of working load, and homes in Wind Zone 2 and Zone 3 need more anchors, spaced closer together, than older installs typically have. You can read the state's installer and installation rules through the [Florida Department of Highway Safety and Motor Vehicles](https://www.flhsmv.gov/motor-vehicles-tags-titles/mobile-homes/), which oversees mobile home installation licensing in Florida.
 
-If you're not sure what's under your home right now, that's a five minute crawl for us and a free written estimate after. Call [(352) 247-3105](tel:+13522473105) and we'll take a look, no pressure and no invented problems.
+If you're not sure what's under your home right now, that's a five minute crawl for us and a free written estimate after. Call [(352) 820-4441](tel:+13528204441) and we'll take a look, no pressure and no invented problems.
 
 ## Auger Anchors: The Standard for Central Florida Sand
 
@@ -111,7 +111,7 @@ Mike in Summerfield learned the cheap version of that lesson. He'd bought a doze
 
 Anchors are one of the four things a Florida 4-point inspection and every tie-down certification looks at, and they're the item homeowners can least see for themselves. The heads sit at dirt level behind skirting. Rust, missing plates, and short-set anchors all hide down there for years.
 
-If your home is more than 15 years old, has never had its anchors inspected, or is heading into a sale or a policy renewal, get eyes under it before the inspector's. We check anchor type, depth, corrosion, plate presence, and strap tension, then give you a written report and a fixed price for anything that needs correcting. Free estimates, licensed and insured, and a 24/7 line for pre-closing and insurance deadline crunches: [(352) 247-3105](tel:+13522473105).
+If your home is more than 15 years old, has never had its anchors inspected, or is heading into a sale or a policy renewal, get eyes under it before the inspector's. We check anchor type, depth, corrosion, plate presence, and strap tension, then give you a written report and a fixed price for anything that needs correcting. Free estimates, licensed and insured, and a 24/7 line for pre-closing and insurance deadline crunches: [(352) 820-4441](tel:+13528204441).
 
 ## Frequently Asked Questions
 

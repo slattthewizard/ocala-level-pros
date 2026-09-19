@@ -26,7 +26,7 @@ Per linear foot, that shakes out like this:
 
 A single-wide has around 140 to 170 linear feet of perimeter. A double-wide runs about 180 to 220. Multiply it out and you'll be within shouting distance of any honest quote.
 
-Want a number for your exact home instead of a range? [Request a free written estimate](/contact/) or call us at [(352) 247-3105](tel:+13522473105). We'll measure your perimeter, check your ground clearance, and give you a firm price with no pressure.
+Want a number for your exact home instead of a range? [Request a free written estimate](/contact/) or call us at [(352) 820-4441](tel:+13528204441). We'll measure your perimeter, check your ground clearance, and give you a firm price with no pressure.
 
 ## Mobile Home Skirting Cost by Material
 
@@ -71,7 +71,7 @@ Ranges are useful, but real jobs are better. Here are two recent ones, with the 
 
 **Ray in Dunnellon, 28x60 double-wide on a sloped lot.** Ray wanted the faux stone look to match the block homes on his street, and his lot drops about 18 inches from front to back. Between the taller panels on the low side, the stone-pattern material, and extra framing, his total landed at $6,400. That's real money, but two years later it still looks like a site-built foundation, and his realtor cousin figures it added more than it cost to his resale value.
 
-Both of those jobs started with a free measurement visit. If you want the same for your place, [set up your free estimate here](/contact/) or call [(352) 247-3105](tel:+13522473105). We'll tell you honestly whether you need full replacement or just repairs.
+Both of those jobs started with a free measurement visit. If you want the same for your place, [set up your free estimate here](/contact/) or call [(352) 820-4441](tel:+13528204441). We'll tell you honestly whether you need full replacement or just repairs.
 
 ## DIY Skirting vs. Hiring a Pro
 
@@ -100,7 +100,7 @@ Finally, skirting matters at insurance and inspection time. Missing or damaged s
 
 Our rule of thumb: buy the best material you'll realistically keep maintained, insist on real ventilation, and never skirt over a problem. Do those three things and your cost per year of service drops even when the upfront price is higher. You can compare all the material options side by side in our full breakdown of [mobile home skirting options](/blog/mobile-home-skirting-options/), and see everything we install on our [mobile home skirting service page](/mobile-home-skirting-ocala/).
 
-If you're weighing skirting against other under-home work like leveling, releveling costs are covered in our [mobile home leveling cost guide](/mobile-home-leveling-cost/), and it often makes sense to bundle jobs into one visit. Call [(352) 247-3105](tel:+13522473105) and we'll help you sequence the work so you're not paying twice.
+If you're weighing skirting against other under-home work like leveling, releveling costs are covered in our [mobile home leveling cost guide](/mobile-home-leveling-cost/), and it often makes sense to bundle jobs into one visit. Call [(352) 820-4441](tel:+13528204441) and we'll help you sequence the work so you're not paying twice.
 
 ## Frequently Asked Questions
 

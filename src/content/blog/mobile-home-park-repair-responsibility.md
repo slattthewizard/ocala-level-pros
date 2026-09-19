@@ -33,7 +33,7 @@ If it's part of the land or the park's shared systems, it's the park's job. That
 
 The confusion starts underneath the home. Your piers and anchors are yours, but they sit on the park's soil. When that soil moves because of drainage the park controls, responsibility gets messy fast. We'll get to that, because it's where the biggest dollar amounts hide.
 
-Not sure whether the sag in your floor is a "you" problem or a "park" problem? Call us at [(352) 247-3105](tel:+13522473105) and we'll take a look. The visit comes with a free written estimate, and our report often settles the argument with the park office before it starts.
+Not sure whether the sag in your floor is a "you" problem or a "park" problem? Call us at [(352) 820-4441](tel:+13528204441) and we'll take a look. The visit comes with a free written estimate, and our report often settles the argument with the park office before it starts.
 
 ## What Florida Law Says About Mobile Home Park Repair Responsibility
 
@@ -131,7 +131,7 @@ And plan on these being covered by your lot rent: roads, common areas, park util
 
 The good news? The homeowner-side repairs are predictable and manageable when you catch them early. A $600 relevel today beats a $5,000 subfloor and frame repair three years from now. That math works in every park from Citra to Lady Lake.
 
-Want a straight answer on what's wrong under your home and whose bill it should be? Ocala Level Pros serves every park in Marion, Sumter, and Citrus counties. Call [(352) 247-3105](tel:+13522473105) for a free written estimate, or [reach us through the contact form](/contact/). We'll tell you what we see, what caused it, and what it costs, in writing.
+Want a straight answer on what's wrong under your home and whose bill it should be? Ocala Level Pros serves every park in Marion, Sumter, and Citrus counties. Call [(352) 820-4441](tel:+13528204441) for a free written estimate, or [reach us through the contact form](/contact/). We'll tell you what we see, what caused it, and what it costs, in writing.
 
 ## Frequently Asked Questions
 

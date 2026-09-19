@@ -72,7 +72,7 @@ Also notice the long game. If you spend $1,000 releveling every four years, that
 
 Maria in Belleview learned this the practical way. Her 1998 double wide needed work before a sale, and a buyer's lender initially asked about a permanent foundation. The quote for a full conversion came in at $28,500. Instead, we releveled the home, replaced six crushed piers, and updated her tie-downs for $3,850 total. The buyer switched to a loan program that accepted the certified pier system, and the sale closed three weeks later.
 
-If you're staring at a similar decision with a deadline attached, call us at [(352) 247-3105](tel:+13522473105). We keep a 24/7 line open for pre-closing inspections and insurance deadlines because these situations never seem to happen on a Tuesday morning.
+If you're staring at a similar decision with a deadline attached, call us at [(352) 820-4441](tel:+13528204441). We keep a 24/7 line open for pre-closing inspections and insurance deadlines because these situations never seem to happen on a Tuesday morning.
 
 ## When a Permanent Foundation Makes Sense
 
@@ -125,7 +125,7 @@ So how do you actually decide? Boil it down to four questions:
 
 If you land somewhere in the middle, start with an inspection. Knowing whether your current setup needs $800 of work or $8,000 of work changes the math on everything else.
 
-That first step costs you nothing. [Schedule a free written estimate](/contact/) or call [(352) 247-3105](tel:+13522473105) and we'll assess your piers, anchors, and level, then give you straight numbers for both paths. We work all over Ocala, Marion County, and the surrounding counties, and we'll tell you plainly if the cheaper option is the right one.
+That first step costs you nothing. [Schedule a free written estimate](/contact/) or call [(352) 820-4441](tel:+13528204441) and we'll assess your piers, anchors, and level, then give you straight numbers for both paths. We work all over Ocala, Marion County, and the surrounding counties, and we'll tell you plainly if the cheaper option is the right one.
 
 ## Frequently Asked Questions
 

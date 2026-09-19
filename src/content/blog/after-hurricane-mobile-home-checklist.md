@@ -37,7 +37,7 @@ Don't rush the reunion. The first checks happen from the road, before you or the
 
 **Photograph everything before you touch anything.** Wide shots of all four sides, the roof line, the skirting, and any debris. Your insurance adjuster will thank you, and so will your wallet. FEMA's guidance on returning home after a disaster is worth reading before you make the trip back; you can find it at [Ready.gov's returning home page](https://www.ready.gov/returning-home).
 
-If anything in this first pass looks off, especially a visible lean, a sagging roof line, or skirting bulging outward, don't go inside yet. Call us at [(352) 247-3105](tel:+13522473105) and describe what you're seeing. We run a 24/7 line for exactly this situation, and a five-minute phone call is free.
+If anything in this first pass looks off, especially a visible lean, a sagging roof line, or skirting bulging outward, don't go inside yet. Call us at [(352) 820-4441](tel:+13528204441) and describe what you're seeing. We run a 24/7 line for exactly this situation, and a five-minute phone call is free.
 
 ## Your Step-by-Step Mobile Home Inspection After a Hurricane
 
@@ -125,7 +125,7 @@ Never crawl under a home that has shifted on its piers. A single-wide weighs 15,
 
 The same goes for tie-down work. Anchor tension and strap placement are specified by Florida code, and getting it wrong means your home is no better protected than it was with the broken straps.
 
-The good news: professional help here is cheaper than most people expect, and a lot cheaper than guessing wrong. Our crews handle [mobile home leveling across the Ocala area](/mobile-home-leveling-ocala/), tie-down repair and certification, vapor barriers, and skirting, and every estimate is free and in writing. If you're staring at something under your home right now and aren't sure what you're looking at, call [(352) 247-3105](tel:+13522473105). We answer 24/7 for storm and deadline emergencies, and we'd rather talk you out of an unnecessary repair than sell you one.
+The good news: professional help here is cheaper than most people expect, and a lot cheaper than guessing wrong. Our crews handle [mobile home leveling across the Ocala area](/mobile-home-leveling-ocala/), tie-down repair and certification, vapor barriers, and skirting, and every estimate is free and in writing. If you're staring at something under your home right now and aren't sure what you're looking at, call [(352) 820-4441](tel:+13528204441). We answer 24/7 for storm and deadline emergencies, and we'd rather talk you out of an unnecessary repair than sell you one.
 
 One last tip: whatever you find this time, write it down and keep the photos. A record of your home's condition after each storm makes the next inspection faster, makes insurance claims stronger, and helps you spot slow-moving problems like gradual settling before they get expensive.
 

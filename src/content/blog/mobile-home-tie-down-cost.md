@@ -17,7 +17,7 @@ faq:
   - question: "How many tie-downs does a double wide need in Florida?"
     answer: "In Wind Zone 2, which includes Marion, Sumter, and Citrus counties, most double wides need 18 to 30 frame anchors depending on length, plus centerline anchoring per the installation standard. Exact counts come from anchor spacing rules in the Florida Administrative Code and the home's dimensions. An installer should count and show you, not estimate from the driveway."
   - question: "How long do mobile home tie-downs last?"
-    answer: "Galvanized anchors and straps typically last 15 to 25 years in Central Florida, less in consistently damp soil or where the vapor barrier has failed. Straps usually rust out before anchors do. A quick visual check each spring and fall, plus a professional look during any 4-point inspection, will catch wear long before it fails. Ready for a real number instead of a range? Call (352) 247-3105 or request your free written estimate. We'll count your anchors, check your straps, and give you a price that holds up."
+    answer: "Galvanized anchors and straps typically last 15 to 25 years in Central Florida, less in consistently damp soil or where the vapor barrier has failed. Straps usually rust out before anchors do. A quick visual check each spring and fall, plus a professional look during any 4-point inspection, will catch wear long before it fails. Ready for a real number instead of a range? Call (352) 820-4441 or request your free written estimate. We'll count your anchors, check your straps, and give you a price that holds up."
 ---
 A full set of tie-downs on a double wide in Marion County usually runs $2,000 to $3,500. That single number often decides whether a homeowner passes a 4-point inspection and keeps their insurance, or starts scrambling for a new carrier three weeks before renewal.
 
@@ -49,7 +49,7 @@ Here's how the common scenarios break down in our area:
 
 Prices assume normal soil and reasonable access under the home. We'll get to what blows those assumptions up in a minute.
 
-If you'd rather skip the guessing, we'll come out and count what your home actually needs. [Request a free written estimate](/contact/) or call [(352) 247-3105](tel:+13522473105). We put the anchor count and per-anchor price in writing so you can compare it against anyone else's quote line by line.
+If you'd rather skip the guessing, we'll come out and count what your home actually needs. [Request a free written estimate](/contact/) or call [(352) 820-4441](tel:+13528204441). We put the anchor count and per-anchor price in writing so you can compare it against anyone else's quote line by line.
 
 ## What Drives Tie-Down Installation Cost Up or Down
 
@@ -104,7 +104,7 @@ Where DIY makes sense: keeping your skirting vents clear, keeping the crawl spac
 
 Where it doesn't: installing, replacing, or tensioning anchors and straps. If a strap has snapped or an anchor is visibly leaning, stop there and call a pro. That hardware is under load, and it's not a safe place to learn.
 
-Not sure which side of that line your home is on? Send us a photo or two and we'll tell you straight. Reach us at [(352) 247-3105](tel:+13522473105) or through the [contact form](/contact/). If it's a two-strap fix, we'll say so.
+Not sure which side of that line your home is on? Send us a photo or two and we'll tell you straight. Reach us at [(352) 820-4441](tel:+13528204441) or through the [contact form](/contact/). If it's a two-strap fix, we'll say so.
 
 ## How to Get a Quote You Can Actually Trust
 
@@ -150,4 +150,4 @@ In Wind Zone 2, which includes Marion, Sumter, and Citrus counties, most double 
 
 Galvanized anchors and straps typically last 15 to 25 years in Central Florida, less in consistently damp soil or where the vapor barrier has failed. Straps usually rust out before anchors do. A quick visual check each spring and fall, plus a professional look during any 4-point inspection, will catch wear long before it fails.
 
-Ready for a real number instead of a range? Call [(352) 247-3105](tel:+13522473105) or [request your free written estimate](/contact/). We'll count your anchors, check your straps, and give you a price that holds up.
+Ready for a real number instead of a range? Call [(352) 820-4441](tel:+13528204441) or [request your free written estimate](/contact/). We'll count your anchors, check your straps, and give you a price that holds up.

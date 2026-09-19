@@ -39,7 +39,7 @@ Nearly every soft spot traces back to one thing: moisture getting into particleb
 
 **Pier settling and lost support.** When piers under the home settle or shims work loose, sections of floor lose their backup support. The floor flexes more than it should, fasteners work loose, and seams open up. That flexing feels a lot like a soft spot even when the wood is still dry.
 
-If you'd rather have a professional crawl under there and tell you exactly what's going on, that's what we do. [Request a free written estimate](/contact/) or call us at [(352) 247-3105](tel:+13522473105). We check the subfloor, the vapor barrier, and the piers in one visit.
+If you'd rather have a professional crawl under there and tell you exactly what's going on, that's what we do. [Request a free written estimate](/contact/) or call us at [(352) 820-4441](tel:+13528204441). We check the subfloor, the vapor barrier, and the piers in one visit.
 
 ## How to Find Every Soft Spot Before You Fix One
 
@@ -103,7 +103,7 @@ That combination usually means the home has settled and some piers are no longer
 
 Marta in Dunnellon learned this the expensive way, almost. She called about a soft spot in her living room and had already gotten a $1,100 quote to replace that section of floor. When our crew checked underneath, three piers on that side had settled and the floor was flexing over a gap, not rotting. A [releveling](/mobile-home-leveling-ocala/) visit at $625 fixed the "soft spot" without cutting a single piece of wood. The floor was never wet at all.
 
-That's why we always recommend an under-home check before major floor work. It takes one visit to know whether you need a carpenter, a leveling crew, or both. Call [(352) 247-3105](tel:+13522473105) and we'll take a look, no charge for the written estimate.
+That's why we always recommend an under-home check before major floor work. It takes one visit to know whether you need a carpenter, a leveling crew, or both. Call [(352) 820-4441](tel:+13528204441) and we'll take a look, no charge for the written estimate.
 
 ## How to Keep Soft Spots From Coming Back
 

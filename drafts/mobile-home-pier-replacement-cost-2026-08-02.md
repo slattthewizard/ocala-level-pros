@@ -27,7 +27,7 @@ Why the wide range? A pier isn't just a stack of blocks. The price includes craw
 
 That's also why replacing five piers doesn't cost five times as much as replacing one. Once a crew is under the home with jacks set, each additional pier gets cheaper. Expect a minimum service charge of around $300 to $500 for any single-pier visit, because the setup work is the same whether we replace one pier or eight.
 
-If you're seeing sloping floors or doors that stick along with a bad pier, the smart move is a full inspection first. We check every pier, not just the obvious one, and give you a free written estimate before anything gets jacked up. Call us at [(352) 247-3105](tel:+13522473105) or [request your free estimate here](/contact/).
+If you're seeing sloping floors or doors that stick along with a bad pier, the smart move is a full inspection first. We check every pier, not just the obvious one, and give you a free written estimate before anything gets jacked up. Call us at [(352) 820-4441](tel:+13528204441) or [request your free estimate here](/contact/).
 
 ## Pier Replacement Cost by Pier Type
 
@@ -87,7 +87,7 @@ Numbers on a page are one thing. Here's what actual jobs look like.
 
 **Marcus in Citra: 1 emergency pier, $425.** Marcus was under contract to sell when the buyer's inspector flagged a crumbled pier under the master bedroom. Closing was in six days. We got out there in two, replaced the pier with a new footing, and gave him written documentation for the buyer's lender. $425 total, and the sale closed on time.
 
-If you've got an inspection deadline or an insurance issue breathing down your neck, that's exactly what our emergency line is for. Call [(352) 247-3105](tel:+13522473105) any time, day or night.
+If you've got an inspection deadline or an insurance issue breathing down your neck, that's exactly what our emergency line is for. Call [(352) 820-4441](tel:+13528204441) any time, day or night.
 
 ## Can You Replace a Mobile Home Pier Yourself?
 
@@ -115,7 +115,7 @@ The cheapest pier is the one you never have to replace. A few habits make a real
 
 **Bundle work.** If you need piers, tie-downs, and a vapor barrier, doing them in one visit saves you two extra trip charges and gets everything documented at once for your insurer.
 
-We give free written estimates everywhere in Marion, Sumter, and Citrus counties, from Silver Springs to Lady Lake. No pressure, real numbers, and we'll tell you which piers can wait. [Get your free estimate](/contact/) or call [(352) 247-3105](tel:+13522473105).
+We give free written estimates everywhere in Marion, Sumter, and Citrus counties, from Silver Springs to Lady Lake. No pressure, real numbers, and we'll tell you which piers can wait. [Get your free estimate](/contact/) or call [(352) 820-4441](tel:+13528204441).
 
 ## Frequently Asked Questions
 

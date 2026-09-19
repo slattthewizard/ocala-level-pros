@@ -37,7 +37,7 @@ That's why sticking doors in a mobile home tend to show up in clusters. One door
 
 Carl in Belleview learned this the practical way last year. His front door started dragging in June. By September his bathroom door wouldn't latch and there was a hairline crack over the hallway doorway. We found two piers on the south side had sunk into softened soil. The relevel ran him $625, and every door in the house closed properly again the same afternoon, no carpentry needed.
 
-If your doors are doing the same thing, don't wait for door number three. [Request a free written estimate](/contact/) or call us at [(352) 247-3105](tel:+13522473105). We'll tell you honestly whether it's a $10 hinge problem or a settling problem.
+If your doors are doing the same thing, don't wait for door number three. [Request a free written estimate](/contact/) or call us at [(352) 820-4441](tel:+13528204441). We'll tell you honestly whether it's a $10 hinge problem or a settling problem.
 
 ## The Chain Reaction: From Florida Soil to Your Door Frame
 
@@ -122,7 +122,7 @@ Here's a simple decision rule that will serve you well.
 
 A proper leveling check isn't guesswork. We go under the home with a water level or laser, measure the frame at every pier, and map exactly which supports have dropped and by how much. You get a written report and a firm price before any work starts. Most relevels in our area are done in a single day, and the doors are usually the first thing homeowners test when we're done. Our [mobile home leveling service in Ocala](/mobile-home-leveling-ocala/) covers all of Marion, Sumter, and Citrus counties.
 
-If you're staring at a door right now that won't latch, call [(352) 247-3105](tel:+13522473105). Estimates are free and in writing, and if it turns out to be a $2 hinge screw, we'll tell you that too.
+If you're staring at a door right now that won't latch, call [(352) 820-4441](tel:+13528204441). Estimates are free and in writing, and if it turns out to be a $2 hinge screw, we'll tell you that too.
 
 ## Frequently Asked Questions
 
