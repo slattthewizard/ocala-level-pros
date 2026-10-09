@@ -17,14 +17,14 @@ Walk the full perimeter before you decide anything. A skirting problem that look
 
 Here is how the common failures break down:
 
-- **One or two cracked or blown-out panels, rest tight:** panel swap.
-- **Panels pop out at the bottom in the same spot every time:** the bottom track is bent, buried, or loose. Fix the track, not the panel.
-- **Top trim pulled away from the home along one wall:** re-fasten or replace that length of trim.
-- **A hole chewed or pushed through a panel:** patch or swap the panel, then deal with whatever made it. More on that below.
-- **Panels brittle, chalky, and cracking across most of the home:** the material has aged out. Replace the run.
-- **Panels bowed, pushed out, or gapped at the corners along a whole side:** this may be a settling home, not a skirting failure. Read the leveling section before you spend money.
+- One or two cracked or blown-out panels, rest tight: panel swap.
+- Panels pop out at the bottom in the same spot every time: the bottom track is bent, buried, or loose. Fix the track, not the panel.
+- Top trim pulled away from the home along one wall: re-fasten or replace that length of trim.
+- A hole chewed or pushed through a panel: patch or swap the panel, then deal with whatever made it. More on that below.
+- Panels brittle, chalky, and cracking across most of the home: the material has aged out. Replace the run.
+- Panels bowed, pushed out, or gapped at the corners along a whole side: this may be a settling home, not a skirting failure. Read the leveling section before you spend money.
 
-A good rule of thumb: if you are replacing more than roughly half the panels anyway, the new track, trim, and labor on the rest make a full install the better buy. That is a judgment call, not a formula, and we will tell you straight when we look at it.
+As a rule of thumb, if you are replacing more than roughly half the panels anyway, the new track, trim, and labor on the rest make a full install the better buy. That is a judgment call, and we will give you our read when we look at it.
 
 ## Storm Damage and Blown-Out Panels
 
@@ -36,7 +36,7 @@ Look at the wall that took the hit. Wind-driven rain pushes water behind skirtin
 
 ## Cracked, Faded, and Brittle Vinyl
 
-Florida sun is hard on vinyl. Panels on the walls that take the most afternoon sun fade and go brittle first. A brittle panel cracks along the vent slots, at the corners, and anywhere a screw sits too tight.
+Florida sun is hard on vinyl, and panels on the walls that take the most afternoon sun fade and go brittle first. A brittle panel cracks along the vent slots, at the corners, and anywhere a screw sits too tight.
 
 A few cracks on the sunny side are a repair. You can swap those panels and the rest of the skirt keeps going. The thing to test is the panels that look fine. Press a thumb against the face of a panel on the sunny wall. If it flexes and springs back, it has life left. If it snaps, clicks, or leaves a crack line, replacing a panel at a time will turn into a yearly chore.
 
@@ -46,9 +46,9 @@ A color match is the other catch. New panels on an old skirt rarely match exactl
 
 When panels keep popping loose in the same stretch, the track is the cause, and replacing panels will not hold.
 
-**Bottom track buried or bent.** Marion County sand shifts and washes. Soil piles up against the bottom track after heavy rain, or washes out from under it and leaves the track hanging and bent. A buried track traps water against the panels. A bent track will not hold the panel bottom in place. Dig the soil back, straighten or replace that length of track, and regrade so water runs away from the home.
+Bottom track, buried or bent. Marion County sand shifts and washes. Soil piles up against the bottom track after heavy rain, or washes out from under it and leaves the track hanging and bent. A buried track traps water against the panels. A bent track will not hold the panel bottom in place. Dig the soil back, straighten or replace that length of track, and regrade so water runs away from the home.
 
-**Top trim pulled loose.** The top trim or rail is what holds the panels from above. If it has pulled away from the home, the panels hang crooked and the top edge rattles. Re-fasten it into solid framing, not just the siding, and replace any length that has cracked.
+Top trim, pulled loose. The top trim or rail is what holds the panels from above. If it has pulled away from the home, the panels hang crooked and the top edge rattles. Re-fasten it into solid framing, not just the siding, and replace any length that has cracked.
 
 Federal installation rules say skirting must not be attached in a way that traps water between the siding and trim, and must not block the home's siding from expanding and contracting ([24 CFR 3285.504](https://www.ecfr.gov/current/title-24/section-3285.504)). Both matter on a repair. A top rail screwed down tight and sealed along its whole length breaks both rules.
 
@@ -84,7 +84,7 @@ If your panels keep bulging, our post on [mobile home skirting buckling](/blog/m
 
 ## When Skirting Damage Is Really a Leveling Problem
 
-Sometimes the skirting is the messenger. A home that is settling or tilting pushes on the skirt from the inside. Panels get crushed on the low side and pulled out of the track on the high side. Replacing them just sets the new ones up to fail.
+Sometimes the skirting is only the symptom. A home that is settling or tilting pushes on the skirt from the inside. Panels get crushed on the low side and pulled out of the track on the high side. Replacing them just sets the new ones up to fail.
 
 Check for these signs before you spend money on panels:
 

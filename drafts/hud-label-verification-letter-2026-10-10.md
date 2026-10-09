@@ -29,24 +29,19 @@ That count shapes what you order. If a lender or insurer asks for "the HUD label
 
 ## Which IBTS Document Do You Need
 
-IBTS sells two different products, and the order site says plainly which is which.
+IBTS sells two different products, and its order site spells out which is which.
 
-**Label Verification Letter.** Order this when the exterior HUD labels are missing or unreadable. IBTS lists what it contains: the label number, serial number, date of manufacture, manufacturer name and plant location, and the first destination, usually a dealer or retail center. It does not include wind zone, roof load or thermal zone information.
+Label Verification Letter: order this when the exterior HUD labels are missing or unreadable. IBTS lists what it contains: the label number, serial number, date of manufacture, manufacturer name and plant location, and the first destination, usually a dealer or retail center. It does not include wind zone, roof load or thermal zone information.
 
-**Data Plate / Performance Certificate.** Order this when the paper data plate inside the home is missing. It carries the serial number, date of manufacture, manufacturer, plant location, and the wind, roof load and thermal zones. It does not list label numbers. If IBTS cannot find a copy of the original data plate, it issues a substitute Performance Certificate, and the zones on it are based on where the home first shipped, usually a dealer, not where it sits now.
+Data Plate / Performance Certificate: order this when the paper data plate inside the home is missing. It carries the serial number, date of manufacture, manufacturer, plant location, and the wind, roof load and thermal zones. It does not list label numbers. If IBTS cannot find a copy of the original data plate, it issues a substitute Performance Certificate, and the zones on it are based on where the home first shipped, usually a dealer, not where it sits now.
 
-That last point is worth reading twice if you live in Marion County. Our county sits in HUD Wind Zone II. A performance certificate reflects the zone for the home's first destination, so a home that first shipped to a dealer in another state can show a different zone than the one it lives in now. If an insurer is asking about wind rating, say so when you talk to them.
+That last point matters if you live in Marion County. Our county sits in HUD Wind Zone II. A performance certificate reflects the zone for the home's first destination, so a home that first shipped to a dealer in another state can show a different zone than the one it lives in now. If an insurer is asking about wind rating, say so when you talk to them.
 
 If both the tag and the plate are gone, you may need both documents. IBTS lets you order either one or both in the same request.
 
 ## Who Asks for This Letter
 
-Nobody asks for it for fun. These are the usual requests:
-
-- **Insurance companies.** An underwriter wants proof the home is a HUD-code manufactured home and when it was built before writing or renewing a policy.
-- **Lenders and appraisers.** A loan on a manufactured home often depends on proving the home meets the HUD code.
-- **Buyers and their agents.** A buyer who sees no tag on the wall will ask how you know it is a HUD home.
-- **County offices.** A tax collector, property appraiser, or title office may ask for the serial number or label numbers when a home is retitled or converted to real property.
+Nobody asks for it for fun. Insurance companies are the usual source: an underwriter wants proof the home is a HUD-code manufactured home, and when it was built, before writing or renewing a policy. Lenders and appraisers come next, since a loan on a manufactured home often depends on proving the home meets the HUD code. A buyer who sees no tag on the wall will ask how you know it is a HUD home. And a tax collector, property appraiser, or title office may want the serial number or label numbers when a home is retitled or converted to real property.
 
 We do not handle title work or insurance claims. What we can tell you is what the paperwork needs to say, so you order the right document the first time.
 
@@ -54,7 +49,7 @@ We do not handle title work or insurance claims. What we can tell you is what th
 
 IBTS says an order must include either the HUD label number or the manufacturer's serial number, along with the manufacturer name. Orders that arrive as placeholders without those details are cancelled at intake. Here is where the information tends to be hiding.
 
-**The serial number.** Check these, roughly in this order:
+For the serial number, check these, roughly in this order:
 
 1. The data plate inside the home, if you still have it.
 2. The retired title, the certificate of origin, an appraisal, or an engineer report. IBTS lists these as places the serial number and label numbers show up.
@@ -63,7 +58,7 @@ IBTS says an order must include either the HUD label number or the manufacturer'
 
 IBTS wants the number the manufacturer assigned. It does not work from title numbers, model numbers, or state-assigned VINs. Its form also warns that entering "unknown" in both the serial and label fields gets the order cancelled.
 
-**Photos.** If you can see any trace of the tag, photograph it. IBTS asks for images of the metal HUD labels in some cases, and it may ask for a photo of the serial number on the crossbeam if your information conflicts with its records.
+If you can see any trace of the tag, photograph it. IBTS asks for images of the metal HUD labels in some cases, and it may ask for a photo of the serial number on the crossbeam if your information conflicts with its records.
 
 If you need a hand reading a serial number format, see our guide to [looking up a mobile home serial number](/blog/mobile-home-serial-number-lookup/).
 
@@ -81,7 +76,7 @@ The order form lives on IBTS's label verification site, [lvr2.ibts.org](https://
 
 Delivery is by email as a PDF. A mailed paper copy costs extra, and IBTS says the mail time is separate from processing time.
 
-**Fees and speed.** IBTS says a non-refundable research fee applies once a researcher is assigned to your order, and that it is included in the price. IBTS shows the full price for each product and speed at checkout, so check there before you pay. We are not going to quote a total that may have changed.
+On fees, IBTS says a non-refundable research fee applies once a researcher is assigned to your order, and that it is included in the price. IBTS shows the full price for each product and speed at checkout, so check there before you pay. We are not going to quote a total that may have changed.
 
 For speed, IBTS lists three tiers. Rush orders arrive the next business day. Super Rush orders arrive the same business day if placed before 1:00 p.m. Eastern on a business day. The regular and urgent day counts are shown on the order form, so we do not repeat them here. IBTS counts business days only, so a Saturday order is treated as placed on Monday.
 
@@ -91,9 +86,9 @@ IBTS also says it cannot search by property address, and that it cannot tell you
 
 Two situations do not fit this route.
 
-**Homes built before June 15, 1976.** The HUD code took effect that day. IBTS says it does not verify mobile homes built before it, and those homes never had HUD labels. If you own one, the answer is not a letter. Our guide to [pre-1976 mobile homes in Florida](/blog/pre-1976-mobile-homes-florida/) explains what insurers and lenders usually ask for instead.
+Homes built before June 15, 1976 are the first. The HUD code took effect that day. IBTS says it does not verify mobile homes built before it, and those homes never had HUD labels. If you own one, the answer is not a letter. Our guide to [pre-1976 mobile homes in Florida](/blog/pre-1976-mobile-homes-florida/) explains what insurers and lenders usually ask for instead.
 
-**Other factory-built structures.** IBTS says it does not verify modular homes, park models, RVs, or campers. They are built to different standards and have no HUD label.
+Other factory-built structures are the second. IBTS says it does not verify modular homes, park models, RVs, or campers. They are built to different standards and have no HUD label.
 
 If IBTS cannot find your home in its records, it may issue what it calls a specialized letter, which carries the same research fee. That is why double-checking the serial number before you submit pays off. A typo costs the fee and the wait.
 
@@ -105,7 +100,7 @@ Those are separate documents, and the label verification does nothing for them. 
 
 If an engineer's letter is part of the request, that has to come from a Florida-licensed engineer. We do not issue those.
 
-A sensible order of operations when an insurer sends you a list:
+When an insurer sends you a list, work through it in this order:
 
 1. Photograph the home and any surviving tag or plate today.
 2. Order the IBTS letter if the tag or plate is missing. Start early, since processing is not instant.

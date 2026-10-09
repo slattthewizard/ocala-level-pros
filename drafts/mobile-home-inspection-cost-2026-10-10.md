@@ -27,7 +27,7 @@ Most people who search for a manufactured home inspection are really in one of t
 
 This is the broad walk-through a buyer orders before closing on a used home. A licensed home inspector looks at the roof, the exterior, the interior, the electrical panel, plumbing, water heater, HVAC, windows and doors, and writes up what they see. In Florida, home inspectors are licensed by the state, and you can ask to see the license before you book.
 
-Two limits are worth knowing. First, a general inspector often looks at the underside of a manufactured home from the access panel or the skirting, not from under the home. Second, the report is a snapshot of condition. It is not a certification that the home meets any standard.
+Two limits apply. First, a general inspector often looks at the underside of a manufactured home from the access panel or the skirting, not from under the home. Second, the report is a snapshot of condition. It is not a certification that the home meets any standard.
 
 The fee is whatever that inspector charges, and it varies with the size of the home and the inspector. Ask what is included, whether the underside is crawled or just viewed, and how soon you get the written report.
 
@@ -49,7 +49,7 @@ Some insurers, lenders and parks want written proof that your home is anchored. 
 
 We do these. A tie-down certification letter runs $150-$300. If the anchors check out, the letter is what you hand over. If they don't, the fix is a separate job, and the written estimate for it is free. A full tie-down or anchor package, when a home needs one, is $1,500-$3,000.
 
-Why the letter exists is simple. The federal installation rules say that after blocking and leveling, a manufactured home must be secured against the wind, either with anchor assembly type installations or by connecting it to an alternative foundation system ([24 CFR 3285.401](https://www.ecfr.gov/current/title-24/section-3285.401)). A letter is the paper that shows yours still is.
+The letter exists because of the federal installation rules, which say that after blocking and leveling, a manufactured home must be secured against the wind, either with anchor assembly type installations or by connecting it to an alternative foundation system ([24 CFR 3285.401](https://www.ecfr.gov/current/title-24/section-3285.401)). A letter is the paper that shows yours still is.
 
 Our [tie-down certification and insurance guide](/blog/tie-down-certification-insurance/) explains how to ask your insurer for exactly what they need, so you don't pay for a letter they won't accept.
 
@@ -61,7 +61,7 @@ We don't write engineering letters, and we won't pretend a tie-down letter can s
 
 The engineer sets the fee. Ask for it in writing, ask what site visit is included, and ask what happens if the foundation needs work before they will sign. The full process is in [the FHA foundation certification guide](/blog/fha-foundation-certification-mobile-home/).
 
-A practical tip: lenders and engineers do not like surprises in closing week. If you are a seller whose buyer is using FHA financing, find out early whether a certification is required and who the lender wants to sign it.
+Lenders and engineers do not like surprises in closing week. If you are a seller whose buyer is using FHA financing, find out early whether a certification is required and who the lender wants to sign it.
 
 ## 5. The Under-Home Leveling Inspection
 
@@ -85,11 +85,11 @@ Here is what we look at underneath:
 - The vapor barrier and the ground beneath it, including standing water.
 - The marriage line on a double-wide.
 
-If the report turns up work, the typical price ranges are $300-$600 for a single corner releveled, $450-$900 for a full single-wide relevel, and $700-$1,500 for a full double-wide relevel. Those are ranges. The written estimate gives you the real number for your home.
+If the report turns up work, the typical price ranges are $300-$600 for a single corner releveled, $450-$900 for a full single-wide relevel, and $700-$1,500 for a full double-wide relevel. The written estimate gives you the real number for your home.
 
 ## What About "Manufactured Home Inspection Cost"?
 
-People search "manufactured home inspection cost" expecting one number. There isn't one, because the term covers all five jobs above. The honest answer is a sequence of questions:
+People search "manufactured home inspection cost" expecting one number. There isn't one, because the term covers all five jobs above. The answer is a sequence of questions:
 
 1. Who is asking for the inspection: a buyer, an insurer, a lender or a park?
 2. What exactly do they want in writing: a condition report, a 4-point form, anchor proof or an engineer's certification?
@@ -100,33 +100,31 @@ Our two numbers are $150-$250 for the leveling inspection and $150-$300 for the 
 
 ## Common Ways People Pay for the Wrong Document
 
-A few mistakes are worth avoiding.
+Ordering the wrong inspection. An insurer asks for "an inspection" and the owner books a general home inspection when the insurer wanted a 4-point or a tie-down letter. Ask for the form name, or ask the agent to email you the requirement.
 
-**Ordering the wrong inspection.** An insurer asks for "an inspection" and the owner books a general home inspection when the insurer wanted a 4-point or a tie-down letter. Ask for the form name, or ask the agent to email you the requirement.
+Paying twice for the same look. If a general inspector, a 4-point inspector and a tie-down crew each go over the same home in the same month, you may be paying three times for overlapping access. Ask whether one visit can produce more than one document, and whether that person is qualified to sign each of them.
 
-**Paying twice for the same look.** If a general inspector, a 4-point inspector and a tie-down crew each go over the same home in the same month, you may be paying three times for overlapping access. Ask whether one visit can produce more than one document, and whether that person is qualified to sign each of them.
+Skipping the underside. Many of the things that cost buyers money, such as sagging, sunken piers, loose anchors and moisture, live below the floor. If your inspector only views the underside from an access panel, a separate underside look may be worth having. Our [underside inspection checklist](/blog/mobile-home-underside-inspection-checklist/) shows what that involves.
 
-**Skipping the underside.** Many of the things that cost buyers money, such as sagging, sunken piers, loose anchors and moisture, live below the floor. If your inspector only views the underside from an access panel, a separate underside look may be worth having. Our [underside inspection checklist](/blog/mobile-home-underside-inspection-checklist/) shows what that involves.
+Accepting an unlicensed signature on a licensed job. A certification that has to come from a Florida-licensed engineer is only worth something if it does. Ask for the name and license number, and check it yourself.
 
-**Accepting an unlicensed signature on a licensed job.** A certification that has to come from a Florida-licensed engineer is only worth something if it does. Ask for the name and license number, and check it yourself.
-
-**Fixing before inspecting.** Releveling a home on a bad footing, or re-strapping rusted anchors, before anyone has looked under it just buries the cause. Inspect first, then price the repair.
+Fixing before inspecting. Releveling a home on a bad footing, or re-strapping rusted anchors, before anyone has looked under it just buries the cause. Inspect first, then price the repair.
 
 ## Which One Should You Book First?
 
 Use the reason you are being asked:
 
-- **Buying a used home:** a general inspection, plus an under-home leveling inspection if you want a written read on the piers and level.
-- **Insurance renewal on an older home:** the 4-point inspection, and the tie-down letter if the insurer asks for anchor proof.
-- **FHA-backed loan:** the engineer's foundation certification, with a look under the home first.
-- **Doors sticking or floors out of level:** the leveling inspection. You don't need a general inspection to find a pier that has sunk.
-- **Selling:** a leveling inspection, and the tie-down letter if the buyer's insurer wants one.
+- Buying a used home: a general inspection, plus an under-home leveling inspection if you want a written read on the piers and level.
+- Insurance renewal on an older home: the 4-point inspection, and the tie-down letter if the insurer asks for anchor proof.
+- FHA-backed loan: the engineer's foundation certification, with a look under the home first.
+- Doors sticking or floors out of level: the leveling inspection. You don't need a general inspection to find a pier that has sunk.
+- Selling: a leveling inspection, and the tie-down letter if the buyer's insurer wants one.
 
 If you are not sure, say so. Call us and describe who is asking for what. We will tell you whether it is one of ours or someone else's, and we won't sell you a document the other party won't accept.
 
 ## Get an Inspection Under Your Home in Ocala
 
-We do leveling inspections and tie-down certification letters for mobile homes in Ocala and the surrounding area. You get a written report, a clear list of what is and isn't a problem, and a free written estimate if work turns up. Call us at [(352) 820-4441](tel:+13528204441) or send the details through [our contact page](/contact/), and tell us what the inspection is for so we can point you to the right document.
+We do leveling inspections and tie-down certification letters for mobile homes in Ocala and the surrounding area. You get a written report and, if work turns up, a free written estimate. Call us at [(352) 820-4441](tel:+13528204441) or send the details through [our contact page](/contact/), and tell us what the inspection is for so we can point you to the right document.
 
 ## Frequently Asked Questions
 

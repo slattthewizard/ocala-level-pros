@@ -9,11 +9,11 @@ secondary_keywords: "mobile home vin number, mobile home vin lookup, mobile home
 
 A mobile home serial number is in three places: on the data plate inside the home, stamped into the steel frame at the hitch end, and on the title. To look a home up in Florida, start with that number, then take it to the county tax collector's tag office and the county property appraiser. The tax collector handles the title and the yearly decal. The property appraiser's record shows how the home is classed for tax purposes.
 
-There is no single free website that returns a full history from a serial number. A lookup in Florida is really a matching job: the number on the home, the number on the paperwork and the number on the labels all have to agree. This article covers where to find each one, what a mismatch means, and what to check on the home itself before money changes hands.
+There is no single free website that returns a full history from a serial number. A lookup in Florida is really a matching job: the number on the home, the number on the paperwork and the number on the labels all have to agree. Below: where to find each number, what a mismatch means, and what to check on the home before money changes hands.
 
 ## Serial Number or VIN: Same Thing?
 
-People use the two words interchangeably, and for most homes the serial number the factory stamped is the number that ends up on the title as the VIN. That is the usual case, but not a guarantee. Some states and some older titles handle it differently, so do not assume. Compare the digits character by character and treat any difference as a question to answer before you buy.
+People use the two words interchangeably, and for most homes the serial number the factory stamped is the number that ends up on the title as the VIN. That is the usual case, not a guarantee, since some states and older titles handle it differently. Compare the digits character by character and treat any difference as a question to answer before you buy.
 
 The serial number is assigned at the factory. Under the federal construction standard it has to identify the manufacturer and the state where the home was built ([24 CFR § 3280.6](https://www.ecfr.gov/current/title-24/section-3280.6)). It is not a code you can decode yourself without the manufacturer's own key, so do not trust a website that claims to read the age or floor plan from the digits alone.
 
@@ -43,9 +43,9 @@ When a home sells, three things get compared:
 
 If the frame stamp, the data plate and the title all agree, the home is who the paperwork says it is. If they do not, stop. A transposed digit on an old title is a question for the tax collector's tag office, and it is far better to sort it out before closing than after.
 
-Missing labels are a different problem. If a section has lost its HUD label, a lender or the park may ask for proof the home was built to the federal standard. We wrote about that in [how a HUD label verification letter works](/blog/hud-label-verification-letter/). A missing label can slow a sale or a loan, so raise it early.
+A missing label is a separate problem. If a section has lost its HUD label, a lender or the park may ask for proof the home was built to the federal standard. We wrote about that in [how a HUD label verification letter works](/blog/hud-label-verification-letter/). It can slow a sale or a loan, so raise it early.
 
-A missing or painted-over frame stamp is also a red flag, not a dead end. Note it, photograph the data plate and the label, and ask the seller how the title was issued.
+If the frame stamp is missing or painted over, that is a red flag, but you can still work with it. Note it, photograph the data plate and the label, and ask the seller how the title was issued.
 
 ## How to Look a Home Up in Marion County
 
@@ -59,19 +59,19 @@ Florida does not give you one national-style history report for a manufactured h
 
 **Step 4: Look at the property appraiser record.** The county property appraiser keeps a public record for the parcel. For a home on owned land, that record shows whether the home is treated as part of the real property. The Marion County Tax Collector says a home permanently affixed to the owner's land and declared as real property gets a permanent "RP" decal, and the owner first needs a DR-402 form from the Property Appraiser's office showing the land and home titles are in the same name. The same page says the RP decal is permanent and transfers to a new owner when the land and home are sold together ([RP decal page](https://mariontax.com/real-property-rp-decals)).
 
-That matters because the two cases are handled differently at sale. A titled home on rented land in a park sells with a title. A home permanently affixed to owned land and declared real property is part of a land transaction. Do not guess which one you are looking at: the decal on the window and the appraiser record will tell you. For questions about titles, liens or how a record should read, the tax collector's tag office is the right place to ask. We do not do title work.
+The two cases are handled differently at sale. A titled home on rented land in a park sells with a title. A home permanently affixed to owned land and declared real property is part of a land transaction. Do not guess which one you are looking at: the decal on the window and the appraiser record will tell you. For questions about titles, liens or how a record should read, the tax collector's tag office is the right place to ask. We do not do title work.
 
 **Step 5: Ask about liens.** If the title shows a lien holder, the lien needs to be released or paid off at closing. Ask the tag office how a lien shows on the record.
 
 ## Finding the Age of Your Mobile Home
 
-"How old is my mobile home" is the usual reason people go hunting for the number. The fastest answer is the date of manufacture on the data plate. If the plate is gone, the title and registration records and the manufacturer's records are the next place to look.
+Most people hunting for the number want to know how old the home is. The fastest answer is the date of manufacture on the data plate. If the plate is gone, the title and registration records and the manufacturer's records are the next place to look.
 
 Age matters in Florida for practical reasons. Homes built before 1976 were made before the federal HUD standard, and insurers, lenders and parks treat them differently. We cover what that means in [pre-1976 mobile homes in Florida](/blog/pre-1976-mobile-homes-florida/). Wind-load rules on the plate also tell you which wind zone the home was built for, and Marion County is HUD Wind Zone II.
 
 ## What the Serial Number Cannot Tell You
 
-A clean paperwork match does not tell you anything about the condition of the home. A serial number will not show you:
+A clean paperwork match says nothing about the condition of the home. A serial number will not show you:
 
 - whether the piers have settled,
 - whether the tie-downs are rusted or missing,
@@ -81,7 +81,7 @@ A clean paperwork match does not tell you anything about the condition of the ho
 
 That is why the paperwork check is step one, not the whole inspection. Walk the home with our [used mobile home inspection checklist](/blog/used-mobile-home-inspection-checklist/) in hand. Doors that stick, cracks over windows and bouncy spots in the floor often point to a home that has moved off level.
 
-An underside look is the part most buyers skip. Anchors and straps, pier condition, the vapor barrier and the belly wrap are all under there. If you are buying and want someone to look, we offer a leveling inspection, and a written estimate is free. If you are selling, [leveling before you sell](/blog/level-mobile-home-before-selling/) is worth reading, because a level home with sound tie-downs and tidy skirting removes a negotiating point. Our page on [mobile home leveling in Ocala](/mobile-home-leveling-ocala/) covers what we do.
+An underside look is the part most buyers skip. Anchors and straps, pier condition, the vapor barrier and the belly wrap are all under there. If you are buying and want someone to look, we offer a leveling inspection, and a written estimate is free. If you are selling, [leveling before you sell](/blog/level-mobile-home-before-selling/) is worth reading: a level home with sound tie-downs and tidy skirting takes a negotiating point off the table. Our page on [mobile home leveling in Ocala](/mobile-home-leveling-ocala/) covers what we do.
 
 ## Quick Checklist Before You Close
 

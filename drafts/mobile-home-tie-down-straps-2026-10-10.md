@@ -11,15 +11,15 @@ Mobile home tie-down straps are flat galvanized steel bands that connect your ho
 
 The rest of this article covers what the spec says, how tight a strap should be, what failing straps look like under a Marion County home, and why we usually replace straps and anchors as a pair.
 
-## What Tie-Down Straps Actually Are
+## What tie-down straps actually are
 
 Strapping is only one part of a tie-down. A complete assembly has a ground anchor screwed into the soil, a strap running from the anchor up to the home, and a connection at the top end. On most homes that connection is a clamp or bolted fitting on the steel frame (the I-beams under the floor). Some homes also have straps that run up a wall or over the roof, which is the style people tend to call "hurricane straps."
 
 Those are the same galvanized strapping used elsewhere, just attached at a different point. The federal installation rule says that sidewall, over-the-roof, mate-line and shear wall straps, if the home has them, must be connected to an anchoring assembly ([24 CFR 3285.403](https://www.ecfr.gov/current/title-24/section-3285.403)). In other words, a strap that ends at nothing is not a tie-down.
 
-We cover how the two main layouts differ in [frame ties versus over-the-top ties](/blog/frame-ties-vs-over-the-top-ties/). The short version: frame ties hold the home to the ground through its steel frame, and over-the-top ties add a strap across the roof line. Which one your home has depends on how it was built and installed. For the anchor end of the assembly, see [mobile home anchor types](/blog/mobile-home-anchor-types/).
+We cover how the two main layouts differ in [frame ties versus over-the-top ties](/blog/frame-ties-vs-over-the-top-ties/). Frame ties hold the home to the ground through its steel frame, and over-the-top ties add a strap across the roof line. Which one your home has depends on how it was built and installed. For the anchor end of the assembly, see [mobile home anchor types](/blog/mobile-home-anchor-types/).
 
-## What the Federal Spec Says About Straps
+## What the federal spec says about straps
 
 The manufacturer's side of the rule is 24 CFR 3280.306, the windstorm protection section of the HUD construction standards. Here is what it says about the equipment, as we read it on the eCFR site:
 
@@ -33,9 +33,9 @@ You can read the full text at [24 CFR 3280.306](https://www.ecfr.gov/current/tit
 
 The installation side is 24 CFR 3285.401. It requires the installation instructions to cover the maximum spacing for diagonal and vertical ties, the angles at which straps attach to the ground anchor and the main frame, the method of strap attachment, and how vertical and diagonal strapping is protected at sharp corners with radius clips or other means ([24 CFR 3285.401](https://www.ecfr.gov/current/title-24/section-3285.401)). Those details live in your home's installation manual, not in one universal number.
 
-A few honest limits. These federal sections set the capacity and the materials. They do not give a tension figure for installed straps, and we are not going to invent one. Florida adds its own installer licensing and tie-down rules on top of the federal ones, which we explain in [Florida mobile home tie-down requirements](/blog/florida-mobile-home-tie-down-requirements/). We will not restate them here.
+A few limits. These federal sections set the capacity and the materials. They do not give a tension figure for installed straps, and we are not going to invent one. Florida adds its own installer licensing and tie-down rules on top of the federal ones, which we explain in [Florida mobile home tie-down requirements](/blog/florida-mobile-home-tie-down-requirements/). We will not restate them here.
 
-## How Tight Should a Tie-Down Strap Be?
+## How tight should a tie-down strap be?
 
 A tie-down strap should be snug and straight, with no visible sag, and no tighter than the installation instructions allow.
 
@@ -45,7 +45,7 @@ Most straps are tightened at the anchor head. The strap passes through a bolt or
 
 If you are wondering how to tighten mobile home tie down straps yourself, there are two cautions. First, a loose strap on an old anchor is usually telling you something about the anchor, not just the strap. If the anchor has pulled out or rotated in the soil, turning the bolt will not fix it. Second, ground anchors and the clamps at the top of the strap are easy to damage, and a strap with a cut or crack can fail when you tension it.
 
-## Releveling Changes Strap Tension
+## Releveling changes strap tension
 
 This one is easy to miss. A tie-down strap is set to a particular distance between the frame and the anchor. Raise the home at one corner and that distance changes.
 
@@ -53,37 +53,35 @@ When a crew jacks a corner up to relevel, the straps near that corner get pulled
 
 So straps should be checked and adjusted any time a home is releveled. That is part of how we do a releveling job: we look at the tie-downs at the same visit, because the level and the strapping affect each other.
 
-## What a Failing Strap Looks Like
+## What a failing strap looks like
 
 Look at each strap along its whole length, from the frame down to where it enters the soil. You need a flashlight and a way to see under the home, which often means crawling or at least kneeling at the skirting access panel.
 
-**Rust at the ground line.** The weak spot is usually where the strap meets the soil or the anchor head. Moisture sits there. Surface rust that wipes off is one thing. Flaking, layered rust that has eaten into the metal, or a strap that is visibly thinner at the ground line, is another.
+Start at the ground line. The weak spot is usually where the strap meets the soil or the anchor head, because moisture sits there. Surface rust that wipes off is one thing. Flaking, layered rust that has eaten into the metal, or a strap that is visibly thinner at that point, is another. A strap sitting in damp ground, standing water, or under a pile of mulch or debris rusts faster.
 
-**Straps buried in wet soil.** A strap that has been sitting in damp ground, in standing water, or under a pile of mulch or debris rusts faster.
+Then look at the frame edges. Remember the rule about protecting straps at sharp corners: a strap that bends over a sharp frame edge without a radius clip or other protection can wear or cut through. Check where the strap turns over the beam. A shiny worn spot, a kink, or a crack in the band is a failed strap even if the rest looks fine.
 
-**Cuts and wear at frame edges.** Remember the rule about protecting straps at sharp corners. A strap that bends over a sharp frame edge without a radius clip or other protection can wear or cut through. Check where the strap turns over the beam. A shiny worn spot, a kink, or a crack in the band is a failed strap even if the rest looks fine.
+Next, count the straps down each side and compare to what the installation manual calls for, if you have it. A strap that has fallen off its clamp, been cut for a plumber or AC installer and never replaced, or is simply absent is a hole in the system. Loose and sagging straps belong in the same pile.
 
-**Loose, sagging or missing straps.** Count the straps down each side and compare to what the installation manual calls for, if you have it. A strap that has fallen off its clamp, been cut for a plumber or AC installer and never replaced, or is simply absent is a hole in the system.
-
-**Bent, cracked or damaged hardware.** The bolts, clamps and fittings at either end are part of the load path. A stripped thread or a hairline crack in a clamp matters as much as a rusty strap.
+Finally, check the hardware. The bolts, clamps and fittings at either end are part of the load path, so a stripped thread or a hairline crack in a clamp matters as much as a rusty strap.
 
 For a deeper look at the anchor itself, including how rust there changes what you do, see [rusted mobile home anchors](/blog/rusted-mobile-home-anchors/).
 
-## Why Straps and Anchors Get Replaced Together
+## Why straps and anchors get replaced together
 
 In practice, when one part of a tie-down has rusted out, the rest usually has too. Straps and anchors went into the ground the same year, in the same soil, with the same moisture. A strap with bad rust at the ground line is usually attached to an anchor whose head, shaft and clamp are in similar shape.
 
-There is also a plain engineering reason. The federal rule treats the tie-down as a rated system, with ground anchor assemblies listed or certified by a testing laboratory or an engineer, and anchoring equipment rated for a working load of at least 3,150 pounds. A new strap on a corroded anchor is only as strong as that anchor. A new anchor on a corroded strap is the same story from the other end.
+There is an engineering reason too. The federal rule treats the tie-down as a rated system, with ground anchor assemblies listed or certified by a testing laboratory or an engineer, and anchoring equipment rated for a working load of at least 3,150 pounds. A new strap on a corroded anchor is only as strong as that anchor. A new anchor on a corroded strap is the same story from the other end.
 
 That does not mean every strap has to be swapped in every case. A single damaged strap on a home that is otherwise in good shape can often be replaced on its own. What we do is inspect the whole assembly at each point before deciding, and tell you what we find.
 
-## What Strap and Anchor Work Costs With Us
+## What strap and anchor work costs with us
 
 Our tie-down and anchor package runs $1,500 to $3,000. That covers the work of installing or replacing the tie-down assembly on the home, and the range depends on the size of the home, the number of straps and anchors, and the condition of what is already there. The estimate is free and in writing. A tie-down certification letter, if your lender or insurer wants one, is $150 to $300.
 
 We do not provide engineering letters. If your insurer or a county office asks for an engineer's stamp, that has to come from a Florida-licensed professional engineer.
 
-## Get Your Straps Looked At
+## Get your straps looked at
 
 If you can see rust at the ground line, a strap that has gone slack, or a strap that is missing, we will look at the tie-down system on your home and tell you what is there. Call us at [(352) 820-4441](tel:+13528204441) or send the details through our [contact page](/contact/). You can also read about the [tie-down and anchor service we offer in Ocala](/mobile-home-tie-downs-ocala/) before you call.
 
